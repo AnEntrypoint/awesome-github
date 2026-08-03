@@ -1,0 +1,10 @@
+{
+  "name": "awesome-github",
+  "private": true,
+  "type": "module",
+  "description": "A continuously refreshed tree of trending GitHub repositories, organized by language.",
+  "scripts": {
+    "scrape": "node scripts/scrape-trending.mjs",
+    "build-readme": "node scripts/build-readme.mjs"
+  }
+}

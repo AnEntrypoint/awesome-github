@@ -80,8 +80,18 @@ function view(rerender) {
 
   return h('div', { class: 'app-shell' },
     h('header', { class: 'site-header' },
-      h('h1', {}, '🌳 awesome-github'),
-      h('p', {}, 'A continuously refreshed tree of trending GitHub repositories, organized by language.')
+      h('div', { class: 'site-header-row' },
+        h('div', {},
+          h('h1', {}, '🌳 awesome-github'),
+          h('p', {}, 'A continuously refreshed tree of trending GitHub repositories, organized by language.')
+        ),
+        h('a', {
+          class: 'star-cta',
+          href: 'https://github.com/AnEntrypoint/awesome-github',
+          target: '_blank',
+          rel: 'noopener noreferrer',
+        }, '⭐ Star on GitHub')
+      )
     ),
     h('div', { class: 'toolbar-row' },
       h('input', {

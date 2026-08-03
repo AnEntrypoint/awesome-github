@@ -25,16 +25,22 @@ export function renderReadme(tree, { generatedAt } = {}) {
   const totalRepos = langs.reduce((n, l) => n + Object.keys(tree[l]).length, 0);
 
   const lines = [];
-  lines.push('# awesome-github');
+  lines.push('# 🌳 awesome-github');
   lines.push('');
-  lines.push('A continuously refreshed tree of trending GitHub repositories, organized by language.');
+  lines.push('[![Stars](https://img.shields.io/github/stars/AnEntrypoint/awesome-github?style=social)](https://github.com/AnEntrypoint/awesome-github/stargazers)');
+  lines.push('[![Last updated](https://img.shields.io/badge/updated-every%206%20hours-blue)](https://github.com/AnEntrypoint/awesome-github/actions/workflows/update.yml)');
+  lines.push('[![Live site](https://img.shields.io/badge/live-flatspace%20tree-brightgreen)](https://anentrypoint.github.io/awesome-github/)');
   lines.push('');
-  lines.push(`Browse it live as an interactive tree: **[flatspace site](./index.html)**`);
+  lines.push('**The best of GitHub, always up to date, zero manual curation.**');
   lines.push('');
-  lines.push(`Sourced from [GitHub Trending](https://github.com/trending) (daily), across ${langs.length} languages. ` +
-    'Entries are only ever added or updated when they re-trend -- never silently removed.');
+  lines.push(`Every day this tree pulls what's trending across ${langs.length} languages and grows -- ` +
+    'nothing is ever removed, only refreshed. No stale awesome-list, no dead links, no PRs to review.');
   lines.push('');
-  lines.push(`_Last updated: ${generatedAt} · ${totalRepos} repos across ${langs.length} languages._`);
+  lines.push('### 👉 [**Browse the live tree**](https://anentrypoint.github.io/awesome-github/) 👈');
+  lines.push('');
+  lines.push(`_${totalRepos} repos across ${langs.length} languages · last updated ${generatedAt}_`);
+  lines.push('');
+  lines.push('If this is useful, a ⭐ on the repo helps more people find it.');
   lines.push('');
   lines.push('## Table of contents');
   lines.push('');

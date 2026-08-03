@@ -1,12 +1,18 @@
-# awesome-github
+# 🌳 awesome-github
 
-A continuously refreshed tree of trending GitHub repositories, organized by language.
+[![Stars](https://img.shields.io/github/stars/AnEntrypoint/awesome-github?style=social)](https://github.com/AnEntrypoint/awesome-github/stargazers)
+[![Last updated](https://img.shields.io/badge/updated-every%206%20hours-blue)](https://github.com/AnEntrypoint/awesome-github/actions/workflows/update.yml)
+[![Live site](https://img.shields.io/badge/live-flatspace%20tree-brightgreen)](https://anentrypoint.github.io/awesome-github/)
 
-Browse it live as an interactive tree: **[flatspace site](./index.html)**
+**The best of GitHub, always up to date, zero manual curation.**
 
-Sourced from [GitHub Trending](https://github.com/trending) (daily), across 40 languages. Entries are only ever added or updated when they re-trend -- never silently removed.
+Every day this tree pulls what's trending across 40 languages and grows -- nothing is ever removed, only refreshed. No stale awesome-list, no dead links, no PRs to review.
 
-_Last updated: 2026-08-03T09:27:09.851Z · 533 repos across 40 languages._
+### 👉 [**Browse the live tree**](https://anentrypoint.github.io/awesome-github/) 👈
+
+_533 repos across 40 languages · last updated 2026-08-03T10:03:04.608Z_
+
+If this is useful, a ⭐ on the repo helps more people find it.
 
 ## Table of contents
 

@@ -10,4 +10,5 @@
 .gm/turn-state.json
 .gm/.embed-generation.*
 .gm/gm.db
+.gm/residual-check-fired
 .agentplug-kv/

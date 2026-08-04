@@ -1,0 +1,13 @@
+.gm/exec-spool/
+.gm/browser-chrome-profile-*/
+.gm/config-source-cache-*/
+.gm/*.sync.json
+.gm/last-dispatch-ts
+.gm/last-instruction-ts
+.gm/last-prompt.txt
+.gm/long-gap-retry-state
+.gm/next-step.md
+.gm/turn-state.json
+.gm/.embed-generation.*
+.gm/gm.db
+.agentplug-kv/

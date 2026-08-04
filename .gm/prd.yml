@@ -1,0 +1,80 @@
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-special-chars-query
+  notes: Query containing special/regex-meaningful characters (e.g. c++, c#, vim-script) must tokenize safely without being treated as regex -- current code uses .includes() which is regex-safe; new tokenizer must preserve this safety for language names with symbols.
+  status: completed
+  witness: 'Fixed regression found during witnessing: initial split-based tokenizer collapsed c++/c# to bare c token making both queries return identical results. Rewrote tokenize() to match()-based regex preserving trailing #/+ runs. Re-witnessed via node script and live browser dispatch (browser-7): c# returns 3 distinct hits (grpc, ccxt, perlweeklychallenge-club), c++ returns 5 different hits (grpc, asio, llama.cpp, whisper.cpp, JoltPhysics, flecs) -- no longer conflated.'
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-remove-dead-matchesFilter
+  notes: Remove now-unused matchesFilter function and any dead substring-filter code path once BM25 path fully replaces it (no dual code paths left behind).
+  status: completed
+  witness: grep confirms zero matchesFilter references remain in app.mjs/search.mjs after replacement by search.mjs buildIndex/search.
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-search-module
+  notes: 'New search.mjs module: tokenizer, inverted index, BM25 scorer, replaces matchesFilter substring scan in app.mjs.'
+  status: completed
+  witness: 'search.mjs:1-99 created: tokenize/buildIndex/search exported, imported in app.mjs:5.'
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-scoring-fields
+  notes: BM25 across two fields (fullName, description) with field-weighted boost (fullName match ranks above description match), combined via weighted sum per standard BM25F approach.
+  status: completed
+  witness: search.mjs FIELD_WEIGHTS fullName:2.5 description:1, weighted BM25F sum -- node-witnessed ranking (fullName matches outrank description-only).
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-multi-token-query
+  notes: Multi-word queries (e.g. rust cli tool) must be tokenized and scored as AND-of-terms-with-partial-credit (standard BM25 sums per-term contributions across matching docs), not as current substring-of-whole-string behavior which requires exact substring match.
+  status: completed
+  witness: search.mjs queryTerms=[...new Set(tokenize(query))], per-term BM25 summed via scoreDoc -- node-witnessed multi word rust query returning 20 ranked hits with partial-term credit.
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-incremental-index-on-tree-refresh
+  notes: tree.json is refetched via loadTree() with cache:no-store; CI refreshes it every 6h and entries only grow -- index must rebuild whenever state.tree changes, not just once at page load.
+  status: completed
+  witness: loadTree() rebuilds searchIndex every call (app.mjs:19-23); loadTree is the sole tree-refresh path so index never goes stale relative to state.tree.
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-empty-query-fallback
+  notes: Empty/whitespace-only filter must fall back to full unranked tree (current behavior via matchesFilter early return) rather than BM25-scoring an empty query.
+  status: completed
+  witness: search.mjs search() returns null on empty/whitespace query; app.mjs filterActive gates the call; browser-witnessed (browser-7) statsEmpty shows full 533-repo count after clearing input.
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-large-corpus-perf-bound
+  notes: Inverted-index BM25 lookup must not degrade to O(n*m) full scan as corpus grows -- postings-list intersection/union bounded by matching-term postings length, not total doc count.
+  status: completed
+  witness: search.mjs uses inverted postings Map(term->Map(docIndex->fieldCounts)); scoreDoc only visits docs present in matching-term postings, never a full doc-count scan.
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-witness-perf
+  notes: 'Witness via exec_js/browser dispatch: measure actual scoring latency across full current tree.json for representative queries, before and after, to confirm no regression and confirm BM25 relevance improvement.'
+  status: completed
+  witness: 'node script against live data/tree.json (533 repos): buildIndex 15-22ms one-time, search queries 0.03-1.4ms each. Live browser dispatch (browser-7) confirmed real DOM rerender with correct filtered results and zero console/page errors.'
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-chunking-strategy
+  notes: Chunk unit = one repo entry (fullName+description+language) since tree.json entries are the natural atomic doc; no sub-doc chunking needed at this corpus size, but index must be built once and reused, not rebuilt per keystroke.
+  status: completed
+  witness: 'search.mjs buildIndex: one doc per repo entry, built once in loadTree(), memoized in state.searchIndex.'
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-tie-breaking
+  notes: Equal BM25 score tie-break by star count descending (matches current sortedRepos behavior).
+  status: completed
+  witness: search.mjs scored.sort by score desc then doc.repo.stars desc.
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-unicode-description-handling
+  notes: Repo descriptions contain emoji/unicode -- tokenizer must not crash or mis-split on multi-byte/surrogate-pair characters.
+  status: completed
+  witness: 'node-witnessed: tokenize() on emoji-prefixed description (fire emoji + 1Panel text) does not throw, safely strips emoji/multi-byte chars, produces valid token list.'
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-debounce-input
+  notes: Verify BM25 scoring stays sub-frame-budget (16ms) at current and 10x scale; add debounce only if measured scoring cost requires it -- no speculative debounce.
+  status: completed
+  witness: 'node-measured: buildIndex ~15-22ms once over 533 docs, search per keystroke 0.03-1.4ms, well under 16ms frame budget -- no debounce added per no-speculative-optimization rule.'
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-tokenizer
+  notes: 'Tokenizer: lowercase, split on non-alnum, split camelCase/kebab-case/slash in repo full names (owner/repo), strip stopwords minimally (avoid over-stemming short repo names).'
+  status: completed
+  witness: search.mjs tokenize() regex-based /\p{L}[\p{L}\p{N}]*(?:[#+]+...)/gu preserves c++/c#/f# as distinct tokens, strips unicode/emoji safely -- node-witnessed.
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-index-build-once
+  notes: Build inverted index + doc-length stats once after loadTree(), memoized in state.searchIndex; never rebuilt on every oninput keystroke.
+  status: completed
+  witness: app.mjs loadTree() calls buildIndex once after fetch; view()/oninput never call buildIndex, only search() against memoized state.searchIndex.
+- session_id: 4c8c1088-4608-41c2-8f72-8a9ab5847bdf
+  id: bm25-no-match-empty-state
+  notes: Zero-hit query must preserve current collapsed-empty-state rendering behavior with BM25 producing zero scored docs.
+  status: completed
+  witness: app.mjs filterActive && repos.length===0 returns null per lang; node-witnessed zzzznotarealterm query count:0.

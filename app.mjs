@@ -2,6 +2,7 @@
 // anentrypoint-design SDK (webjsx-based) straight from a CDN and mounts a
 // TreeView over data/tree.json -- the same JSON the CI scraper maintains.
 import ds from 'https://unpkg.com/anentrypoint-design@latest/dist/247420.js';
+import { buildIndex, search } from './search.mjs';
 
 const { h, mount, loadCss, components } = ds;
 const { TreeView, TreeItem } = components;
@@ -10,19 +11,16 @@ await loadCss();
 
 const state = {
   tree: {},
+  searchIndex: null,
   expanded: new Set(),
   filter: '',
 };
 
 async function loadTree() {
   const res = await fetch('./data/tree.json', { cache: 'no-store' });
-  state.tree = await res.json();
-}
-
-function matchesFilter(fullName, description, filter) {
-  if (!filter) return true;
-  const needle = filter.toLowerCase();
-  return fullName.toLowerCase().includes(needle) || description.toLowerCase().includes(needle);
+  const data = await res.json();
+  state.tree = data && typeof data === 'object' && !Array.isArray(data) ? data : {};
+  state.searchIndex = buildIndex(state.tree);
 }
 
 function sortedLanguages(tree) {
@@ -34,9 +32,22 @@ function sortedRepos(bucket) {
   return Object.entries(bucket).sort((a, b) => b[1].stars - a[1].stars);
 }
 
+function searchResultsByLang(index, filter) {
+  const hits = search(index, filter);
+  if (hits === null) return null;
+  const byLang = new Map();
+  for (const { doc } of hits) {
+    if (!byLang.has(doc.lang)) byLang.set(doc.lang, []);
+    byLang.get(doc.lang).push([doc.fullName, doc.repo]);
+  }
+  return byLang;
+}
+
 function view(rerender) {
   const langs = sortedLanguages(state.tree);
   const totalRepos = langs.reduce((n, l) => n + Object.keys(state.tree[l]).length, 0);
+  const filterActive = state.filter.trim().length > 0;
+  const resultsByLang = filterActive ? searchResultsByLang(state.searchIndex, state.filter) : null;
 
   const toggleLang = (lang) => {
     if (state.expanded.has(lang)) state.expanded.delete(lang);
@@ -46,11 +57,12 @@ function view(rerender) {
 
   const langNodes = langs.map((lang) => {
     const bucket = state.tree[lang];
-    const repos = sortedRepos(bucket).filter(([fullName, r]) =>
-      matchesFilter(fullName, r.description || '', state.filter));
-    if (state.filter && repos.length === 0) return null;
+    const repos = filterActive
+      ? (resultsByLang.get(lang) || [])
+      : sortedRepos(bucket);
+    if (filterActive && repos.length === 0) return null;
 
-    const isExpanded = state.expanded.has(lang) || !!state.filter;
+    const isExpanded = state.expanded.has(lang) || filterActive;
 
     const repoNodes = repos.map(([fullName, r]) =>
       TreeItem({

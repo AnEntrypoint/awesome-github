@@ -1,13 +1,17 @@
 // Buildless vanilla-JS site: no bundler, no npm install. Pulls the
 // anentrypoint-design SDK (webjsx-based) straight from a CDN and mounts a
 // TreeView over data/tree.json -- the same JSON the CI scraper maintains.
-import ds from 'https://unpkg.com/anentrypoint-design@latest/dist/247420.js';
+import ds, { initTheme, onThemeChange, ThemeToggle } from 'https://unpkg.com/anentrypoint-design@latest/dist/247420.js';
 import { buildIndex, search } from './search.mjs';
 
 const { h, mount, loadCss, components } = ds;
 const { TreeView, TreeItem } = components;
 
 await loadCss();
+onThemeChange(({ resolved }) => {
+  document.documentElement.setAttribute('data-theme', resolved);
+});
+initTheme();
 
 const state = {
   tree: {},
@@ -97,12 +101,15 @@ function view(rerender) {
           h('h1', {}, '🌳 awesome-github'),
           h('p', {}, 'A continuously refreshed tree of trending GitHub repositories, organized by language.')
         ),
+        h('div', { class: 'header-actions' },
+        ThemeToggle({ compact: true }),
         h('a', {
           class: 'star-cta',
           href: 'https://github.com/AnEntrypoint/awesome-github',
           target: '_blank',
           rel: 'noopener noreferrer',
         }, '⭐ Star on GitHub')
+        )
       )
     ),
     h('div', { class: 'toolbar-row' },

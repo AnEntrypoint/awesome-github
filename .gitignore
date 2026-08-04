@@ -13,5 +13,6 @@
 .gm/residual-check-fired
 .gm/prd.yml
 .gm/.gm-continue-count
+.gm/witness/
 sh.exe.stackdump
 .agentplug-kv/

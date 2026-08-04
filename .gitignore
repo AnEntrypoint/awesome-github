@@ -11,4 +11,5 @@
 .gm/.embed-generation.*
 .gm/gm.db
 .gm/residual-check-fired
+.gm/prd.yml
 .agentplug-kv/

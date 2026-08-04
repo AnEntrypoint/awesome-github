@@ -10,7 +10,7 @@ Every day this tree pulls what's trending across 40 languages and grows -- nothi
 
 ### [**Browse the live tree**](https://anentrypoint.github.io/awesome-github/)
 
-_1182 repos across 40 languages · last updated 2026-08-04T14:03:18.995Z_
+_1182 repos across 40 languages · last updated 2026-08-04T14:30:09.865Z_
 
 If this is useful, a star on the repo helps more people find it.
 
@@ -61,10 +61,10 @@ If this is useful, a star on the repo helps more people find it.
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 | 129,146 |
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | 88,804 |
+| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 | 129,148 |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | 88,806 |
 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. | 81,235 |
-| [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | Free and Open Source, Distributed, RESTful Search Engine | 77,726 |
+| [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | Free and Open Source, Distributed, RESTful Search Engine | 77,725 |
 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | 71,855 |
 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java | 66,101 |
 | [termux/termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. | 58,621 |
@@ -84,7 +84,7 @@ If this is useful, a star on the repo helps more people find it.
 | [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs. | 23,364 |
 | [openjdk/jdk](https://github.com/openjdk/jdk) | JDK main-line development <a href="https://openjdk.org/projects/jdk" class="Link--inTextBlock" rel="nofollow">https://openjdk.org/projects/jdk</a> | 23,183 |
 | [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) | Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. | 17,564 |
-| [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) | 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄 | 17,413 |
+| [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) | 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄 | 17,414 |
 | [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) | Open source alternative to Auth0 / Firebase Auth / AWS Cognito | 15,245 |
 | [apache/druid](https://github.com/apache/druid) | Apache Druid: a high performance real-time analytics database. | 14,040 |
 | [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) | 🔎 Open source distributed and RESTful search engine. | 13,454 |
@@ -131,11 +131,11 @@ If this is useful, a star on the repo helps more people find it.
 | [monicahq/monica](https://github.com/monicahq/monica) | Personal CRM. Remember everything about your friends, family and business relationships. | 24,957 |
 | [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) | Firefly III: a personal finances manager | 24,228 |
 | [livewire/livewire](https://github.com/livewire/livewire) | A full-stack framework for Laravel that takes the pain out of building dynamic UIs. | 23,569 |
-| [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 | 16,378 |
-| [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | A free, self-hostable news aggregator… | 15,691 |
+| [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 | 16,379 |
+| [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | A free, self-hostable news aggregator… | 15,690 |
 | [grokability/snipe-it](https://github.com/grokability/snipe-it) | A free open source IT asset/license management system | 14,730 |
 | [phpstan/phpstan](https://github.com/phpstan/phpstan) | PHP Static Analysis Tool - discover bugs in your code without running it! | 14,056 |
-| [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) | A tool to automatically fix PHP Coding Standards issues | 13,546 |
+| [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) | A tool to automatically fix PHP Coding Standards issues | 13,545 |
 | [digininja/DVWA](https://github.com/digininja/DVWA) | Damn Vulnerable Web Application (DVWA) | 13,454 |
 | [typecho/typecho](https://github.com/typecho/typecho) | A PHP Blogging Platform. Simple and Powerful. | 12,417 |
 | [magento/magento2](https://github.com/magento/magento2) | Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: <a href="https://opensource.adobe.com/cla.html" class="Link--inTextBlock" rel="nofollow">https://opensource.adobe.com/cla.html</a>. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement. | 12,156 |
@@ -180,38 +180,38 @@ If this is useful, a star on the repo helps more people find it.
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [golang/go](https://github.com/golang/go) | The Go programming language | 135,580 |
-| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | 124,213 |
+| [golang/go](https://github.com/golang/go) | The Go programming language | 135,581 |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | 124,214 |
 | [gohugoio/hugo](https://github.com/gohugoio/hugo) | The world’s fastest framework for building websites. | 89,309 |
 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization | 87,256 |
 | [junegunn/fzf](https://github.com/junegunn/fzf) | 🌸 A command-line fuzzy finder | 82,261 |
 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | 74,634 |
-| [moby/moby](https://github.com/moby/moby) | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | 71,974 |
+| [moby/moby](https://github.com/moby/moby) | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems | 71,975 |
 | [traefik/traefik](https://github.com/traefik/traefik) | The Cloud Native Application Proxy | 64,253 |
-| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | Go implementation of the Ethereum protocol | 51,266 |
+| [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | Go implementation of the Ethereum protocol | 51,265 |
 | [AlistGo/alist](https://github.com/AlistGo/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 | 49,993 |
 | [spf13/cobra](https://github.com/spf13/cobra) | A Commander for modern Go CLI interactions | 44,387 |
 | [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto) | 44,214 |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. | 43,838 |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. | 43,847 |
 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. | 43,318 |
 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. | 40,840 |
 | [docker/compose](https://github.com/docker/compose) | Define and run multi-container applications with Docker | 37,952 |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | 37,235 |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more | 37,236 |
 | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform | 36,711 |
 | [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface. | 36,419 |
 | [restic/restic](https://github.com/restic/restic) | Fast, secure, efficient backup program | 35,339 |
 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. | 34,787 |
 | [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) | A platform for building proxies to bypass network restrictions. | 34,435 |
 | [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) | Send push notifications to your phone or desktop using PUT/POST | 32,794 |
-| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. | 30,561 |
+| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. | 30,577 |
 | [spf13/viper](https://github.com/spf13/viper) | Go configuration with fangs | 30,419 |
-| [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. | 30,278 |
+| [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. | 30,280 |
 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity | 29,806 |
 | [authelia/authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™ | 28,449 |
 | [stretchr/testify](https://github.com/stretchr/testify) | A toolkit with common assertions and mocks that plays nicely with the standard library | 26,147 |
-| [gastownhall/beads](https://github.com/gastownhall/beads) | Beads - A memory upgrade for your coding agent | 25,957 |
+| [gastownhall/beads](https://github.com/gastownhall/beads) | Beads - A memory upgrade for your coding agent | 25,959 |
 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | Pulumi - Infrastructure as Code in any programming language 🚀 | 25,522 |
-| [dolthub/dolt](https://github.com/dolthub/dolt) | Dolt – Git for Data | 24,058 |
+| [dolthub/dolt](https://github.com/dolthub/dolt) | Dolt – Git for Data | 24,059 |
 | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | Declarative Continuous Deployment for Kubernetes | 23,835 |
 | [micro/go-micro](https://github.com/micro/go-micro) | A Go agent harness and service framework | 22,995 |
 | [chaitin/SafeLine](https://github.com/chaitin/SafeLine) | SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. | 22,256 |
@@ -222,11 +222,11 @@ If this is useful, a star on the repo helps more people find it.
 | [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | Ultimate camera streaming application | 13,743 |
 | [kubescape/kubescape](https://github.com/kubescape/kubescape) | Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. | 11,559 |
 | [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) | AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube | 10,643 |
-| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. | 6,890 |
+| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. | 6,891 |
 | [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) | WhatsApp MCP server | 6,058 |
 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) |  | 5,331 |
-| [superplanehq/superplane](https://github.com/superplanehq/superplane) | The open source control plane for agentic engineering. | 4,549 |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | Heterogeneous GPU Sharing on Kubernetes | 4,180 |
+| [superplanehq/superplane](https://github.com/superplanehq/superplane) | The open source control plane for agentic engineering. | 4,552 |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | Heterogeneous GPU Sharing on Kubernetes | 4,181 |
 | [zzet/gortex](https://github.com/zzet/gortex) | High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: <a href="https://discord.gg/ysC2prTGD" class="Link--inTextBlock" rel="nofollow">https://discord.gg/ysC2prTGD</a> | 1,061 |
 | [github/gh-stack](https://github.com/github/gh-stack) | GitHub Stacked PRs | 1,024 |
 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | Agent Substrate: the core system | 958 |
@@ -243,14 +243,14 @@ If this is useful, a star on the repo helps more people find it.
 | [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree | 89,774 |
 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ | 52,544 |
 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | ClickHouse® is a real-time analytics database management system | 49,046 |
-| [grpc/grpc](https://github.com/grpc/grpc) | C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) | 45,245 |
+| [grpc/grpc](https://github.com/grpc/grpc) | C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) | 45,246 |
 | [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client | 39,235 |
 | [google/googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework | 38,895 |
-| [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) | Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) | 33,847 |
+| [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) | Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) | 33,846 |
 | [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) | Compatibility tool for Steam Play based on Wine and additional components | 32,441 |
 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ | 32,367 |
 | [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | Android real-time display control software | 30,888 |
-| [gabime/spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library. | 29,348 |
+| [gabime/spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library. | 29,350 |
 | [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | An MCP-based chatbot \| 一个基于MCP的聊天机器人 | 28,630 |
 | [dmlc/xgboost](https://github.com/dmlc/xgboost) | Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow | 28,624 |
 | [argotorg/solidity](https://github.com/argotorg/solidity) | Solidity, the Smart Contract Programming Language | 25,692 |
@@ -267,7 +267,7 @@ If this is useful, a star on the repo helps more people find it.
 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | ArduPlane, ArduCopter, ArduRover, ArduSub source | 15,604 |
 | [OrcaSlicer/OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) | 15,319 |
 | [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) | very currency | 15,245 |
-| [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) | Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets. | 15,137 |
+| [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) | Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets. | 15,140 |
 | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. | 12,861 |
 | [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) | FlashMLA: Efficient Multi-head Latent Attention Kernels | 12,817 |
 | [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 | 11,790 |
@@ -287,17 +287,17 @@ If this is useful, a star on the repo helps more people find it.
 | [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol | 5,306 |
 | [lightvector/KataGo](https://github.com/lightvector/KataGo) | GTP engine and self-play learning in Go | 4,908 |
 | [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) | Community maintained hardware plugin for vLLM on Ascend | 2,555 |
-| [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client) | A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models. | 769 |
+| [orailnoor/cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client) | A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models. | 771 |
 
 ## rust
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io | 124,264 |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io | 124,276 |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | 119,493 |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | 115,159 |
-| [denoland/deno](https://github.com/denoland/deno) | A modern runtime for JavaScript and TypeScript. | 107,996 |
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies | 74,652 |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. | 115,162 |
+| [denoland/deno](https://github.com/denoland/deno) | A modern runtime for JavaScript and TypeScript. | 108,000 |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies | 74,658 |
 | [rust-lang/rustlings](https://github.com/rust-lang/rustlings) | 🦀 Small exercises to get you used to reading and writing Rust code! | 63,742 |
 | [sharkdp/bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | 60,081 |
 | [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | Open-source, community-driven agent harness | 40,433 |
@@ -306,7 +306,7 @@ If this is useful, a star on the repo helps more people find it.
 | [pnpm/pnpm](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager | 35,955 |
 | [zellij-org/zellij](https://github.com/zellij-org/zellij) | A terminal workspace with batteries included | 34,701 |
 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud <a href="https://cloud.qdrant.io/" class="Link--inTextBlock" rel="nofollow">https://cloud.qdrant.io/</a> | 33,772 |
-| [tokio-rs/tokio](https://github.com/tokio-rs/tokio) | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... | 32,782 |
+| [tokio-rs/tokio](https://github.com/tokio-rs/tokio) | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... | 32,783 |
 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀 | 32,492 |
 | [vercel/turborepo](https://github.com/vercel/turborepo) | Build system optimized for JavaScript and TypeScript, written in Rust | 30,845 |
 | [emilk/egui](https://github.com/emilk/egui) | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native | 29,952 |
@@ -326,18 +326,18 @@ If this is useful, a star on the repo helps more people find it.
 | [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) | A bunch of lints to catch common mistakes and improve your Rust code. Book: <a href="https://doc.rust-lang.org/clippy/" class="Link--inTextBlock" rel="nofollow">https://doc.rust-lang.org/clippy/</a> | 13,420 |
 | [longbridge/gpui-component](https://github.com/longbridge/gpui-component) | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. | 12,408 |
 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps. | 12,054 |
-| [moghtech/komodo](https://github.com/moghtech/komodo) | 🦎 a tool to build and deploy software on many servers 🦎 | 11,812 |
+| [moghtech/komodo](https://github.com/moghtech/komodo) | 🦎 a tool to build and deploy software on many servers 🦎 | 11,813 |
 | [rerun-io/rerun](https://github.com/rerun-io/rerun) | Visualize, query, and stream to train on multimodal robotics data. | 11,246 |
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. | 9,411 |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. | 9,447 |
 | [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. | 9,256 |
 | [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) | Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale. | 9,212 |
 | [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) | A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations. | 8,486 |
 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. | 8,179 |
 | [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) | ⚙️🦀 Build modular and scalable LLM Applications in Rust | 8,162 |
-| [katanemo/plano](https://github.com/katanemo/plano) | Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic. | 6,946 |
+| [katanemo/plano](https://github.com/katanemo/plano) | Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic. | 6,947 |
 | [facebook/pyrefly](https://github.com/facebook/pyrefly) | A fast type checker and language server for Python | 6,850 |
 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. | 5,560 |
-| [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG). | 5,231 |
+| [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG). | 5,235 |
 | [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) | The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil. | 4,607 |
 | [LargeModGames/spotatui](https://github.com/LargeModGames/spotatui) | A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources. | 1,135 |
 | [milos-agathon/forge3d](https://github.com/milos-agathon/forge3d) | Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering. Built in Rust, shipped as Python wheels. | 570 |
@@ -352,7 +352,7 @@ If this is useful, a star on the repo helps more people find it.
 | [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | <img class="emoji" title=":trollface:" alt=":trollface:" src="https://github.githubassets.com/images/icons/emoji/trollface.png" height="20" width="20" align="absmiddle"> A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） | 38,353 |
 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. | 38,351 |
 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers | 25,348 |
-| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. | 25,273 |
+| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. | 25,289 |
 | [dotnet/maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. | 23,289 |
 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. | 20,593 |
 | [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) | CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！ | 19,243 |
@@ -370,16 +370,16 @@ If this is useful, a star on the repo helps more people find it.
 | [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity. | 13,122 |
 | [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) | Saves Discord chat logs to a file | 11,682 |
 | [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) | Driver Store Explorer | 11,302 |
-| [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) | Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services. | 9,141 |
+| [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) | Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services. | 9,142 |
 | [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) | GUI application to analyze game files | 8,055 |
 | [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) | Free, open-source Windows optimization tool for performance, privacy, and simplicity. | 8,019 |
 | [mob-sakai/UIEffect](https://github.com/mob-sakai/UIEffect) | UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to decorate your UI with a unique visual style! | 7,514 |
 | [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) | Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers. | 6,950 |
 | [actions/runner](https://github.com/actions/runner) | The Runner for GitHub Actions 🚀 | 6,157 |
-| [mob-sakai/ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) | Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas. | 5,917 |
+| [mob-sakai/ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) | Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas. | 5,918 |
 | [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) | A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations | 5,524 |
 | [kwsch/PKHeX](https://github.com/kwsch/PKHeX) | Pokémon Save File Editor | 5,011 |
-| [dotnet/skills](https://github.com/dotnet/skills) | Repository for skills to assist AI coding agents with .NET and C# | 4,922 |
+| [dotnet/skills](https://github.com/dotnet/skills) | Repository for skills to assist AI coding agents with .NET and C# | 4,924 |
 | [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) | This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application. | 4,868 |
 | [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) | A real WinUI desktop cleaner with terminal control and multi-database support | 4,701 |
 | [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) | The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono | 4,076 |
@@ -399,63 +399,63 @@ If this is useful, a star on the repo helps more people find it.
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. | 360,893 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | 225,282 |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. | 360,897 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | 225,300 |
 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader | 182,137 |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | 130,425 |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | 130,433 |
 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. | 102,100 |
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. | 101,327 |
 | [django/django](https://github.com/django/django) | The Web framework for perfectionists with deadlines. | 88,322 |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | 88,192 |
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | 79,248 |
 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers | 78,763 |
-| [python/cpython](https://github.com/python/cpython) | The Python programming language | 74,128 |
+| [python/cpython](https://github.com/python/cpython) | The Python programming language | 74,129 |
 | [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw" class="Link--inTextBlock" rel="nofollow">https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw</a> | 69,912 |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | 66,302 |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | 66,314 |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary | 57,091 |
 | [pandas-dev/pandas](https://github.com/pandas-dev/pandas) | Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more | 49,410 |
-| [usestrix/strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. | 47,855 |
-| [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) | Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC. | 45,815 |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported) | 44,271 |
+| [usestrix/strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. | 47,882 |
+| [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) | Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC. | 45,816 |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported) | 44,274 |
 | [ccxt/ccxt](https://github.com/ccxt/ccxt) | A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java | 43,513 |
 | [PostHog/posthog](https://github.com/PostHog/posthog) | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. | 37,491 |
 | [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) | Easily train a good VC model with voice data <= 10 mins! | 37,073 |
 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Kronos: A Foundation Model for the Language of Financial Markets | 35,939 |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. | 32,613 |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. | 32,615 |
 | [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) | Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products. | 27,761 |
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Machine Learning Systems | 27,714 |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Machine Learning Systems | 27,716 |
 | [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | 25,521 |
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. | 23,787 |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. | 23,788 |
 | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | Prefect is a workflow orchestration framework for building resilient data pipelines in Python. | 23,537 |
 | [comet-ml/opik](https://github.com/comet-ml/opik) | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. | 21,103 |
 | [python/mypy](https://github.com/python/mypy) | Optional static typing for Python | 20,572 |
-| [browser-use/video-use](https://github.com/browser-use/video-use) | Edit videos with coding agents | 19,042 |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | Edit videos with coding agents | 19,058 |
 | [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) | Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team \| Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 | 18,038 |
-| [livekit/agents](https://github.com/livekit/agents) | A framework for building realtime voice AI agents 🤖🎙️📹 | 12,246 |
+| [livekit/agents](https://github.com/livekit/agents) | A framework for building realtime voice AI agents 🤖🎙️📹 | 12,252 |
 | [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation. | 12,032 |
 | [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) | Native and Compact Structured Latents for 3D Generation | 10,356 |
-| [spesmilo/electrum](https://github.com/spesmilo/electrum) | Electrum Bitcoin Wallet | 8,543 |
+| [spesmilo/electrum](https://github.com/spesmilo/electrum) | Electrum Bitcoin Wallet | 8,544 |
 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) |  | 8,261 |
 | [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0) | Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0 | 6,007 |
 | [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) | TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatGPT, Cursor & any MCP client. Stocks, crypto, forex & futures across global exchanges. Hosted or self-host. | 3,766 |
 | [music-assistant/server](https://github.com/music-assistant/server) | Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. | 2,915 |
 | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs | 2,507 |
-| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. | 1,463 |
+| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. | 1,469 |
 | [Coldcard/firmware](https://github.com/Coldcard/firmware) | ❄️ Firmware and simulator for Coldcard Hardware Wallet | 749 |
-| [uber/ADR](https://github.com/uber/ADR) | ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. | 554 |
+| [uber/ADR](https://github.com/uber/ADR) | ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. | 560 |
 
 ## ruby
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [rails/rails](https://github.com/rails/rails) | Ruby on Rails | 58,672 |
+| [rails/rails](https://github.com/rails/rails) | Ruby on Rails | 58,674 |
 | [jekyll/jekyll](https://github.com/jekyll/jekyll) | 🌐 Jekyll is a blog-aware static site generator in Ruby | 51,611 |
-| [mastodon/mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community | 50,165 |
+| [mastodon/mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community | 50,164 |
 | [Homebrew/brew](https://github.com/Homebrew/brew) | 🍺 The Package Manager for Everywhere | 49,050 |
 | [discourse/discourse](https://github.com/discourse/discourse) | A platform for community discussion. Free, open, simple. | 47,594 |
 | [fastlane/fastlane](https://github.com/fastlane/fastlane) | 🚀 The easiest way to automate building and releasing your iOS and Android apps | 41,932 |
 | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | API Documentation Browser | 39,251 |
-| [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | 38,736 |
+| [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | 38,737 |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 | 35,464 |
 | [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) | GitLab CE Mirror \| Please open new issues in our issue tracker on GitLab.com | 24,525 |
 | [ruby/ruby](https://github.com/ruby/ruby) | The Ruby Programming Language | 23,670 |
@@ -501,7 +501,7 @@ If this is useful, a star on the repo helps more people find it.
 | [2dust/v2rayNG](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core | 60,588 |
 | [JetBrains/kotlin](https://github.com/JetBrains/kotlin) | The Kotlin Programming Language. | 53,278 |
 | [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \| An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules | 40,645 |
-| [mihonapp/mihon](https://github.com/mihonapp/mihon) | Free and open source manga reader for Android | 22,533 |
+| [mihonapp/mihon](https://github.com/mihonapp/mihon) | Free and open source manga reader for Android | 22,534 |
 | [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) | NekoBox for Android / sing-box / universal proxy toolchain for Android | 22,134 |
 | [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | Painless E2E Automation for Mobile and Web | 15,200 |
 | [JingMatrix/Vector](https://github.com/JingMatrix/Vector) | Modern Xposed Framework | 11,967 |
@@ -516,16 +516,16 @@ If this is useful, a star on the repo helps more people find it.
 | [nextcloud/android](https://github.com/nextcloud/android) | 📱 Nextcloud Android app | 5,489 |
 | [HapeLee/legado-with-MD3](https://github.com/HapeLee/legado-with-MD3) | 使用 Material Design 3 全新设计的阅读 3.0 | 5,457 |
 | [rukamori/ArchiveTune](https://github.com/rukamori/ArchiveTune) | 🌸 The Cutest Music Player With Support Local File and Youtube Music for Android! | 4,168 |
-| [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai) | 原生、纯净、可扩展 —— 重新定义你的 B 站体验 | 4,080 |
+| [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai) | 原生、纯净、可扩展 —— 重新定义你的 B 站体验 | 4,081 |
 | [embabel/embabel-agent](https://github.com/embabel/embabel-agent) | Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ | 3,940 |
 | [videolan/vlc-android](https://github.com/videolan/vlc-android) | VLC for Android, Android TV and ChromeOS | 3,912 |
 | [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) | Android Client for Jellyfin | 2,667 |
-| [cat3399/blbl](https://github.com/cat3399/blbl) | 一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5 | 2,559 |
+| [cat3399/blbl](https://github.com/cat3399/blbl) | 一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5 | 2,560 |
 | [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) | Tailscale Android Client | 2,362 |
 | [element-hq/element-x-android](https://github.com/element-hq/element-x-android) | Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose | 2,307 |
 | [Fate-Grand-Automata/FGA](https://github.com/Fate-Grand-Automata/FGA) | Auto-battle app for F/GO Android | 2,285 |
 | [Luoyacheng/legado-E](https://github.com/Luoyacheng/legado-E) | 阅读Sigma是legado的继承，保持开源免费，延续开源精神。 | 2,265 |
-| [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) | Headunit App for displaying Android Auto | 2,057 |
+| [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) | Headunit App for displaying Android Auto | 2,058 |
 | [dmzz-yyhyy/LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) | 一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。 | 1,909 |
 | [Arturo254/OpenTune](https://github.com/Arturo254/OpenTune) | Un cliente de YouTube Music con Material Design 3, para Android | 1,791 |
 | [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) | WhatsApp tools for Android | 1,604 |
@@ -536,7 +536,7 @@ If this is useful, a star on the repo helps more people find it.
 | [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) | Modern camera app focused on privacy and security with QR & barcode scanning. | 1,339 |
 | [Aliothmoon/MAA-Meow](https://github.com/Aliothmoon/MAA-Meow) | 《明日方舟》小助手Android版，全日常一键长草！\| A one-click tool for the daily tasks of Arknights, supporting all clients. | 1,192 |
 | [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | [ HOBBY PROJECT ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find. [WIP - Development slowed due to new job] | 600 |
-| [LegadoTeam/legado](https://github.com/LegadoTeam/legado) | Legado 3.0 Book Reader with powerful controls | 577 |
+| [LegadoTeam/legado](https://github.com/LegadoTeam/legado) | Legado 3.0 Book Reader with powerful controls | 580 |
 | [sfsakhawat999/mpvRex](https://github.com/sfsakhawat999/mpvRex) | A modern Android video player powered by libmpv, built with Jetpack Compose. | 476 |
 | [woocommerce/woocommerce-android](https://github.com/woocommerce/woocommerce-android) | WooCommerce Android app | 317 |
 
@@ -591,20 +591,20 @@ If this is useful, a star on the repo helps more people find it.
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | 137,452 |
-| [redis/redis](https://github.com/redis/redis) | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine. | 75,869 |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | 137,454 |
+| [redis/redis](https://github.com/redis/redis) | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine. | 75,870 |
 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | 74,515 |
-| [tmux/tmux](https://github.com/tmux/tmux) | tmux source code | 48,376 |
+| [tmux/tmux](https://github.com/tmux/tmux) | tmux source code | 48,377 |
 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 🎥 Command line media player | 36,310 |
-| [jqlang/jq](https://github.com/jqlang/jq) | Command-line JSON processor | 35,388 |
+| [jqlang/jq](https://github.com/jqlang/jq) | Command-line JSON processor | 35,389 |
 | [nothings/stb](https://github.com/nothings/stb) | stb single-file public domain libraries for C/C++ | 34,340 |
 | [nginx/nginx](https://github.com/nginx/nginx) | The official NGINX Open Source repository. | 31,319 |
-| [openssl/openssl](https://github.com/openssl/openssl) | General purpose TLS and crypto library | 30,557 |
-| [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | ehviewer，用爱发电，快乐前行 | 25,861 |
+| [openssl/openssl](https://github.com/openssl/openssl) | General purpose TLS and crypto library | 30,558 |
+| [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | ehviewer，用爱发电，快乐前行 | 25,862 |
 | [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's development repository | 23,923 |
 | [micropython/micropython](https://github.com/micropython/micropython) | MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems | 21,961 |
 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | Open-source keyboard firmware for Atmel AVR and Arm USB families | 20,591 |
-| [antirez/ds4](https://github.com/antirez/ds4) | DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm | 20,518 |
+| [antirez/ds4](https://github.com/antirez/ds4) | DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm | 20,522 |
 | [karpathy/llama2.c](https://github.com/karpathy/llama2.c) | Inference Llama 2 in one file of pure C | 19,917 |
 | [brunodev85/winlator](https://github.com/brunodev85/winlator) | Android application for running Windows applications with Wine and Box86/Box64 | 18,454 |
 | [systemd/systemd](https://github.com/systemd/systemd) | The systemd System and Service Manager | 16,556 |
@@ -637,7 +637,7 @@ If this is useful, a star on the repo helps more people find it.
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [apple/container](https://github.com/apple/container) | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. | 48,613 |
+| [apple/container](https://github.com/apple/container) | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. | 48,614 |
 | [iina/iina](https://github.com/iina/iina) | The modern video player for macOS. | 45,803 |
 | [exelban/stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | 40,948 |
 | [utmapp/UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS | 34,878 |
@@ -664,7 +664,7 @@ If this is useful, a star on the repo helps more people find it.
 | [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) | On-device Speech AI for Apple Silicon | 6,306 |
 | [ejbills/DockDoor](https://github.com/ejbills/DockDoor) | Window peeking, alt-tab and other enhancements for macOS | 5,799 |
 | [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) | The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription | 5,755 |
-| [momenbasel/PureMac](https://github.com/momenbasel/PureMac) | Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed. | 5,579 |
+| [momenbasel/PureMac](https://github.com/momenbasel/PureMac) | Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed. | 5,580 |
 | [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) | Free and open source manga reader for iOS and iPadOS | 4,418 |
 | [swiftlang/swift-syntax](https://github.com/swiftlang/swift-syntax) | A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code. | 3,687 |
 | [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio) | Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source. | 2,602 |
@@ -672,7 +672,7 @@ If this is useful, a star on the repo helps more people find it.
 | [home-assistant/iOS](https://github.com/home-assistant/iOS) | 📱 Home Assistant for Apple platforms | 2,283 |
 | [supabitapp/supacode](https://github.com/supabitapp/supacode) | worktree coding agents command center. | 2,230 |
 | [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) | A simple Markdown viewer for reading .md files | 1,761 |
-| [sozercan/kaset](https://github.com/sozercan/kaset) | 📼 The missing YouTube and YouTube Music macOS app | 1,733 |
+| [sozercan/kaset](https://github.com/sozercan/kaset) | 📼 The missing YouTube and YouTube Music macOS app | 1,734 |
 | [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) | The official Swift SDK for Model Context Protocol servers and clients. | 1,457 |
 | [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) | A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance. | 1,391 |
 | [rooootdev/lara](https://github.com/rooootdev/lara) | iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 & iOS 26.0.x, excluding M5 and A19. | 1,383 |
@@ -685,16 +685,16 @@ If this is useful, a star on the repo helps more people find it.
 | [vuejs/vue](https://github.com/vuejs/vue) | This is the repo for Vue 2. For Vue 3, go to <a href="https://github.com/vuejs/core" class="Link--inTextBlock">https://github.com/vuejs/core</a> | 210,176 |
 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | 135,094 |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | 126,019 |
-| [angular/angular](https://github.com/angular/angular) | Deliver web apps with confidence 🚀 | 100,728 |
-| [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | 96,287 |
+| [angular/angular](https://github.com/angular/angular) | Deliver web apps with confidence 🚀 | 100,734 |
+| [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | 96,294 |
 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation | 90,754 |
 | [grafana/grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. | 76,020 |
 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work | 75,489 |
 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | 71,169 |
 | [reduxjs/redux](https://github.com/reduxjs/redux) | A JS library for predictable global state management | 61,510 |
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. | 50,690 |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source AI voice studio. Clone, dictate, create. | 49,050 |
-| [prisma/prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript \| PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB | 47,527 |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. | 50,692 |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source AI voice studio. Clone, dictate, create. | 49,057 |
+| [prisma/prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript \| PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB | 47,526 |
 | [babel/babel](https://github.com/babel/babel) | 🐠 Babel is a compiler for writing next generation JavaScript. | 43,974 |
 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors | 38,294 |
 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 📨 The ultimate agentic social media scheduling tool 🤖 | 34,249 |
@@ -702,22 +702,22 @@ If this is useful, a star on the repo helps more people find it.
 | [nrwl/nx](https://github.com/nrwl/nx) | The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time. | 29,192 |
 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | 28,075 |
 | [actualbudget/actual](https://github.com/actualbudget/actual) | A local-first personal finance app | 27,936 |
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more | 23,782 |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more | 23,784 |
 | [slopus/happy](https://github.com/slopus/happy) | Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured | 23,094 |
-| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you | 22,576 |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you | 22,577 |
 | [darkreader/darkreader](https://github.com/darkreader/darkreader) | Dark Reader Chrome and Firefox extension | 22,239 |
 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more | 21,716 |
 | [different-ai/openwork](https://github.com/different-ai/openwork) | The open-source alternative to Claude Cowork (powered by opencode) | 20,631 |
 | [elizaOS/eliza](https://github.com/elizaOS/eliza) | Open source agentic operating system | 18,887 |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. | 12,943 |
-| [facebook/astryx](https://github.com/facebook/astryx) | An open source design system that's fully customizable and agent ready | 11,543 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. | 12,973 |
+| [facebook/astryx](https://github.com/facebook/astryx) | An open source design system that's fully customizable and agent ready | 11,547 |
 | [meshery/meshery](https://github.com/meshery/meshery) | Meshery, the cloud native manager | 11,428 |
 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities | 9,147 |
 | [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) | A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind. | 9,134 |
 | [Narcooo/inkos](https://github.com/Narcooo/inkos) | Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content | 8,662 |
 | [actions/checkout](https://github.com/actions/checkout) | Action for checking out a repo | 8,601 |
-| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | Generate code from the terminal! | 8,296 |
-| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. | 7,138 |
+| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | Generate code from the terminal! | 8,297 |
+| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. | 7,147 |
 | [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) | Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS. | 4,373 |
 | [microsoft/flint-chart](https://github.com/microsoft/flint-chart) | 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs. | 3,309 |
 
@@ -725,14 +725,14 @@ If this is useful, a star on the repo helps more people find it.
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [flutter/flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 178,161 |
+| [flutter/flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 178,162 |
 | [localsend/localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | 86,723 |
 | [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source music streaming app! Available for both desktop & mobile! | 48,130 |
-| [chen08209/FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. | 47,606 |
+| [chen08209/FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. | 47,608 |
 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. | 31,869 |
 | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | 28,403 |
-| [ente/ente](https://github.com/ente/ente) | 💚 End-to-end encrypted cloud for everything. | 28,137 |
-| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | PiliPlus | 16,768 |
+| [ente/ente](https://github.com/ente/ente) | 💚 End-to-end encrypted cloud for everything. | 28,138 |
+| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | PiliPlus | 16,769 |
 | [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) | 简简单单的看直播 | 15,888 |
 | [KaringX/karing](https://github.com/KaringX/karing) | Simple & Powerful proxy utility, Support routing rules for clash/sing-box | 14,075 |
 | [dart-lang/sdk](https://github.com/dart-lang/sdk) | The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more. | 11,232 |
@@ -745,7 +745,7 @@ If this is useful, a star on the repo helps more people find it.
 | [sass/dart-sass](https://github.com/sass/dart-sass) | The reference implementation of Sass, written in Dart. | 4,213 |
 | [gokadzev/Musify](https://github.com/gokadzev/Musify) | Unlock the full potential of music: Stream effortlessly with one app! | 4,105 |
 | [kodjodevf/mangayomi](https://github.com/kodjodevf/mangayomi) | Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows | 3,634 |
-| [Chevey339/kelivo](https://github.com/Chevey339/kelivo) | A Flutter LLM Chat Client. Support Mobile & Desktop. | 3,484 |
+| [Chevey339/kelivo](https://github.com/Chevey339/kelivo) | A Flutter LLM Chat Client. Support Mobile & Desktop. | 3,486 |
 | [flutter/website](https://github.com/flutter/website) | Flutter documentation web site | 3,106 |
 | [edde746/plezy](https://github.com/edde746/plezy) | Modern cross-platform Plex & Jellyfin client built with Flutter | 3,041 |
 | [shorebirdtech/shorebird](https://github.com/shorebirdtech/shorebird) | Code Push for Flutter and other tools for Flutter businesses. | 3,015 |
@@ -760,14 +760,14 @@ If this is useful, a star on the repo helps more people find it.
 | [pounat/absorb](https://github.com/pounat/absorb) | A cross platform Audiobookshelf client for Android and iOS | 574 |
 | [heckmon/roxum-ide](https://github.com/heckmon/roxum-ide) | A minimal and powerful IDE/Code editor for Android | 516 |
 | [fluxerapp/flutter_client](https://github.com/fluxerapp/flutter_client) | Official Fluxer Mobile client built on the Flutter framework. | 322 |
-| [umr-xiaomai/kgka_Music_hl](https://github.com/umr-xiaomai/kgka_Music_hl) | Flutter 开发的酷狗音乐客户端 | 282 |
+| [umr-xiaomai/kgka_Music_hl](https://github.com/umr-xiaomai/kgka_Music_hl) | Flutter 开发的酷狗音乐客户端 | 283 |
 | [kodify-js/MovieDex](https://github.com/kodify-js/MovieDex) | MovieDex is an open-source Flutter application that allows users to explore and discover movies effortlessly. With a sleek UI and real-time movie data, this app provides an engaging experience for movie enthusiasts. | 57 |
 
 ## lua
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [Kong/kong](https://github.com/Kong/kong) | 🦍 The API and AI Gateway | 43,915 |
+| [Kong/kong](https://github.com/Kong/kong) | 🦍 The API and AI Gateway | 43,914 |
 | [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | A launch point for your personal nvim configuration | 31,206 |
 | [koreader/koreader](https://github.com/koreader/koreader) | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices | 28,364 |
 | [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy | 27,087 |
@@ -815,7 +815,7 @@ If this is useful, a star on the repo helps more people find it.
 | [requarks/wiki](https://github.com/requarks/wiki) | Wiki.js \| A modern and powerful wiki app built on Node.js | 28,710 |
 | [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) | 🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜 | 21,607 |
 | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | An Open Source YouTube app for privacy | 21,588 |
-| [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制 | 16,303 |
+| [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制 | 16,302 |
 | [TeamPiped/Piped](https://github.com/TeamPiped/Piped) | An alternative privacy-friendly YouTube frontend which is efficient by design. | 10,163 |
 | [crmeb/CRMEB](https://github.com/crmeb/CRMEB) | 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议 | 9,194 |
 | [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) | Just make a few small changes to your Bilibili homepage. (English \| 简体中文 \| 正體中文 \| 廣東話) | 8,853 |
@@ -827,7 +827,7 @@ If this is useful, a star on the repo helps more people find it.
 | [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) | A server, NAS navigation panel, Homepage, browser homepage. \| 一个服务器、NAS导航面板、Homepage、浏览器首页。 | 5,256 |
 | [keleus/BewlyCat](https://github.com/keleus/BewlyCat) | BewlyCat——基于BewlyBewly开发的Bilibili拓展 | 3,874 |
 | [vuejs/docs](https://github.com/vuejs/docs) | 📄 Documentation for Vue 3 | 3,234 |
-| [frappe/crm](https://github.com/frappe/crm) | Fully featured, open source CRM | 3,103 |
+| [frappe/crm](https://github.com/frappe/crm) | Fully featured, open source CRM | 3,106 |
 | [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) | Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 <a href="https://virtualbrowser.cc/?src=github" class="Link--inTextBlock" rel="nofollow">https://virtualbrowser.cc/?src=github</a> | 3,031 |
 | [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) | Mobile application for Audiobookshelf | 2,623 |
 | [frappe/builder](https://github.com/frappe/builder) | Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly | 2,215 |
@@ -849,17 +849,17 @@ If this is useful, a star on the repo helps more people find it.
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | 266,147 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | 202,670 |
-| [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. | 188,995 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | 266,172 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | 202,711 |
+| [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. | 188,996 |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | 138,276 |
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | 94,326 |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions | 94,327 |
 | [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 | 62,092 |
 | [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. | 61,779 |
 | [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) | A pure Unix shell script ACME client for SSL / TLS certificate automation | 47,388 |
 | [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | Proxmox VE Helper-Scripts (Community Edition) | 29,152 |
 | [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) | Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more | 27,104 |
-| [a2aproject/A2A](https://github.com/a2aproject/A2A) | Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. | 25,179 |
+| [a2aproject/A2A](https://github.com/a2aproject/A2A) | Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. | 25,180 |
 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Beautiful, Modern & Opinionated Linux | 24,290 |
 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. | 23,599 |
 | [bin456789/reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) | 12,665 |
@@ -871,10 +871,10 @@ If this is useful, a star on the repo helps more people find it.
 | [orbstack/orbstack](https://github.com/orbstack/orbstack) | Fast, light, simple Docker containers & Linux machines | 9,132 |
 | [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) | Pixel perfect icon theme for Linux | 7,968 |
 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | Cloud-Native distributed storage built on and for Kubernetes | 7,906 |
-| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Claude Code skill to support Android app's reverse engineering | 6,680 |
+| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Claude Code skill to support Android app's reverse engineering | 6,682 |
 | [bats-core/bats-core](https://github.com/bats-core/bats-core) | Bash Automated Testing System | 6,192 |
 | [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | An open-source Android app to let you browse YouTube and other services freely. | 5,803 |
-| [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) | 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI. | 4,014 |
+| [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) | 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI. | 4,015 |
 | [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) | My homeassistant addons | 2,558 |
 | [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) | Open-source firmware for Ingenic SoC IP cameras | 1,966 |
 | [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) | Docker configuration for running VLLM on dual DGX Sparks | 1,951 |
@@ -882,7 +882,7 @@ If this is useful, a star on the repo helps more people find it.
 | [fujibee/agmsg](https://github.com/fujibee/agmsg) | Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework. | 1,398 |
 | [tracelabs/tlosint-vm](https://github.com/tracelabs/tlosint-vm) | Trace Labs OSINT VM | 1,057 |
 | [techjarves/termux-hacklab](https://github.com/techjarves/termux-hacklab) | Turn your Android into a GPU-accelerated Linux hacking lab with one command! XFCE Desktop + Nmap, SQLMap, Hydra, Wine & more. No root required. | 698 |
-| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic. | 359 |
+| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic. | 360 |
 | [openshift/release](https://github.com/openshift/release) | Release tooling for OpenShift | 325 |
 
 ## scala
@@ -929,21 +929,21 @@ If this is useful, a star on the repo helps more people find it.
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [react/react](https://github.com/react/react) | The library for web and native user interfaces. | 246,920 |
-| [vercel/next.js](https://github.com/vercel/next.js) | The React Framework | 141,328 |
+| [react/react](https://github.com/react/react) | The library for web and native user interfaces. | 246,921 |
+| [vercel/next.js](https://github.com/vercel/next.js) | The React Framework | 141,329 |
 | [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | 118,710 |
 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | Clean Code concepts adapted for JavaScript | 94,755 |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool | 89,798 |
 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | web development for the rest of us | 87,834 |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop | 71,630 |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop | 71,645 |
 | [expressjs/express](https://github.com/expressjs/express) | Fast, unopinionated, minimalist web framework for node. | 69,313 |
-| [webpack/webpack](https://github.com/webpack/webpack) | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. | 65,892 |
-| [byoungd/up](https://github.com/byoungd/up) | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语 | 57,276 |
-| [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | Independent technology for modern publishing, memberships, subscriptions and newsletters. | 54,662 |
+| [webpack/webpack](https://github.com/webpack/webpack) | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. | 65,893 |
+| [byoungd/up](https://github.com/byoungd/up) | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语 | 57,278 |
+| [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | Independent technology for modern publishing, memberships, subscriptions and newsletters. | 54,663 |
 | [fastify/fastify](https://github.com/fastify/fastify) | Fast and low overhead web framework, for Node.js | 36,930 |
 | [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | 31,625 |
-| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | Use Codex from Claude Code to review code or delegate tasks. | 31,235 |
-| [greensock/GSAP](https://github.com/greensock/GSAP) | GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web | 27,394 |
+| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | Use Codex from Claude Code to review code or delegate tasks. | 31,237 |
+| [greensock/GSAP](https://github.com/greensock/GSAP) | GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web | 27,395 |
 | [4ian/GDevelop](https://github.com/4ian/GDevelop) | 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone. | 25,340 |
 | [decolua/9router](https://github.com/decolua/9router) | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. | 24,527 |
 | [validatorjs/validator.js](https://github.com/validatorjs/validator.js) | String validation | 23,742 |
@@ -957,7 +957,7 @@ If this is useful, a star on the repo helps more people find it.
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | Acode - powerful text/code editor for android | 6,343 |
 | [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) | 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file | 5,444 |
 | [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation | 5,438 |
-| [worldwonderer/oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) | 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 \| An all-in-one skill pack for long- and short-form web fiction. | 5,018 |
+| [worldwonderer/oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) | 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 \| An all-in-one skill pack for long- and short-form web fiction. | 5,020 |
 | [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) | The Free Software Media System - Official Web Client | 3,752 |
 | [huangxd-/danmu_api](https://github.com/huangxd-/danmu_api) | 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆红弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/hf等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。 | 2,886 |
 | [LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) | Character Generator based on Universal-LPC-Spritesheet | 1,548 |
@@ -1039,12 +1039,12 @@ If this is useful, a star on the repo helps more people find it.
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | 63,958 |
+| [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more | 63,960 |
 | [jgthms/bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | 50,051 |
 | [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ | 45,224 |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | 21,532 |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | 21,545 |
 | [uvdesk/community-skeleton](https://github.com/uvdesk/community-skeleton) | UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration. | 19,499 |
-| [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A Patch for GIMP 3+ for Photoshop Users | 17,247 |
+| [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A Patch for GIMP 3+ for Photoshop Users | 17,248 |
 | [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) | Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. | 11,981 |
 | [devicons/devicon](https://github.com/devicons/devicon) | Set of icons representing programming languages, designing & development tools | 11,759 |
 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. | 10,045 |
@@ -1072,12 +1072,12 @@ If this is useful, a star on the repo helps more people find it.
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates | 59,612 |
+| [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates | 59,617 |
 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. | 54,598 |
 | [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) | A command-line installer for Windows. | 24,490 |
 | [dotnet/core](https://github.com/dotnet/core) | .NET news, announcements, release notes, and more! | 22,016 |
-| [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | Scripts to build a trimmed-down Windows 11 image. | 19,291 |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 | 17,285 |
+| [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | Scripts to build a trimmed-down Windows 11 image. | 19,290 |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 | 17,333 |
 | [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | PowerSploit - A PowerShell Post-Exploitation Framework | 13,089 |
 | [actions/runner-images](https://github.com/actions/runner-images) | GitHub Actions runner images | 12,977 |
 | [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) | Force Remove Copilot, Recall and More in Windows 11 | 12,652 |
@@ -1105,16 +1105,16 @@ If this is useful, a star on the repo helps more people find it.
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
 | [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 | 184,818 |
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons, Get Started Building with Generative AI | 116,053 |
-| [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all | 88,998 |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons, Get Started Building with Generative AI | 116,067 |
+| [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all | 88,999 |
 | [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) | A latent text-to-image diffusion model | 73,276 |
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 18 Lessons to Get Started Building AI Agents | 71,214 |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! | 61,505 |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 18 Lessons to Get Started Building AI Agents | 71,215 |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! | 61,517 |
 | [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more. | 59,135 |
 | [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) | Python Data Science Handbook: full text in Jupyter Notebooks | 49,518 |
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 《动手学大模型Dive into LLMs》系列编程实践教程 | 47,597 |
-| [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | This is a repo with links to everything you'd ever want to learn about data engineering | 42,950 |
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | AirLLM 70B inference with single 4GB GPU | 28,026 |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 《动手学大模型Dive into LLMs》系列编程实践教程 | 47,603 |
+| [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | This is a repo with links to everything you'd ever want to learn about data engineering | 42,951 |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | AirLLM 70B inference with single 4GB GPU | 28,041 |
 | [fastai/fastbook](https://github.com/fastai/fastbook) | The fastai book, published as Jupyter Notebooks | 25,173 |
 | [wesm/pydata-book](https://github.com/wesm/pydata-book) | Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media | 24,795 |
 | [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | Neural Networks: Zero to Hero | 23,853 |
@@ -1129,7 +1129,7 @@ If this is useful, a star on the repo helps more people find it.
 | [mrdbourke/zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml) | All course materials for the Zero to Mastery Machine Learning and Data Science course. | 6,624 |
 | [snakers4/silero-models](https://github.com/snakers4/silero-models) | Silero Models: pre-trained text-to-speech models made embarrassingly simple | 6,047 |
 | [ed-donner/agents](https://github.com/ed-donner/agents) | Repo for the Complete Agentic AI Engineering Course | 5,854 |
-| [petercorke/RVC3-python](https://github.com/petercorke/RVC3-python) | Code examples for Robotics, Vision & Control 3rd edition in Python | 727 |
+| [petercorke/RVC3-python](https://github.com/petercorke/RVC3-python) | Code examples for Robotics, Vision & Control 3rd edition in Python | 728 |
 
 ## html
 
@@ -1138,22 +1138,22 @@ If this is useful, a star on the repo helps more people find it.
 | [ossu/computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! | 207,584 |
 | [f/prompts.chat](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | 166,725 |
 | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) | A Clash Client For OpenWrt | 26,968 |
-| [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 23,167 |
+| [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. | 23,169 |
 | [trycua/cua](https://github.com/trycua/cua) | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. | 20,912 |
 | [google/fonts](https://github.com/google/fonts) | Font files available from Google Fonts, and a public issue tracker for all things Google Fonts | 20,309 |
 | [htr-tech/zphisher](https://github.com/htr-tech/zphisher) | An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit ! | 16,569 |
 | [gustavoguanabara/html-css](https://github.com/gustavoguanabara/html-css) | Curso de HTML5 e CSS3 | 16,405 |
 | [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 📘 Home Assistant User documentation | 9,658 |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. | 9,041 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. | 9,044 |
 | [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) | A collection of several hundred online tools for OSINT | 8,623 |
 | [yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi) | 🎉 (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用 | 8,461 |
 | [trickest/cve](https://github.com/trickest/cve) | Gather and update all available and newest CVEs with their PoC. | 7,973 |
-| [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) | <a href="https://adongwanai.github.io/AgentGuide" class="Link--inTextBlock" rel="nofollow">https://adongwanai.github.io/AgentGuide</a> \| AI Agent开发指南 \| LangGraph实战 \| 高级RAG \| 转行大模型 \| 大模型面试 \| 算法工程师 \| 面试题库 \| 强化学习｜数据合成 | 7,833 |
+| [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) | <a href="https://adongwanai.github.io/AgentGuide" class="Link--inTextBlock" rel="nofollow">https://adongwanai.github.io/AgentGuide</a> \| AI Agent开发指南 \| LangGraph实战 \| 高级RAG \| 转行大模型 \| 大模型面试 \| 算法工程师 \| 面试题库 \| 强化学习｜数据合成 | 7,834 |
 | [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations | 7,620 |
 | [averygan/reclip](https://github.com/averygan/reclip) | Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. | 6,946 |
 | [Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) | Web application generating interactive and highly customizable maps | 5,869 |
 | [kubernetes/website](https://github.com/kubernetes/website) | Kubernetes website and documentation repo: | 5,330 |
-| [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) | Open-Source Unified Vulnerability Management, DevSecOps & ASPM | 4,872 |
+| [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) | Open-Source Unified Vulnerability Management, DevSecOps & ASPM | 4,873 |
 | [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) | Hugo documentation theme as simple as plain book | 4,076 |
 | [iptv-org/epg](https://github.com/iptv-org/epg) | Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. | 3,186 |
 | [Trixarian/NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch) | Continuation of NetherSX2 based on AetherSX2 4248 | 2,502 |
@@ -1195,9 +1195,9 @@ If this is useful, a star on the repo helps more people find it.
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. | 71,830 |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. | 71,831 |
 | [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | Collection of malware source code for a variety of platforms in an array of different programming languages. | 18,600 |
-| [leachim6/hello-world](https://github.com/leachim6/hello-world) | Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions! | 11,908 |
+| [leachim6/hello-world](https://github.com/leachim6/hello-world) | Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions! | 11,909 |
 | [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) | the official Rust and C implementations of the BLAKE3 cryptographic hash function | 6,355 |
 | [pret/pokered](https://github.com/pret/pokered) | Disassembly of Pokémon Red/Blue | 4,852 |
 | [briansmith/ring](https://github.com/briansmith/ring) | An experiment. | 4,101 |
@@ -1227,7 +1227,7 @@ If this is useful, a star on the repo helps more people find it.
 | --- | --- | --- |
 | [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. | 23,765 |
 | [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. | 22,158 |
-| [vulhub/vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose | 21,075 |
+| [vulhub/vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose | 21,076 |
 | [laradock/laradock](https://github.com/laradock/laradock) | Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more. | 12,658 |
 | [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | 11,944 |
 | [nodejs/docker-node](https://github.com/nodejs/docker-node) | Official Docker Image for Node.js 🐳 🐢 🚀 | 8,578 |
@@ -1253,10 +1253,10 @@ If this is useful, a star on the repo helps more people find it.
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
 | [jgm/pandoc](https://github.com/jgm/pandoc) | Universal markup converter | 45,694 |
-| [koalaman/shellcheck](https://github.com/koalaman/shellcheck) | ShellCheck, a static analysis tool for shell scripts | 39,812 |
+| [koalaman/shellcheck](https://github.com/koalaman/shellcheck) | ShellCheck, a static analysis tool for shell scripts | 39,811 |
 | [PostgREST/postgrest](https://github.com/PostgREST/postgrest) | REST API for any Postgres database | 27,492 |
 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! | 19,189 |
-| [hadolint/hadolint](https://github.com/hadolint/hadolint) | Dockerfile linter, validate inline bash, written in Haskell | 12,333 |
+| [hadolint/hadolint](https://github.com/hadolint/hadolint) | Dockerfile linter, validate inline bash, written in Haskell | 12,334 |
 | [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) | 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness | 5,330 |
 | [simonmichael/hledger](https://github.com/simonmichael/hledger) | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. | 4,604 |
 | [IntersectMBO/cardano-node](https://github.com/IntersectMBO/cardano-node) | The core component that is used to participate in a Cardano decentralised blockchain. | 3,179 |
@@ -1277,7 +1277,7 @@ If this is useful, a star on the repo helps more people find it.
 
 | Repository | Description | Stars last seen |
 | --- | --- | --- |
-| [imputnet/cobalt](https://github.com/imputnet/cobalt) | best way to save what you love | 41,945 |
+| [imputnet/cobalt](https://github.com/imputnet/cobalt) | best way to save what you love | 41,946 |
 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼 The most popular, free and open-source Tailwind CSS component library | 41,937 |
 | [VERT-sh/VERT](https://github.com/VERT-sh/VERT) | The next-generation file converter. Open source, fully local* and free forever. | 15,325 |
 | [dbgate/dbgate](https://github.com/dbgate/dbgate) | Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application | 7,184 |
@@ -1308,7 +1308,7 @@ If this is useful, a star on the repo helps more people find it.
 | [firezone/firezone](https://github.com/firezone/firezone) | Enterprise-ready zero-trust access platform built on WireGuard®. | 8,986 |
 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | A self-hosted data logger for your Tesla 🚘 [main maintainer=<a class="user-mention" data-hovercard-type="user" data-hovercard-url="/users/JakobLichterfeld/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/JakobLichterfeld">@JakobLichterfeld</a>] | 8,806 |
 | [supabase/realtime](https://github.com/supabase/realtime) | Broadcast, Presence, and Postgres Changes via WebSockets | 7,613 |
-| [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | Rich, real-time user experiences with server-rendered HTML | 6,811 |
+| [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | Rich, real-time user experiences with server-rendered HTML | 6,812 |
 | [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) | Your next YouTube media manager | 5,205 |
 | [blockscout/blockscout](https://github.com/blockscout/blockscout) | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains. | 4,626 |
 | [bartblast/hologram](https://github.com/bartblast/hologram) | Full stack Elixir web framework that intelligently compiles Elixir client-side code to JavaScript | 1,461 |

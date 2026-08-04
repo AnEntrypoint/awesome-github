@@ -131,7 +131,11 @@ function search(index, query) {
     if (score > 0) scored.push({ doc: index.docs[docIndex], score });
   }
 
-  scored.sort((a, b) => b.score - a.score || b.doc.repo.stars - a.doc.repo.stars);
+  scored.sort((a, b) => {
+    const aKey = a.doc.repo.lastSeenAt || a.doc.repo.addedAt || '';
+    const bKey = b.doc.repo.lastSeenAt || b.doc.repo.addedAt || '';
+    return b.score - a.score || bKey.localeCompare(aKey) || b.doc.repo.stars - a.doc.repo.stars;
+  });
   return scored;
 }
 

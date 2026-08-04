@@ -32,8 +32,13 @@ function sortedLanguages(tree) {
     Object.keys(tree[b]).length - Object.keys(tree[a]).length);
 }
 
+function lastSeenKey(r) {
+  return r.lastSeenAt || r.addedAt || '';
+}
+
 function sortedRepos(bucket) {
-  return Object.entries(bucket).sort((a, b) => b[1].stars - a[1].stars);
+  return Object.entries(bucket).sort((a, b) =>
+    lastSeenKey(b[1]).localeCompare(lastSeenKey(a[1])) || b[1].stars - a[1].stars);
 }
 
 function searchResultsByLang(index, filter) {

@@ -1,11 +1,13 @@
 // Buildless vanilla-JS site: no bundler, no npm install. Pulls the
 // anentrypoint-design SDK (webjsx-based) straight from a CDN and mounts a
 // TreeView over data/tree.json -- the same JSON the CI scraper maintains.
-import ds, { initTheme, onThemeChange, ThemeToggle } from 'https://unpkg.com/anentrypoint-design@latest/dist/247420.js';
+// Search/shell layout follows the SDK's own search kit pattern:
+// https://anentrypoint.github.io/design/ui_kits/search/
+import ds, { initTheme, onThemeChange } from 'https://unpkg.com/anentrypoint-design@latest/dist/247420.js';
 import { buildIndex, search } from './search.mjs';
 
 const { h, mount, loadCss, components } = ds;
-const { TreeView, TreeItem } = components;
+const { AppShell, Topbar, Side, SearchInput, RowLink, Panel, TreeView, TreeItem } = components;
 
 await loadCss();
 onThemeChange(({ resolved }) => {
@@ -18,6 +20,7 @@ const state = {
   searchIndex: null,
   expanded: new Set(),
   filter: '',
+  activeLang: '',
 };
 
 async function loadTree() {
@@ -58,21 +61,45 @@ function view(rerender) {
   const filterActive = state.filter.trim().length > 0;
   const resultsByLang = filterActive ? searchResultsByLang(state.searchIndex, state.filter) : null;
 
+  const setFilter = (value) => { state.filter = value; rerender(); };
   const toggleLang = (lang) => {
     if (state.expanded.has(lang)) state.expanded.delete(lang);
     else state.expanded.add(lang);
     rerender();
   };
+  const setActiveLang = (lang) => {
+    state.activeLang = state.activeLang === lang ? '' : lang;
+    rerender();
+  };
 
-  const langNodes = langs.map((lang) => {
+  const visibleLangs = state.activeLang ? langs.filter((l) => l === state.activeLang) : langs;
+
+  let totalMatched = 0;
+  const langRows = visibleLangs.map((lang) => {
     const bucket = state.tree[lang];
     const repos = filterActive
       ? (resultsByLang.get(lang) || [])
       : sortedRepos(bucket);
     if (filterActive && repos.length === 0) return null;
+    totalMatched += repos.length;
 
-    const isExpanded = state.expanded.has(lang) || filterActive;
+    if (filterActive) {
+      return Panel({
+        title: lang,
+        count: repos.length,
+        children: repos.map(([fullName, r]) =>
+          RowLink({
+            code: `${r.stars.toLocaleString()} stars`,
+            title: fullName,
+            sub: r.description || '',
+            href: r.url,
+            target: '_blank',
+          })
+        ),
+      });
+    }
 
+    const isExpanded = state.expanded.has(lang);
     const repoNodes = repos.map(([fullName, r]) =>
       TreeItem({
         label: h('a', {
@@ -81,15 +108,13 @@ function view(rerender) {
           target: '_blank',
           rel: 'noopener noreferrer',
         }, `${fullName} `, h('span', { class: 'repo-desc' }, r.description || '')),
-        glyph: '📦',
-        tag: `★ ${r.stars.toLocaleString()}`,
+        tag: `${r.stars.toLocaleString()} stars`,
         depth: 1,
       })
     );
 
     return TreeItem({
       label: lang,
-      glyph: '📁',
       tag: `${repos.length}`,
       depth: 0,
       expanded: isExpanded,
@@ -99,38 +124,43 @@ function view(rerender) {
     });
   }).filter(Boolean);
 
-  return h('div', { class: 'app-shell' },
-    h('header', { class: 'site-header' },
-      h('div', { class: 'site-header-row' },
-        h('div', {},
-          h('h1', {}, '🌳 awesome-github'),
-          h('p', {}, 'A continuously refreshed tree of trending GitHub repositories, organized by language.')
-        ),
-        h('div', { class: 'header-actions' },
-        ThemeToggle({ compact: true }),
-        h('a', {
-          class: 'star-cta',
-          href: 'https://github.com/AnEntrypoint/awesome-github',
-          target: '_blank',
-          rel: 'noopener noreferrer',
-        }, '⭐ Star on GitHub')
-        )
-      )
-    ),
-    h('div', { class: 'toolbar-row' },
-      h('input', {
-        type: 'search',
-        placeholder: 'Filter by name or description…',
-        value: state.filter,
-        oninput: (e) => { state.filter = e.target.value; rerender(); },
-      }),
-      h('span', { class: 'stats' }, `${totalRepos} repos across ${langs.length} languages`)
-    ),
-    h('main', {}, TreeView({ children: langNodes })),
-    h('footer', { class: 'site-footer' },
+  const mainContent = filterActive && totalMatched === 0
+    ? h('div', { class: 'empty' }, `no repos match "${state.filter}"`)
+    : filterActive
+      ? langRows
+      : TreeView({ children: langRows });
+
+  const sideSections = [{
+    group: 'language',
+    items: langs.map((lang) => ({
+      label: lang,
+      count: Object.keys(state.tree[lang]).length,
+      active: state.activeLang === lang,
+      onClick: (e) => { e.preventDefault(); setActiveLang(lang); },
+    })),
+  }];
+
+  const topbar = Topbar({
+    brand: 'awesome-github',
+    search: SearchInput({
+      value: state.filter,
+      placeholder: 'Filter by name or description…',
+      label: 'repositories',
+      onInput: setFilter,
+      resultCount: filterActive ? `${totalMatched} results` : `${totalRepos} repos across ${langs.length} languages`,
+    }),
+    items: [['Star on GitHub', 'https://github.com/AnEntrypoint/awesome-github']],
+    themeToggle: true,
+  });
+
+  return AppShell({
+    topbar,
+    side: Side({ sections: sideSections }),
+    main: mainContent,
+    status: h('footer', { class: 'site-footer' },
       'Source: GitHub Trending (daily). Data refreshed automatically by CI. Tree only grows -- entries are updated, never deleted, when they re-trend.'
-    )
-  );
+    ),
+  });
 }
 
 await loadTree();

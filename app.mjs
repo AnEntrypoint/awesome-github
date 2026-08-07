@@ -7,7 +7,7 @@ import ds, { initTheme, onThemeChange } from 'https://unpkg.com/anentrypoint-des
 import { buildIndex, search } from './search.mjs';
 
 const { h, mount, loadCss, components } = ds;
-const { AppShell, Topbar, Side, SearchInput, RowLink, Panel, TreeView, TreeItem } = components;
+const { AppShell, Topbar, Side, SearchInput, RowLink, Panel, TreeView, TreeItem, Status } = components;
 
 await loadCss();
 onThemeChange(({ resolved }) => {
@@ -18,7 +18,11 @@ initTheme();
 const state = {
   tree: {},
   searchIndex: null,
-  expanded: new Set(),
+  // Languages default expanded: main is content (actual repos), not a second
+  // collapsed language+count summary that just repeats the sidebar's own nav
+  // list until something is clicked open. `collapsed` (not `expanded`) so a
+  // freshly-scraped language starts open without needing to be added here.
+  collapsed: new Set(),
   filter: '',
   activeLang: '',
 };
@@ -63,8 +67,8 @@ function view(rerender) {
 
   const setFilter = (value) => { state.filter = value; rerender(); };
   const toggleLang = (lang) => {
-    if (state.expanded.has(lang)) state.expanded.delete(lang);
-    else state.expanded.add(lang);
+    if (state.collapsed.has(lang)) state.collapsed.delete(lang);
+    else state.collapsed.add(lang);
     rerender();
   };
   const setActiveLang = (lang) => {
@@ -99,7 +103,7 @@ function view(rerender) {
       });
     }
 
-    const isExpanded = state.expanded.has(lang);
+    const isExpanded = !state.collapsed.has(lang);
     const repoNodes = repos.map(([fullName, r]) =>
       TreeItem({
         label: h('a', {
@@ -157,9 +161,9 @@ function view(rerender) {
     topbar,
     side: Side({ sections: sideSections }),
     main: mainContent,
-    status: h('footer', { class: 'site-footer' },
-      'Source: GitHub Trending (daily). Data refreshed automatically by CI. Tree only grows -- entries are updated, never deleted, when they re-trend.'
-    ),
+    status: Status({
+      left: ['Source: GitHub Trending (daily)', 'Data refreshed automatically by CI', 'Tree only grows -- entries are updated, never deleted, when they re-trend'],
+    }),
   });
 }
 

@@ -59,8 +59,17 @@ export function parseTrendingHtml(html, language) {
   return repos;
 }
 
+// GitHub's description <p> can embed real markup (e.g. a docs-link <a> tag
+// inside the text) -- stripped before entity-decoding so a literal <a
+// href=...>text</a> never leaks into the display string, and so descriptions
+// don't later get truncated mid-tag by CSS ellipsis, which is what produced
+// the stray unmatched-bracket fragments users saw.
+function stripTags(s) {
+  return s.replace(/<[^>]*>/g, '');
+}
+
 function decodeHtml(s) {
-  return s
+  return stripTags(s)
     .replace(/&quot;/g, '"').replace(/&#39;/g, "'")
     .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
     .replace(/\s+/g, ' ').trim();

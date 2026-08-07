@@ -48,6 +48,18 @@ function sortedRepos(bucket) {
     lastSeenKey(b[1]).localeCompare(lastSeenKey(a[1])) || b[1].stars - a[1].stars);
 }
 
+// The design SDK's tree-row label uses CSS text-overflow:ellipsis, which by
+// spec cuts at the character boundary, never a word boundary -- long
+// descriptions were hard-cut mid-word. Truncating here at a word boundary
+// before render means CSS ellipsis (still present as a fallback) rarely
+// fires at all, and when it does the text already ends cleanly.
+function truncateAtWord(text, maxLen) {
+  if (text.length <= maxLen) return text;
+  const cut = text.slice(0, maxLen);
+  const lastSpace = cut.lastIndexOf(' ');
+  return (lastSpace > maxLen * 0.6 ? cut.slice(0, lastSpace) : cut).trimEnd() + '…';
+}
+
 function searchResultsByLang(index, filter) {
   const hits = search(index, filter);
   if (hits === null) return null;
@@ -95,7 +107,7 @@ function view(rerender) {
           RowLink({
             code: `${r.stars.toLocaleString()} stars`,
             title: fullName,
-            sub: r.description || '',
+            sub: truncateAtWord(r.description || '', 160),
             href: r.url,
             target: '_blank',
           })
@@ -111,7 +123,7 @@ function view(rerender) {
           href: r.url,
           target: '_blank',
           rel: 'noopener noreferrer',
-        }, `${fullName} `, h('span', { class: 'repo-desc' }, r.description || '')),
+        }, `${fullName} `, h('span', { class: 'repo-desc' }, truncateAtWord(r.description || '', 100))),
         tag: `${r.stars.toLocaleString()} stars`,
         depth: 1,
       })
@@ -119,7 +131,10 @@ function view(rerender) {
 
     return TreeItem({
       label: lang,
-      tag: `${repos.length}`,
+      // Only shown collapsed: expanded, the same count sat pinned at the far
+      // right with nothing else filling that space while the repos below
+      // already carry their own star-count tags -- a plain repeat.
+      tag: isExpanded ? null : `${repos.length}`,
       depth: 0,
       expanded: isExpanded,
       hasChildren: true,

@@ -3,7 +3,12 @@
 // TreeView over data/tree.json -- the same JSON the CI scraper maintains.
 // Search/shell layout follows the SDK's own search kit pattern:
 // https://anentrypoint.github.io/design/ui_kits/search/
-import ds, { initTheme, onThemeChange } from 'https://unpkg.com/anentrypoint-design@latest/dist/247420.js';
+// raw.githack.com, not unpkg: unpkg's npm-package resolution went stale
+// once anentrypoint-design npm publishing stopped, and jsDelivr's GitHub-
+// source equivalent caches a @main branch reference for up to 12h
+// regardless of purge. githack fetches straight from GitHub with a 60s
+// max-age instead.
+import ds, { initTheme, onThemeChange } from 'https://raw.githack.com/AnEntrypoint/design/main/dist/247420.js';
 import { buildIndex, search } from './search.mjs';
 
 const { h, mount, loadCss, components } = ds;

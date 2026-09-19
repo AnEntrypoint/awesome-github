@@ -16,3 +16,5 @@
 .gm/witness/
 sh.exe.stackdump
 .agentplug-kv/
+config.bat
+node_modules

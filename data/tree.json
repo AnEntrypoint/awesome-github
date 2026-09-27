@@ -155,10 +155,10 @@
       "owner": "nodejs",
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "stars": 122131,
+      "stars": 122135,
       "starsToday": 40,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "is-a-dev/register": {
       "name": "register",
@@ -215,10 +215,10 @@
       "owner": "vercel",
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
-      "stars": 142757,
+      "stars": 142778,
       "starsToday": 317,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "greensock/GSAP": {
       "name": "GSAP",
@@ -255,10 +255,10 @@
       "owner": "expressjs",
       "url": "https://github.com/expressjs/express",
       "description": "Fast, unopinionated, minimalist web framework for node.",
-      "stars": 69318,
-      "starsToday": 15,
+      "stars": 69491,
+      "starsToday": 7,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-08-05T09:06:06.921Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "projectdiscovery/nuclei-templates": {
       "name": "nuclei-templates",
@@ -695,10 +695,10 @@
       "owner": "fishjar",
       "url": "https://github.com/fishjar/kiss-translator",
       "description": "A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)",
-      "stars": 12396,
-      "starsToday": 17,
+      "stars": 12653,
+      "starsToday": 21,
       "addedAt": "2026-08-10T13:44:41.249Z",
-      "lastSeenAt": "2026-09-08T04:37:08.353Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "zarazhangrui/follow-builders": {
       "name": "follow-builders",
@@ -785,10 +785,10 @@
       "owner": "DietrichGebert",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 141464,
-      "starsToday": 1064,
+      "stars": 146819,
+      "starsToday": 520,
       "addedAt": "2026-08-12T02:44:47.516Z",
-      "lastSeenAt": "2026-09-18T04:44:15.125Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "airbnb/javascript": {
       "name": "javascript",
@@ -875,10 +875,10 @@
       "owner": "darkzOGx",
       "url": "https://github.com/darkzOGx/youtube-automation-agent",
       "description": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
-      "stars": 3861,
+      "stars": 3870,
       "starsToday": 59,
       "addedAt": "2026-08-14T13:43:12.990Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "laoma2053/awesome-zhuiju-free": {
       "name": "awesome-zhuiju-free",
@@ -985,10 +985,10 @@
       "owner": "hmjz100",
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "stars": 20944,
+      "stars": 20956,
       "starsToday": 68,
       "addedAt": "2026-08-16T13:01:27.083Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "babalae/bettergi-scripts-list": {
       "name": "bettergi-scripts-list",
@@ -1085,10 +1085,10 @@
       "owner": "chuspeeism",
       "url": "https://github.com/chuspeeism/dashi-ppt-skill",
       "description": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
-      "stars": 6846,
-      "starsToday": 98,
+      "stars": 8874,
+      "starsToday": 46,
       "addedAt": "2026-08-20T13:11:38.601Z",
-      "lastSeenAt": "2026-08-30T05:24:59.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "pcottle/learnGitBranching": {
       "name": "learnGitBranching",
@@ -1155,10 +1155,10 @@
       "owner": "mrdoob",
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
-      "stars": 115969,
+      "stars": 115979,
       "starsToday": 55,
       "addedAt": "2026-08-22T18:49:18.040Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "reisxd/TizenTube": {
       "name": "TizenTube",
@@ -1795,10 +1795,10 @@
       "owner": "qist",
       "url": "https://github.com/qist/tvbox",
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
-      "stars": 11327,
-      "starsToday": 16,
+      "stars": 11510,
+      "starsToday": 24,
       "addedAt": "2026-09-14T12:48:20.825Z",
-      "lastSeenAt": "2026-09-15T04:55:31.427Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "playcanvas/engine": {
       "name": "engine",
@@ -2015,10 +2015,10 @@
       "owner": "androoAGI",
       "url": "https://github.com/androoAGI/starnet",
       "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-      "stars": 651,
+      "stars": 662,
       "starsToday": 212,
       "addedAt": "2026-09-24T11:46:39.774Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "copy/v86": {
       "name": "v86",
@@ -2049,6 +2049,36 @@
       "starsToday": 15,
       "addedAt": "2026-09-26T11:25:41.304Z",
       "lastSeenAt": "2026-09-27T12:03:18.116Z"
+    },
+    "mlmvpn/mlmvpn_windows": {
+      "name": "mlmvpn_windows",
+      "owner": "mlmvpn",
+      "url": "https://github.com/mlmvpn/mlmvpn_windows",
+      "description": "MLMVPN - Ultimate Anti-Filter & IP Scanner",
+      "stars": 149,
+      "starsToday": 27,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "preactjs/preact": {
+      "name": "preact",
+      "owner": "preactjs",
+      "url": "https://github.com/preactjs/preact",
+      "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.",
+      "stars": 38890,
+      "starsToday": 2,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "ulsklyc/yuvomi": {
+      "name": "yuvomi",
+      "owner": "ulsklyc",
+      "url": "https://github.com/ulsklyc/yuvomi",
+      "description": "Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.",
+      "stars": 1586,
+      "starsToday": 13,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "typescript": {
@@ -2187,10 +2217,10 @@
       "owner": "paperclipai",
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
-      "stars": 88434,
+      "stars": 89067,
       "starsToday": 2527,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "storybookjs/storybook": {
       "name": "storybook",
@@ -2487,20 +2517,20 @@
       "owner": "melgarafael",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "stars": 2925,
-      "starsToday": 193,
+      "stars": 4111,
+      "starsToday": 130,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-16T04:49:55.578Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "dream-num/univer": {
       "name": "univer",
       "owner": "dream-num",
       "url": "https://github.com/dream-num/univer",
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "stars": 19850,
+      "stars": 20006,
       "starsToday": 920,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "AdventDevInc/kudu": {
       "name": "kudu",
@@ -2527,10 +2557,10 @@
       "owner": "expo",
       "url": "https://github.com/expo/expo",
       "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-      "stars": 52174,
-      "starsToday": 30,
+      "stars": 52461,
+      "starsToday": 15,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-12T04:34:55.878Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "makeplane/plane": {
       "name": "plane",
@@ -2757,10 +2787,10 @@
       "owner": "heygen-com",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
-      "stars": 51435,
-      "starsToday": 333,
+      "stars": 53556,
+      "starsToday": 306,
       "addedAt": "2026-08-08T13:12:53.850Z",
-      "lastSeenAt": "2026-09-19T04:38:13.615Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "open-metadata/OpenMetadata": {
       "name": "OpenMetadata",
@@ -3297,10 +3327,10 @@
       "owner": "calcom",
       "url": "https://github.com/calcom/cal.diy",
       "description": "Scheduling infrastructure for absolutely everyone.",
-      "stars": 47650,
-      "starsToday": 38,
+      "stars": 48681,
+      "starsToday": 14,
       "addedAt": "2026-08-13T13:48:41.343Z",
-      "lastSeenAt": "2026-08-16T06:59:40.265Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "ChromeDevTools/chrome-devtools-mcp": {
       "name": "chrome-devtools-mcp",
@@ -3406,11 +3436,11 @@
       "name": "atlas",
       "owner": "pacifio",
       "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track they change, and query them in one place",
-      "stars": 1070,
-      "starsToday": 123,
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "stars": 7944,
+      "starsToday": 490,
       "addedAt": "2026-08-14T13:43:12.990Z",
-      "lastSeenAt": "2026-08-16T06:59:40.265Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "cordiverse/cordis": {
       "name": "cordis",
@@ -4287,10 +4317,10 @@
       "owner": "mobile-next",
       "url": "https://github.com/mobile-next/mobile-mcp",
       "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-      "stars": 7635,
+      "stars": 7757,
       "starsToday": 573,
       "addedAt": "2026-08-30T11:55:10.808Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "PurpleDoubleD/locally-uncensored": {
       "name": "locally-uncensored",
@@ -4997,10 +5027,10 @@
       "owner": "freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "stars": 455704,
-      "starsToday": 111,
+      "stars": 456334,
+      "starsToday": 100,
       "addedAt": "2026-09-17T11:41:59.288Z",
-      "lastSeenAt": "2026-09-18T04:44:15.125Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "vitest-dev/vitest": {
       "name": "vitest",
@@ -5267,10 +5297,10 @@
       "owner": "mvschwarz",
       "url": "https://github.com/mvschwarz/openrig",
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-      "stars": 459,
-      "starsToday": 80,
+      "stars": 765,
+      "starsToday": 114,
       "addedAt": "2026-09-25T11:51:25.703Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "vega-org/vega-app": {
       "name": "vega-app",
@@ -5297,10 +5327,10 @@
       "owner": "vercel-labs",
       "url": "https://github.com/vercel-labs/scriptc",
       "description": "TypeScript-to-Native Compiler",
-      "stars": 5204,
+      "stars": 5294,
       "starsToday": 76,
       "addedAt": "2026-09-26T11:25:41.304Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "zenbu-labs/terminal-browser": {
       "name": "terminal-browser",
@@ -5321,6 +5351,26 @@
       "starsToday": 12,
       "addedAt": "2026-09-26T11:25:41.304Z",
       "lastSeenAt": "2026-09-27T12:03:18.116Z"
+    },
+    "SinaXhpm/Submarine": {
+      "name": "Submarine",
+      "owner": "SinaXhpm",
+      "url": "https://github.com/SinaXhpm/Submarine",
+      "description": "Modern SSH & SFTP client — terminal, SFTP, port forwarding, folder mirror, encrypted sync. Windows · macOS · Linux · Android.",
+      "stars": 360,
+      "starsToday": 57,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "freemocap/freemocap": {
+      "name": "freemocap",
+      "owner": "freemocap",
+      "url": "https://github.com/freemocap/freemocap",
+      "description": "Free Motion Capture for Everyone 💀✨",
+      "stars": 10322,
+      "starsToday": 35,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "python": {
@@ -5699,10 +5749,10 @@
       "owner": "django",
       "url": "https://github.com/django/django",
       "description": "The Web framework for perfectionists with deadlines.",
-      "stars": 88760,
-      "starsToday": 40,
+      "stars": 91210,
+      "starsToday": 27,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-08-24T07:28:56.094Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "RVC-Project/Retrieval-based-Voice-Conversion-WebUI": {
       "name": "Retrieval-based-Voice-Conversion-WebUI",
@@ -6239,10 +6289,10 @@
       "owner": "vectorize-io",
       "url": "https://github.com/vectorize-io/hindsight",
       "description": "Hindsight: Agent Memory That Learns",
-      "stars": 35101,
+      "stars": 36245,
       "starsToday": 4463,
       "addedAt": "2026-08-09T13:15:49.422Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "stanfordnlp/dspy": {
       "name": "dspy",
@@ -6979,10 +7029,10 @@
       "owner": "debpalash",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "stars": 32150,
-      "starsToday": 1416,
+      "stars": 39263,
+      "starsToday": 3060,
       "addedAt": "2026-08-22T13:01:10.024Z",
-      "lastSeenAt": "2026-09-17T04:53:43.295Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "shy3130/tickflow-stock-panel": {
       "name": "tickflow-stock-panel",
@@ -7069,10 +7119,10 @@
       "owner": "rohitg00",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "stars": 58728,
+      "stars": 58992,
       "starsToday": 848,
       "addedAt": "2026-08-24T13:13:07.036Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "HKUDS/Vibe-Trading": {
       "name": "Vibe-Trading",
@@ -7239,10 +7289,10 @@
       "owner": "pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "stars": 103076,
-      "starsToday": 19,
+      "stars": 103413,
+      "starsToday": 56,
       "addedAt": "2026-08-27T22:16:14.871Z",
-      "lastSeenAt": "2026-09-18T04:44:15.125Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "abi/screenshot-to-code": {
       "name": "screenshot-to-code",
@@ -8499,10 +8549,10 @@
       "owner": "NVIDIA",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "stars": 4891,
+      "stars": 4918,
       "starsToday": 301,
       "addedAt": "2026-09-24T11:46:39.774Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "op7418/Humanizer-zh": {
       "name": "Humanizer-zh",
@@ -8539,10 +8589,10 @@
       "owner": "derv82",
       "url": "https://github.com/derv82/wifit3",
       "description": "Wifite but USB-only & cross-platform.",
-      "stars": 1346,
-      "starsToday": 357,
+      "stars": 1378,
+      "starsToday": 253,
       "addedAt": "2026-09-25T11:51:25.703Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "google/langextract": {
       "name": "langextract",
@@ -8573,6 +8623,26 @@
       "starsToday": 56,
       "addedAt": "2026-09-26T11:25:41.304Z",
       "lastSeenAt": "2026-09-27T12:03:18.116Z"
+    },
+    "microsoft/data-formulator": {
+      "name": "data-formulator",
+      "owner": "microsoft",
+      "url": "https://github.com/microsoft/data-formulator",
+      "description": "🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.",
+      "stars": 17413,
+      "starsToday": 111,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "EbookFoundation/free-programming-books": {
+      "name": "free-programming-books",
+      "owner": "EbookFoundation",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": "📚 Freely available programming books",
+      "stars": 397954,
+      "starsToday": 169,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "go": {
@@ -8951,20 +9021,20 @@
       "owner": "kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
-      "stars": 128044,
-      "starsToday": 41,
+      "stars": 128045,
+      "starsToday": 36,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "golang/go": {
       "name": "go",
       "owner": "golang",
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
-      "stars": 139052,
-      "starsToday": 44,
+      "stars": 139054,
+      "starsToday": 29,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "projectdiscovery/nuclei": {
       "name": "nuclei",
@@ -9071,20 +9141,20 @@
       "owner": "junegunn",
       "url": "https://github.com/junegunn/fzf",
       "description": "🌸 A command-line fuzzy finder",
-      "stars": 83142,
-      "starsToday": 34,
+      "stars": 83274,
+      "starsToday": 19,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "spf13/cobra": {
       "name": "cobra",
       "owner": "spf13",
       "url": "https://github.com/spf13/cobra",
       "description": "A Commander for modern Go CLI interactions",
-      "stars": 44438,
-      "starsToday": 4,
+      "stars": 44665,
+      "starsToday": 10,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-08-16T06:59:40.265Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "syncthing/syncthing": {
       "name": "syncthing",
@@ -9401,10 +9471,10 @@
       "owner": "openbao",
       "url": "https://github.com/openbao/openbao",
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-      "stars": 8110,
+      "stars": 8123,
       "starsToday": 232,
       "addedAt": "2026-08-07T13:39:42.756Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "jackc/pgx": {
       "name": "pgx",
@@ -9761,10 +9831,10 @@
       "owner": "putyy",
       "url": "https://github.com/putyy/res-downloader",
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
-      "stars": 20248,
-      "starsToday": 142,
+      "stars": 20259,
+      "starsToday": 76,
       "addedAt": "2026-08-10T13:44:41.249Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "kdlbs/kandev": {
       "name": "kandev",
@@ -9821,10 +9891,10 @@
       "owner": "cli",
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
-      "stars": 46136,
-      "starsToday": 14,
+      "stars": 46424,
+      "starsToday": 15,
       "addedAt": "2026-08-11T13:43:07.882Z",
-      "lastSeenAt": "2026-09-04T04:34:12.828Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "netbirdio/netbird": {
       "name": "netbird",
@@ -9931,10 +10001,10 @@
       "owner": "trufflesecurity",
       "url": "https://github.com/trufflesecurity/trufflehog",
       "description": "Find, verify, and analyze leaked credentials",
-      "stars": 27874,
-      "starsToday": 24,
+      "stars": 28118,
+      "starsToday": 22,
       "addedAt": "2026-08-12T13:47:42.384Z",
-      "lastSeenAt": "2026-09-14T04:57:44.960Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "netdata/netdata": {
       "name": "netdata",
@@ -10251,10 +10321,10 @@
       "owner": "mudler",
       "url": "https://github.com/mudler/LocalAI",
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
-      "stars": 48969,
-      "starsToday": 40,
+      "stars": 49290,
+      "starsToday": 22,
       "addedAt": "2026-08-16T13:01:27.083Z",
-      "lastSeenAt": "2026-09-08T04:37:08.353Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "velero-io/velero": {
       "name": "velero",
@@ -10642,9 +10712,9 @@
       "url": "https://github.com/microsoft/TypeScript",
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "stars": 111230,
-      "starsToday": 26,
+      "starsToday": 23,
       "addedAt": "2026-08-22T01:50:29.710Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "hashicorp/nomad": {
       "name": "nomad",
@@ -11251,10 +11321,10 @@
       "owner": "Billionmail",
       "url": "https://github.com/Billionmail/BillionMail",
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
-      "stars": 15510,
-      "starsToday": 9,
+      "stars": 15663,
+      "starsToday": 18,
       "addedAt": "2026-08-31T13:51:43.562Z",
-      "lastSeenAt": "2026-09-01T05:09:10.594Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "go-acme/lego": {
       "name": "lego",
@@ -11711,10 +11781,10 @@
       "owner": "dagucloud",
       "url": "https://github.com/dagucloud/dagu",
       "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
-      "stars": 3979,
-      "starsToday": 12,
+      "stars": 4162,
+      "starsToday": 43,
       "addedAt": "2026-09-11T11:21:51.273Z",
-      "lastSeenAt": "2026-09-14T04:57:44.960Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "grafana/k6": {
       "name": "k6",
@@ -11741,10 +11811,10 @@
       "owner": "obot-platform",
       "url": "https://github.com/obot-platform/obot",
       "description": "Complete AI Governance Platform from Obot AI",
-      "stars": 1007,
-      "starsToday": 4,
+      "stars": 1071,
+      "starsToday": 12,
       "addedAt": "2026-09-12T10:47:37.504Z",
-      "lastSeenAt": "2026-09-13T04:48:41.656Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "amir20/dozzle": {
       "name": "dozzle",
@@ -11851,10 +11921,10 @@
       "owner": "cockroachdb",
       "url": "https://github.com/cockroachdb/cockroach",
       "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
-      "stars": 32537,
-      "starsToday": 10,
+      "stars": 32517,
+      "starsToday": 7,
       "addedAt": "2026-09-16T11:34:52.628Z",
-      "lastSeenAt": "2026-09-17T04:53:43.295Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "grpc/grpc-go": {
       "name": "grpc-go",
@@ -12175,6 +12245,46 @@
       "starsToday": 1,
       "addedAt": "2026-09-26T11:25:41.304Z",
       "lastSeenAt": "2026-09-27T12:03:18.116Z"
+    },
+    "git-bug/git-bug": {
+      "name": "git-bug",
+      "owner": "git-bug",
+      "url": "https://github.com/git-bug/git-bug",
+      "description": "Distributed, offline-first bug tracker integrated in git",
+      "stars": 10602,
+      "starsToday": 59,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "daeuniverse/dae": {
+      "name": "dae",
+      "owner": "daeuniverse",
+      "url": "https://github.com/daeuniverse/dae",
+      "description": "eBPF-based Linux high-performance transparent proxy solution.",
+      "stars": 6243,
+      "starsToday": 3,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "YoanWai/agent-manager": {
+      "name": "agent-manager",
+      "owner": "YoanWai",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "description": "The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.",
+      "stars": 520,
+      "starsToday": 18,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "fyne-io/fyne": {
+      "name": "fyne",
+      "owner": "fyne-io",
+      "url": "https://github.com/fyne-io/fyne",
+      "description": "Cross platform GUI toolkit in Go inspired by Material Design",
+      "stars": 28720,
+      "starsToday": 8,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "rust": {
@@ -12233,10 +12343,10 @@
       "owner": "rust-lang",
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
-      "stars": 119231,
-      "starsToday": 48,
+      "stars": 119238,
+      "starsToday": 53,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "rust-lang/rust-clippy": {
       "name": "rust-clippy",
@@ -12653,10 +12763,10 @@
       "owner": "pnpm",
       "url": "https://github.com/pnpm/pnpm",
       "description": "Fast, disk space efficient package manager",
-      "stars": 36670,
-      "starsToday": 16,
+      "stars": 36673,
+      "starsToday": 19,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "ovexro/dockpanel": {
       "name": "dockpanel",
@@ -12713,10 +12823,10 @@
       "owner": "juspay",
       "url": "https://github.com/juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
-      "stars": 44677,
-      "starsToday": 159,
+      "stars": 44818,
+      "starsToday": 610,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "pola-rs/polars": {
       "name": "polars",
@@ -13283,10 +13393,10 @@
       "owner": "oven-sh",
       "url": "https://github.com/oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "stars": 96054,
-      "starsToday": 16,
+      "stars": 96052,
+      "starsToday": 19,
       "addedAt": "2026-08-11T13:43:07.882Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "cachix/devenv": {
       "name": "devenv",
@@ -13623,10 +13733,10 @@
       "owner": "block",
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
-      "stars": 34951,
+      "stars": 34985,
       "starsToday": 281,
       "addedAt": "2026-08-19T18:53:30.943Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "RyanCodrai/turbovec": {
       "name": "turbovec",
@@ -14133,10 +14243,10 @@
       "owner": "bevyengine",
       "url": "https://github.com/bevyengine/bevy",
       "description": "A refreshingly simple data-driven game engine built in Rust",
-      "stars": 48271,
-      "starsToday": 49,
+      "stars": 48421,
+      "starsToday": 32,
       "addedAt": "2026-08-28T11:24:04.195Z",
-      "lastSeenAt": "2026-09-19T04:38:13.615Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "alibaba/anolisa": {
       "name": "anolisa",
@@ -14603,10 +14713,10 @@
       "owner": "feigeCode",
       "url": "https://github.com/feigeCode/navop",
       "description": "A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.",
-      "stars": 1697,
-      "starsToday": 68,
+      "stars": 1703,
+      "starsToday": 59,
       "addedAt": "2026-09-10T11:20:36.820Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "akitaonrails/ai-usagebar": {
       "name": "ai-usagebar",
@@ -14963,10 +15073,10 @@
       "owner": "hydra-db",
       "url": "https://github.com/hydra-db/hydradb",
       "description": "HydraDB - fast graph database on object storage",
-      "stars": 9921,
-      "starsToday": 1187,
+      "stars": 10492,
+      "starsToday": 2791,
       "addedAt": "2026-09-22T11:39:23.434Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "huggingface/tokenizers": {
       "name": "tokenizers",
@@ -15063,10 +15173,10 @@
       "owner": "kitao",
       "url": "https://github.com/kitao/pyxel",
       "description": "A retro game engine for Python",
-      "stars": 17978,
-      "starsToday": 24,
+      "stars": 18091,
+      "starsToday": 39,
       "addedAt": "2026-09-25T11:51:25.703Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "CodeZeno/Claude-Code-Usage-Monitor": {
       "name": "Claude-Code-Usage-Monitor",
@@ -15117,6 +15227,26 @@
       "starsToday": 2,
       "addedAt": "2026-09-26T11:25:41.304Z",
       "lastSeenAt": "2026-09-27T12:03:18.116Z"
+    },
+    "denisidoro/navi": {
+      "name": "navi",
+      "owner": "denisidoro",
+      "url": "https://github.com/denisidoro/navi",
+      "description": "An interactive cheatsheet tool for the command-line",
+      "stars": 17659,
+      "starsToday": 10,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "tvollstaedt/exodium": {
+      "name": "exodium",
+      "owner": "tvollstaedt",
+      "url": "https://github.com/tvollstaedt/exodium",
+      "description": "Cross-platform retro game launcher based on eXoDOS",
+      "stars": 285,
+      "starsToday": 14,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "java": {
@@ -15135,10 +15265,10 @@
       "owner": "Anuken",
       "url": "https://github.com/Anuken/Mindustry",
       "description": "The automation tower defense RTS",
-      "stars": 29070,
-      "starsToday": 10,
+      "stars": 29135,
+      "starsToday": 19,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "DrKLO/Telegram": {
       "name": "Telegram",
@@ -15148,17 +15278,17 @@
       "stars": 29934,
       "starsToday": 9,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "TeamNewPipe/NewPipe": {
       "name": "NewPipe",
       "owner": "TeamNewPipe",
       "url": "https://github.com/TeamNewPipe/NewPipe",
       "description": "A libre lightweight streaming front-end for Android.",
-      "stars": 39735,
-      "starsToday": 17,
+      "stars": 39793,
+      "starsToday": 9,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "woheller69/FreeDroidWarn": {
       "name": "FreeDroidWarn",
@@ -15205,10 +15335,10 @@
       "owner": "Creators-of-Create",
       "url": "https://github.com/Creators-of-Create/Create",
       "description": "[NeoForge Mod] Building Tools and Aesthetic Technology",
-      "stars": 4520,
-      "starsToday": 3,
+      "stars": 4534,
+      "starsToday": 5,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "osmandapp/OsmAnd": {
       "name": "OsmAnd",
@@ -15225,20 +15355,20 @@
       "owner": "karma9874",
       "url": "https://github.com/karma9874/AndroRAT",
       "description": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
-      "stars": 5144,
-      "starsToday": 3,
+      "stars": 5147,
+      "starsToday": 2,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "elastic/elasticsearch": {
       "name": "elasticsearch",
       "owner": "elastic",
       "url": "https://github.com/elastic/elasticsearch",
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
-      "stars": 78007,
+      "stars": 78009,
       "starsToday": 17,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "AsamK/signal-cli": {
       "name": "signal-cli",
@@ -15275,10 +15405,10 @@
       "owner": "kunal-kushwaha",
       "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
-      "stars": 23900,
+      "stars": 23902,
       "starsToday": 12,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "apache/maven": {
       "name": "maven",
@@ -15395,10 +15525,10 @@
       "owner": "AntennaPod",
       "url": "https://github.com/AntennaPod/AntennaPod",
       "description": "A podcast manager for Android",
-      "stars": 8172,
-      "starsToday": 5,
+      "stars": 8188,
+      "starsToday": 3,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Dwinovo/minecraft-numen": {
       "name": "minecraft-numen",
@@ -15415,10 +15545,10 @@
       "owner": "MCRcortex",
       "url": "https://github.com/MCRcortex/voxy",
       "description": "An LoD rendering mod for minecraft",
-      "stars": 1237,
-      "starsToday": 3,
+      "stars": 1254,
+      "starsToday": 4,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "shmykelsa/AAAD": {
       "name": "AAAD",
@@ -15545,10 +15675,10 @@
       "owner": "yuliskov",
       "url": "https://github.com/yuliskov/SmartTube",
       "description": "Browse media content with your own rules on Android TV",
-      "stars": 33719,
-      "starsToday": 70,
+      "stars": 34213,
+      "starsToday": 39,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-16T04:49:55.578Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "apache/cassandra": {
       "name": "cassandra",
@@ -15605,10 +15735,10 @@
       "owner": "spring-projects",
       "url": "https://github.com/spring-projects/spring-boot",
       "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
-      "stars": 81515,
+      "stars": 81517,
       "starsToday": 13,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "netty/netty": {
       "name": "netty",
@@ -15915,10 +16045,10 @@
       "owner": "OtterMind",
       "url": "https://github.com/OtterMind/Chat2DB",
       "description": "Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.",
-      "stars": 28272,
+      "stars": 28276,
       "starsToday": 21,
       "addedAt": "2026-08-07T13:39:42.756Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "apache/tomcat": {
       "name": "tomcat",
@@ -16565,10 +16695,10 @@
       "owner": "PojavLauncherTeam",
       "url": "https://github.com/PojavLauncherTeam/PojavLauncher",
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android",
-      "stars": 9392,
+      "stars": 9395,
       "starsToday": 8,
       "addedAt": "2026-08-16T13:01:27.083Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "7723mod/NPatch": {
       "name": "NPatch",
@@ -16865,10 +16995,10 @@
       "owner": "MeteorDevelopment",
       "url": "https://github.com/MeteorDevelopment/meteor-client",
       "description": "Based Minecraft utility mod.",
-      "stars": 3852,
-      "starsToday": 3,
+      "stars": 3880,
+      "starsToday": 4,
       "addedAt": "2026-08-24T13:13:07.036Z",
-      "lastSeenAt": "2026-09-15T04:55:31.427Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "JetBrains/intellij-community": {
       "name": "intellij-community",
@@ -17155,10 +17285,10 @@
       "owner": "iluwatar",
       "url": "https://github.com/iluwatar/java-design-patterns",
       "description": "Design patterns implemented in Java",
-      "stars": 94733,
+      "stars": 94739,
       "starsToday": 5,
       "addedAt": "2026-09-05T15:14:27.075Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "spring-ai-alibaba/DataAgent": {
       "name": "DataAgent",
@@ -17549,6 +17679,16 @@
       "starsToday": 19,
       "addedAt": "2026-09-27T05:19:12.773Z",
       "lastSeenAt": "2026-09-27T05:19:12.773Z"
+    },
+    "AbdurazaaqMohammed/MP-Manager": {
+      "name": "MP-Manager",
+      "owner": "AbdurazaaqMohammed",
+      "url": "https://github.com/AbdurazaaqMohammed/MP-Manager",
+      "description": "Dual pane Android file manager with focus on APKs",
+      "stars": 81,
+      "starsToday": 2,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "c": {
@@ -17597,10 +17737,10 @@
       "owner": "xiaojieonly",
       "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
       "description": "ehviewer，用爱发电，快乐前行",
-      "stars": 27136,
-      "starsToday": 29,
+      "stars": 27146,
+      "starsToday": 38,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "nginx/nginx": {
       "name": "nginx",
@@ -17627,20 +17767,20 @@
       "owner": "brunodev85",
       "url": "https://github.com/brunodev85/winlator",
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
-      "stars": 19096,
-      "starsToday": 9,
+      "stars": 19200,
+      "starsToday": 19,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "obsproject/obs-studio": {
       "name": "obs-studio",
       "owner": "obsproject",
       "url": "https://github.com/obsproject/obs-studio",
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
-      "stars": 76673,
-      "starsToday": 38,
+      "stars": 76688,
+      "starsToday": 42,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Klipper3d/klipper": {
       "name": "klipper",
@@ -17987,10 +18127,10 @@
       "owner": "git",
       "url": "https://github.com/git/git",
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
-      "stars": 63372,
-      "starsToday": 28,
+      "stars": 63386,
+      "starsToday": 40,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "linux-rdma/rdma-core": {
       "name": "rdma-core",
@@ -18027,10 +18167,10 @@
       "owner": "lvgl",
       "url": "https://github.com/lvgl/lvgl",
       "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
-      "stars": 24712,
-      "starsToday": 14,
+      "stars": 24763,
+      "starsToday": 13,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-18T04:44:15.125Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "armel/uv-k1-k5v3-firmware-custom": {
       "name": "uv-k1-k5v3-firmware-custom",
@@ -18867,10 +19007,10 @@
       "owner": "bol-van",
       "url": "https://github.com/bol-van/zapret2",
       "description": "anti-dpi software",
-      "stars": 5438,
-      "starsToday": 9,
+      "stars": 5544,
+      "starsToday": 13,
       "addedAt": "2026-08-16T13:01:27.083Z",
-      "lastSeenAt": "2026-09-13T04:48:41.656Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "OpenIPC/firmware": {
       "name": "firmware",
@@ -18987,10 +19127,10 @@
       "owner": "NVIDIA",
       "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
       "description": "NVIDIA Linux open GPU kernel module source",
-      "stars": 17347,
-      "starsToday": 0,
+      "stars": 17428,
+      "starsToday": 4,
       "addedAt": "2026-08-18T13:07:37.402Z",
-      "lastSeenAt": "2026-09-06T10:57:15.118Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "DarkFlippers/unleashed-firmware": {
       "name": "unleashed-firmware",
@@ -19077,10 +19217,10 @@
       "owner": "FreeRDP",
       "url": "https://github.com/FreeRDP/FreeRDP",
       "description": "FreeRDP is a free remote desktop protocol library and clients",
-      "stars": 13737,
-      "starsToday": 4,
+      "stars": 13739,
+      "starsToday": 6,
       "addedAt": "2026-08-20T13:11:38.601Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "sabrogden/Ditto": {
       "name": "Ditto",
@@ -19097,10 +19237,10 @@
       "owner": "signalwire",
       "url": "https://github.com/signalwire/freeswitch",
       "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
-      "stars": 5185,
-      "starsToday": 2,
+      "stars": 5191,
+      "starsToday": 4,
       "addedAt": "2026-08-22T01:50:29.710Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "ventoy/Ventoy": {
       "name": "Ventoy",
@@ -19267,10 +19407,10 @@
       "owner": "espeak-ng",
       "url": "https://github.com/espeak-ng/espeak-ng",
       "description": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
-      "stars": 6773,
-      "starsToday": 11,
+      "stars": 6885,
+      "starsToday": 2,
       "addedAt": "2026-08-27T22:16:14.871Z",
-      "lastSeenAt": "2026-08-27T22:16:14.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "containers/bubblewrap": {
       "name": "bubblewrap",
@@ -19397,10 +19537,10 @@
       "owner": "Filoppi",
       "url": "https://github.com/Filoppi/Luma-Framework",
       "description": "Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki",
-      "stars": 812,
-      "starsToday": 9,
+      "stars": 852,
+      "starsToday": 4,
       "addedAt": "2026-09-02T16:34:58.234Z",
-      "lastSeenAt": "2026-09-07T04:42:31.960Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "ExistentialAudio/BlackHole": {
       "name": "BlackHole",
@@ -19597,10 +19737,10 @@
       "owner": "xroche",
       "url": "https://github.com/xroche/httrack",
       "description": "HTTrack Website Copier, copy websites to your computer (Official repository)",
-      "stars": 4729,
-      "starsToday": 5,
+      "stars": 4770,
+      "starsToday": 3,
       "addedAt": "2026-09-05T15:14:27.075Z",
-      "lastSeenAt": "2026-09-06T10:57:15.118Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Yuzhii0718/bl-mt798x-dhcpd": {
       "name": "bl-mt798x-dhcpd",
@@ -19697,10 +19837,10 @@
       "owner": "willfaust",
       "url": "https://github.com/willfaust/Madeira",
       "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-      "stars": 684,
-      "starsToday": 171,
+      "stars": 745,
+      "starsToday": 117,
       "addedAt": "2026-09-09T11:24:23.866Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "iczelia/bzip3": {
       "name": "bzip3",
@@ -20077,10 +20217,10 @@
       "owner": "lyssadev",
       "url": "https://github.com/lyssadev/Spotilol",
       "description": "A android app that wraps Spotify's web player with built-in adblocker",
-      "stars": 390,
-      "starsToday": 4,
+      "stars": 429,
+      "starsToday": 28,
       "addedAt": "2026-09-22T11:39:23.434Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "EchoStretch/kstuff-lite": {
       "name": "kstuff-lite",
@@ -20147,10 +20287,10 @@
       "owner": "matz",
       "url": "https://github.com/matz/spinel",
       "description": "Ruby AOT compiler",
-      "stars": 1953,
+      "stars": 1956,
       "starsToday": 8,
       "addedAt": "2026-09-25T11:51:25.703Z",
-      "lastSeenAt": "2026-09-27T05:19:12.773Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "confluentinc/librdkafka": {
       "name": "librdkafka",
@@ -20161,6 +20301,46 @@
       "starsToday": 0,
       "addedAt": "2026-09-26T11:25:41.304Z",
       "lastSeenAt": "2026-09-27T12:03:18.116Z"
+    },
+    "libvips/libvips": {
+      "name": "libvips",
+      "owner": "libvips",
+      "url": "https://github.com/libvips/libvips",
+      "description": "A fast image processing library with low memory needs.",
+      "stars": 11680,
+      "starsToday": 5,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "joncampbell123/dosbox-x": {
+      "name": "dosbox-x",
+      "owner": "joncampbell123",
+      "url": "https://github.com/joncampbell123/dosbox-x",
+      "description": "DOSBox-X fork of the DOSBox project",
+      "stars": 3741,
+      "starsToday": 3,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "rusefi/rusefi": {
+      "name": "rusefi",
+      "owner": "rusefi",
+      "url": "https://github.com/rusefi/rusefi",
+      "description": "rusefi - GPL internal combustion engine control unit",
+      "stars": 1173,
+      "starsToday": 0,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "arkime/arkime": {
+      "name": "arkime",
+      "owner": "arkime",
+      "url": "https://github.com/arkime/arkime",
+      "description": "Arkime is an open source, large scale, full packet capturing, indexing, and database system.",
+      "stars": 7499,
+      "starsToday": 5,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "c++": {
@@ -20369,10 +20549,10 @@
       "owner": "doitsujin",
       "url": "https://github.com/doitsujin/dxvk",
       "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine",
-      "stars": 18118,
-      "starsToday": 5,
+      "stars": 18157,
+      "starsToday": 7,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "CleverRaven/Cataclysm-DDA": {
       "name": "Cataclysm-DDA",
@@ -20439,10 +20619,10 @@
       "owner": "shadps4-emu",
       "url": "https://github.com/shadps4-emu/shadPS4",
       "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
-      "stars": 32971,
-      "starsToday": 12,
+      "stars": 32994,
+      "starsToday": 17,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "wled/WLED": {
       "name": "WLED",
@@ -20652,7 +20832,7 @@
       "stars": 25744,
       "starsToday": 4,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "dmlc/xgboost": {
       "name": "xgboost",
@@ -20819,10 +20999,10 @@
       "owner": "tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
-      "stars": 200547,
+      "stars": 200559,
       "starsToday": 216,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Fincept-Corporation/FinceptTerminal": {
       "name": "FinceptTerminal",
@@ -21209,10 +21389,10 @@
       "owner": "RPCS3",
       "url": "https://github.com/RPCS3/rpcs3",
       "description": "PlayStation 3 emulator and debugger",
-      "stars": 19761,
+      "stars": 19889,
       "starsToday": 13,
       "addedAt": "2026-08-09T13:15:49.422Z",
-      "lastSeenAt": "2026-09-15T04:55:31.427Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Tencent/ncnn": {
       "name": "ncnn",
@@ -21429,10 +21609,10 @@
       "owner": "google",
       "url": "https://github.com/google/flatbuffers",
       "description": "FlatBuffers: Memory Efficient Serialization Library",
-      "stars": 26513,
-      "starsToday": 3,
+      "stars": 26516,
+      "starsToday": 13,
       "addedAt": "2026-08-11T13:43:07.882Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "azahar-emu/azahar": {
       "name": "azahar",
@@ -21709,10 +21889,10 @@
       "owner": "ossrs",
       "url": "https://github.com/ossrs/srs",
       "description": "SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
-      "stars": 29233,
-      "starsToday": 11,
+      "stars": 29292,
+      "starsToday": 3,
       "addedAt": "2026-08-14T13:43:12.990Z",
-      "lastSeenAt": "2026-09-11T04:41:25.473Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "safijari/openpuck": {
       "name": "openpuck",
@@ -21930,9 +22110,9 @@
       "url": "https://github.com/esphome/esphome",
       "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
       "stars": 11734,
-      "starsToday": 7,
+      "starsToday": 5,
       "addedAt": "2026-08-17T13:05:46.308Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "awalol/DS5Dongle": {
       "name": "DS5Dongle",
@@ -23273,6 +23453,46 @@
       "starsToday": 5,
       "addedAt": "2026-09-26T11:25:41.304Z",
       "lastSeenAt": "2026-09-27T12:03:18.116Z"
+    },
+    "The412Banner/winlator-contents": {
+      "name": "winlator-contents",
+      "owner": "The412Banner",
+      "url": "https://github.com/The412Banner/winlator-contents",
+      "description": "Component catalog index for BannerHub / Winlator clients. Hosts contents.json (mirror of nightlies_components.json). Component binaries live on The412Banner/Nightlies releases.",
+      "stars": 73,
+      "starsToday": 9,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "cataclysmbn/Cataclysm-BN": {
+      "name": "Cataclysm-BN",
+      "owner": "cataclysmbn",
+      "url": "https://github.com/cataclysmbn/Cataclysm-BN",
+      "description": "Cataclysm: Bright Nights: A fork/variant of Cataclysm:DDA by CleverRaven with a mod registry at https://mods.cataclysmbn.org/",
+      "stars": 1244,
+      "starsToday": 1,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "organicmaps/organicmaps": {
+      "name": "organicmaps",
+      "owner": "organicmaps",
+      "url": "https://github.com/organicmaps/organicmaps",
+      "description": "🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+      "stars": 15515,
+      "starsToday": 16,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "gta-reversed/gta-reversed": {
+      "name": "gta-reversed",
+      "owner": "gta-reversed",
+      "url": "https://github.com/gta-reversed/gta-reversed",
+      "description": "Reimplementation of GTA:SA 1.0 US",
+      "stars": 932,
+      "starsToday": 5,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "c#": {
@@ -23291,20 +23511,20 @@
       "owner": "k1tbyte",
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "stars": 29494,
+      "stars": 29546,
       "starsToday": 257,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Jackett/Jackett": {
       "name": "Jackett",
       "owner": "Jackett",
       "url": "https://github.com/Jackett/Jackett",
       "description": "API Support for your favorite torrent trackers",
-      "stars": 16031,
-      "starsToday": 6,
+      "stars": 16088,
+      "starsToday": 9,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-15T04:55:31.427Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "tModLoader/tModLoader": {
       "name": "tModLoader",
@@ -23461,10 +23681,10 @@
       "owner": "babalae",
       "url": "https://github.com/babalae/better-genshin-impact",
       "description": "📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact",
-      "stars": 15748,
+      "stars": 15754,
       "starsToday": 28,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "lostindark/DriverStoreExplorer": {
       "name": "DriverStoreExplorer",
@@ -23531,20 +23751,20 @@
       "owner": "CoplayDev",
       "url": "https://github.com/CoplayDev/unity-mcp",
       "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-      "stars": 14491,
-      "starsToday": 20,
+      "stars": 14531,
+      "starsToday": 23,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Sonarr/Sonarr": {
       "name": "Sonarr",
       "owner": "Sonarr",
       "url": "https://github.com/Sonarr/Sonarr",
       "description": "Smart PVR for newsgroup and bittorrent users.",
-      "stars": 16154,
-      "starsToday": 96,
+      "stars": 16600,
+      "starsToday": 32,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-15T04:55:31.427Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "killkimno/MORT": {
       "name": "MORT",
@@ -23851,10 +24071,10 @@
       "owner": "AvaloniaUI",
       "url": "https://github.com/AvaloniaUI/Avalonia",
       "description": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI",
-      "stars": 31565,
-      "starsToday": 13,
+      "stars": 31582,
+      "starsToday": 11,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "MonoGame/MonoGame": {
       "name": "MonoGame",
@@ -23891,10 +24111,10 @@
       "owner": "modelcontextprotocol",
       "url": "https://github.com/modelcontextprotocol/csharp-sdk",
       "description": "The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.",
-      "stars": 4536,
-      "starsToday": 3,
+      "stars": 4549,
+      "starsToday": 2,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Azure/azure-powershell": {
       "name": "azure-powershell",
@@ -23921,10 +24141,10 @@
       "owner": "memstechtips",
       "url": "https://github.com/memstechtips/Winhance",
       "description": "Application designed to optimize, customize and enhance your Windows experience.",
-      "stars": 12990,
-      "starsToday": 12,
+      "stars": 13209,
+      "starsToday": 26,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-14T04:57:44.960Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "AIDotNet/OpenDeepWiki": {
       "name": "OpenDeepWiki",
@@ -23941,10 +24161,10 @@
       "owner": "OpenRA",
       "url": "https://github.com/OpenRA/OpenRA",
       "description": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
-      "stars": 17436,
-      "starsToday": 1,
+      "stars": 17443,
+      "starsToday": 5,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "hbashton/DS4Windows": {
       "name": "DS4Windows",
@@ -24101,10 +24321,10 @@
       "owner": "Goob-Station",
       "url": "https://github.com/Goob-Station/Goob-Station",
       "description": "We're not even close to \"Wizden, but random\" at this point. Super chud SS14 fork. By chuds, for chuds.",
-      "stars": 235,
-      "starsToday": 1,
+      "stars": 236,
+      "starsToday": 0,
       "addedAt": "2026-08-08T13:12:53.850Z",
-      "lastSeenAt": "2026-08-09T07:16:30.796Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "dotnet/dotnet": {
       "name": "dotnet",
@@ -24441,10 +24661,10 @@
       "owner": "madoiscool",
       "url": "https://github.com/madoiscool/LuaTools",
       "description": "AppID Manager for ST",
-      "stars": 610,
+      "stars": 611,
       "starsToday": 9,
       "addedAt": "2026-08-14T13:43:12.990Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "sbroenne/mcp-server-excel": {
       "name": "mcp-server-excel",
@@ -24561,10 +24781,10 @@
       "owner": "beeradmoore",
       "url": "https://github.com/beeradmoore/dlss-swapper",
       "description": "",
-      "stars": 7258,
-      "starsToday": 37,
+      "stars": 7541,
+      "starsToday": 13,
       "addedAt": "2026-08-16T13:01:27.083Z",
-      "lastSeenAt": "2026-09-09T04:42:55.808Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "database64128/youtube-dl-wpf": {
       "name": "youtube-dl-wpf",
@@ -25054,7 +25274,7 @@
       "stars": 1178,
       "starsToday": 7,
       "addedAt": "2026-09-05T15:14:27.075Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "MUnique/OpenMU": {
       "name": "OpenMU",
@@ -25211,10 +25431,10 @@
       "owner": "ProwlEngine",
       "url": "https://github.com/ProwlEngine/Prowl",
       "description": "An Open Source C# 3D Game Engine under MIT license, inspired by Unity and featuring a complete editor",
-      "stars": 1145,
-      "starsToday": 34,
+      "stars": 1219,
+      "starsToday": 1,
       "addedAt": "2026-09-11T11:21:51.273Z",
-      "lastSeenAt": "2026-09-13T04:48:41.656Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "unoplatform/uno": {
       "name": "uno",
@@ -25551,10 +25771,30 @@
       "owner": "nefarius",
       "url": "https://github.com/nefarius/DsHidMini",
       "description": "Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers",
-      "stars": 1820,
+      "stars": 1822,
       "starsToday": 4,
       "addedAt": "2026-09-26T11:25:41.304Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "Tianyu199509/DeskBox": {
+      "name": "DeskBox",
+      "owner": "Tianyu199509",
+      "url": "https://github.com/Tianyu199509/DeskBox",
+      "description": "A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.",
+      "stars": 5599,
+      "starsToday": 179,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
+    },
+    "RayWangQvQ/BiliBiliToolPro": {
+      "name": "BiliBiliToolPro",
+      "owner": "RayWangQvQ",
+      "url": "https://github.com/RayWangQvQ/BiliBiliToolPro",
+      "description": "B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。",
+      "stars": 8857,
+      "starsToday": 18,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "ruby": {
@@ -25563,10 +25803,10 @@
       "owner": "we-promise",
       "url": "https://github.com/we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
-      "stars": 10039,
-      "starsToday": 10,
+      "stars": 10242,
+      "starsToday": 165,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "chatwoot/chatwoot": {
       "name": "chatwoot",
@@ -25603,10 +25843,10 @@
       "owner": "rails",
       "url": "https://github.com/rails/rails",
       "description": "Ruby on Rails",
-      "stars": 58780,
+      "stars": 58779,
       "starsToday": 2,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "rails/solid_queue": {
       "name": "solid_queue",
@@ -25623,20 +25863,20 @@
       "owner": "ruby",
       "url": "https://github.com/ruby/ruby",
       "description": "The Ruby Programming Language",
-      "stars": 23758,
-      "starsToday": 1,
+      "stars": 23760,
+      "starsToday": 8,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Homebrew/brew": {
       "name": "brew",
       "owner": "Homebrew",
       "url": "https://github.com/Homebrew/brew",
       "description": "🍺 The Package Manager for Everywhere",
-      "stars": 49791,
+      "stars": 49793,
       "starsToday": 13,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "freeCodeCamp/devdocs": {
       "name": "devdocs",
@@ -25673,10 +25913,10 @@
       "owner": "dependabot",
       "url": "https://github.com/dependabot/dependabot-core",
       "description": "🤖 Dependabot's core logic for creating update PRs.",
-      "stars": 5788,
-      "starsToday": 2,
+      "stars": 5789,
+      "starsToday": 1,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "openfoodfoundation/openfoodnetwork": {
       "name": "openfoodnetwork",
@@ -25703,10 +25943,10 @@
       "owner": "docusealco",
       "url": "https://github.com/docusealco/docuseal",
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "stars": 18623,
+      "stars": 18625,
       "starsToday": 3,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "publiclab/plots2": {
       "name": "plots2",
@@ -25743,10 +25983,10 @@
       "owner": "jekyll",
       "url": "https://github.com/jekyll/jekyll",
       "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
-      "stars": 51690,
-      "starsToday": 5,
+      "stars": 51693,
+      "starsToday": 3,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Freika/dawarich": {
       "name": "dawarich",
@@ -25763,20 +26003,20 @@
       "owner": "Homebrew",
       "url": "https://github.com/Homebrew/homebrew-core",
       "description": "🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere",
-      "stars": 15593,
+      "stars": 15595,
       "starsToday": 3,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "github-linguist/linguist": {
       "name": "linguist",
       "owner": "github-linguist",
       "url": "https://github.com/github-linguist/linguist",
       "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
-      "stars": 13700,
-      "starsToday": 4,
+      "stars": 13709,
+      "starsToday": 2,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-23T04:45:51.248Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "rapid7/metasploit-framework": {
       "name": "metasploit-framework",
@@ -25826,7 +26066,7 @@
       "stars": 15728,
       "starsToday": 5,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "hackclub/hcb": {
       "name": "hcb",
@@ -25863,10 +26103,10 @@
       "owner": "googleapis",
       "url": "https://github.com/googleapis/google-api-ruby-client",
       "description": "REST client for Google APIs",
-      "stars": 2899,
+      "stars": 2900,
       "starsToday": 0,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-19T04:38:13.615Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "jruby/jruby": {
       "name": "jruby",
@@ -25893,10 +26133,10 @@
       "owner": "fastlane",
       "url": "https://github.com/fastlane/fastlane",
       "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
-      "stars": 42145,
-      "starsToday": 5,
+      "stars": 42169,
+      "starsToday": 10,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-23T04:45:51.248Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "DataDog/dd-trace-rb": {
       "name": "dd-trace-rb",
@@ -26074,9 +26314,9 @@
       "url": "https://github.com/googleapis/google-cloud-ruby",
       "description": "Google Cloud Client Library for Ruby",
       "stars": 1426,
-      "starsToday": 1,
+      "starsToday": 0,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-09T04:42:55.808Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "chef/chef": {
       "name": "chef",
@@ -26103,10 +26343,10 @@
       "owner": "midudev",
       "url": "https://github.com/midudev/autoskills",
       "description": "One command. Your entire AI skill stack. Installed.",
-      "stars": 6901,
+      "stars": 6916,
       "starsToday": 6,
       "addedAt": "2026-08-07T13:39:42.756Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "solidusio/solidus": {
       "name": "solidus",
@@ -26123,10 +26363,10 @@
       "owner": "basecamp",
       "url": "https://github.com/basecamp/fizzy",
       "description": "Kanban as it should be. Not as it has been.",
-      "stars": 8229,
+      "stars": 8234,
       "starsToday": 5,
       "addedAt": "2026-08-08T13:12:53.850Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "rails/activeresource": {
       "name": "activeresource",
@@ -26233,10 +26473,10 @@
       "owner": "huginn",
       "url": "https://github.com/huginn/huginn",
       "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
-      "stars": 49994,
-      "starsToday": 5,
+      "stars": 50002,
+      "starsToday": 6,
       "addedAt": "2026-08-09T13:15:49.422Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "basecamp/writebook": {
       "name": "writebook",
@@ -26373,10 +26613,10 @@
       "owner": "basecamp",
       "url": "https://github.com/basecamp/once-campfire",
       "description": "Super simple group chat, without a subscription",
-      "stars": 4643,
-      "starsToday": 0,
+      "stars": 4653,
+      "starsToday": 3,
       "addedAt": "2026-08-16T13:01:27.083Z",
-      "lastSeenAt": "2026-09-24T04:51:46.663Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "stripe/stripe-ruby": {
       "name": "stripe-ruby",
@@ -26423,10 +26663,10 @@
       "owner": "otwcode",
       "url": "https://github.com/otwcode/otwarchive",
       "description": "The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project",
-      "stars": 2248,
+      "stars": 2249,
       "starsToday": 2,
       "addedAt": "2026-08-18T13:07:37.402Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "rubygems/rubygems.org": {
       "name": "rubygems.org",
@@ -26747,6 +26987,16 @@
       "starsToday": 1,
       "addedAt": "2026-09-25T11:51:25.703Z",
       "lastSeenAt": "2026-09-26T04:58:47.871Z"
+    },
+    "matteocrippa/awesome-swift": {
+      "name": "awesome-swift",
+      "owner": "matteocrippa",
+      "url": "https://github.com/matteocrippa/awesome-swift",
+      "description": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
+      "stars": 26294,
+      "starsToday": 8,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "php": {
@@ -26795,10 +27045,10 @@
       "owner": "akaunting",
       "url": "https://github.com/akaunting/akaunting",
       "description": "Online Accounting Software",
-      "stars": 10139,
-      "starsToday": 1,
+      "stars": 10147,
+      "starsToday": 2,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "cedar2025/Xboard": {
       "name": "Xboard",
@@ -26905,10 +27155,10 @@
       "owner": "firefly-iii",
       "url": "https://github.com/firefly-iii/firefly-iii",
       "description": "Firefly III: a personal finances manager",
-      "stars": 24697,
-      "starsToday": 10,
+      "stars": 24749,
+      "starsToday": 17,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-23T04:45:51.248Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "maajiko/Epay": {
       "name": "Epay",
@@ -27068,7 +27318,7 @@
       "stars": 9264,
       "starsToday": 5,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "elementor/elementor": {
       "name": "elementor",
@@ -27128,7 +27378,7 @@
       "stars": 3460,
       "starsToday": 1,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "librenms/librenms": {
       "name": "librenms",
@@ -27165,10 +27415,10 @@
       "owner": "laravel",
       "url": "https://github.com/laravel/framework",
       "description": "Laravel is a web application framework with expressive, elegant syntax.",
-      "stars": 34932,
+      "stars": 34930,
       "starsToday": 6,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "drush-ops/drush": {
       "name": "drush",
@@ -27395,10 +27645,10 @@
       "owner": "invoiceninja",
       "url": "https://github.com/invoiceninja/invoiceninja",
       "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
-      "stars": 10101,
-      "starsToday": 3,
+      "stars": 10121,
+      "starsToday": 7,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "pmmp/PocketMine-MP": {
       "name": "PocketMine-MP",
@@ -27455,10 +27705,10 @@
       "owner": "krayin",
       "url": "https://github.com/krayin/laravel-crm",
       "description": "Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.",
-      "stars": 23942,
-      "starsToday": 3,
+      "stars": 23950,
+      "starsToday": 7,
       "addedAt": "2026-08-07T13:39:42.756Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "glpi-project/glpi": {
       "name": "glpi",
@@ -27645,10 +27895,10 @@
       "owner": "David-Crty",
       "url": "https://github.com/David-Crty/databasement",
       "description": "Self-hosted database backup manager with a web UI. Schedule, backup, and restore MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, MongoDB, SQLite & Redis to S3, SFTP, Samba or local storage. SSH Tunnel support.",
-      "stars": 2423,
-      "starsToday": 6,
+      "stars": 2463,
+      "starsToday": 16,
       "addedAt": "2026-08-10T13:44:41.249Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "mautic/mautic": {
       "name": "mautic",
@@ -27748,7 +27998,7 @@
       "stars": 29534,
       "starsToday": 4,
       "addedAt": "2026-08-12T13:47:42.384Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "unopim/unopim": {
       "name": "unopim",
@@ -27826,9 +28076,9 @@
       "url": "https://github.com/PrivateBin/PrivateBin",
       "description": "A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",
       "stars": 8633,
-      "starsToday": 6,
+      "starsToday": 13,
       "addedAt": "2026-08-16T13:01:27.083Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "opnsense/plugins": {
       "name": "plugins",
@@ -27905,10 +28155,10 @@
       "owner": "PHPOffice",
       "url": "https://github.com/PHPOffice/PhpSpreadsheet",
       "description": "A pure PHP library for reading and writing spreadsheet files",
-      "stars": 13983,
-      "starsToday": 1,
+      "stars": 13990,
+      "starsToday": 0,
       "addedAt": "2026-08-18T13:07:37.402Z",
-      "lastSeenAt": "2026-09-02T11:19:02.361Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "lunarphp/lunar": {
       "name": "lunar",
@@ -28005,10 +28255,10 @@
       "owner": "pixelfed",
       "url": "https://github.com/pixelfed/pixelfed",
       "description": "Photo Sharing. For Everyone.",
-      "stars": 7106,
-      "starsToday": 2,
+      "stars": 7104,
+      "starsToday": 1,
       "addedAt": "2026-08-26T13:16:37.747Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "relaticle/relaticle": {
       "name": "relaticle",
@@ -28185,10 +28435,10 @@
       "owner": "appwrite",
       "url": "https://github.com/appwrite/appwrite",
       "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
-      "stars": 57488,
+      "stars": 57491,
       "starsToday": 11,
       "addedAt": "2026-09-16T11:34:52.628Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "koel/koel": {
       "name": "koel",
@@ -28259,6 +28509,16 @@
       "starsToday": 0,
       "addedAt": "2026-09-26T11:25:41.304Z",
       "lastSeenAt": "2026-09-27T12:03:18.116Z"
+    },
+    "Blair2004/NexoPOS": {
+      "name": "NexoPOS",
+      "owner": "Blair2004",
+      "url": "https://github.com/Blair2004/NexoPOS",
+      "description": "Laravel-based web POS system with Vue.js, Tailwind CSS, inventory management, sales processing, customer records, reports, and modular extension support.",
+      "stars": 1264,
+      "starsToday": 1,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "swift": {
@@ -28287,10 +28547,10 @@
       "owner": "steipete",
       "url": "https://github.com/steipete/CodexBar",
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "stars": 21886,
-      "starsToday": 57,
+      "stars": 21974,
+      "starsToday": 40,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "nikitabobko/AeroSpace": {
       "name": "AeroSpace",
@@ -28337,10 +28597,10 @@
       "owner": "utmapp",
       "url": "https://github.com/utmapp/UTM",
       "description": "Virtual machines for iOS and macOS",
-      "stars": 35565,
-      "starsToday": 9,
+      "stars": 35659,
+      "starsToday": 17,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "ejbills/DockDoor": {
       "name": "DockDoor",
@@ -28367,10 +28627,10 @@
       "owner": "iina",
       "url": "https://github.com/iina/iina",
       "description": "The modern video player for macOS.",
-      "stars": 46436,
-      "starsToday": 23,
+      "stars": 46512,
+      "starsToday": 16,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "moona3k/macparakeet": {
       "name": "macparakeet",
@@ -28387,20 +28647,20 @@
       "owner": "apple",
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "stars": 50006,
-      "starsToday": 41,
+      "stars": 50277,
+      "starsToday": 72,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-17T04:53:43.295Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "TelegramMessenger/Telegram-iOS": {
       "name": "Telegram-iOS",
       "owner": "TelegramMessenger",
       "url": "https://github.com/TelegramMessenger/Telegram-iOS",
       "description": "Telegram-iOS",
-      "stars": 8987,
+      "stars": 9003,
       "starsToday": 4,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "supabitapp/supacode": {
       "name": "supacode",
@@ -28817,10 +29077,10 @@
       "owner": "rxhanson",
       "url": "https://github.com/rxhanson/Rectangle",
       "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
-      "stars": 29901,
-      "starsToday": 4,
+      "stars": 29995,
+      "starsToday": 6,
       "addedAt": "2026-08-07T13:39:42.756Z",
-      "lastSeenAt": "2026-09-14T04:57:44.960Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "minh-ton/reynard-browser": {
       "name": "reynard-browser",
@@ -28837,10 +29097,10 @@
       "owner": "whoeevee",
       "url": "https://github.com/whoeevee/EeveeSpotifyReborn",
       "description": "A tweak to enhance Spotify experience",
-      "stars": 2413,
+      "stars": 2412,
       "starsToday": 3,
       "addedAt": "2026-08-07T13:39:42.756Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "RevenueCat/purchases-ios": {
       "name": "purchases-ios",
@@ -28957,10 +29217,10 @@
       "owner": "yattee",
       "url": "https://github.com/yattee/yattee",
       "description": "Privacy oriented video player for iOS, tvOS and macOS",
-      "stars": 3623,
-      "starsToday": 9,
+      "stars": 3709,
+      "starsToday": 3,
       "addedAt": "2026-08-09T13:15:49.422Z",
-      "lastSeenAt": "2026-08-10T08:04:36.168Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "claration/Feather": {
       "name": "Feather",
@@ -29037,10 +29297,10 @@
       "owner": "Ebullioscopic",
       "url": "https://github.com/Ebullioscopic/Atoll",
       "description": "Dynamic Island for macOS",
-      "stars": 4645,
-      "starsToday": 24,
+      "stars": 4787,
+      "starsToday": 15,
       "addedAt": "2026-08-11T13:43:07.882Z",
-      "lastSeenAt": "2026-09-18T04:44:15.125Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "f/textream": {
       "name": "textream",
@@ -29107,10 +29367,10 @@
       "owner": "apple",
       "url": "https://github.com/apple/coreai-models",
       "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-      "stars": 2126,
-      "starsToday": 5,
+      "stars": 2148,
+      "starsToday": 1,
       "addedAt": "2026-08-12T13:47:42.384Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "p0deje/Maccy": {
       "name": "Maccy",
@@ -29397,10 +29657,10 @@
       "owner": "seemoo-lab",
       "url": "https://github.com/seemoo-lab/openhaystack",
       "description": "Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
-      "stars": 13689,
+      "stars": 13692,
       "starsToday": 47,
       "addedAt": "2026-08-17T13:05:46.308Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "altstoreio/AltStore": {
       "name": "AltStore",
@@ -29527,10 +29787,10 @@
       "owner": "ronitsingh10",
       "url": "https://github.com/ronitsingh10/FineTune",
       "description": "FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.",
-      "stars": 9109,
-      "starsToday": 31,
+      "stars": 9440,
+      "starsToday": 30,
       "addedAt": "2026-08-22T01:50:29.710Z",
-      "lastSeenAt": "2026-09-03T04:34:04.261Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "mrkai77/Loop": {
       "name": "Loop",
@@ -30091,6 +30351,16 @@
       "starsToday": 3,
       "addedAt": "2026-09-26T11:25:41.304Z",
       "lastSeenAt": "2026-09-27T12:03:18.116Z"
+    },
+    "thsnkhn/harbor": {
+      "name": "harbor",
+      "owner": "thsnkhn",
+      "url": "https://github.com/thsnkhn/harbor",
+      "description": "Beautiful native macOS download manager for direct links, magnets, and torrents.",
+      "stars": 522,
+      "starsToday": 41,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "kotlin": {
@@ -30119,10 +30389,10 @@
       "owner": "thejaustin",
       "url": "https://github.com/thejaustin/ShizukuPlus",
       "description": "An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.",
-      "stars": 1172,
+      "stars": 1176,
       "starsToday": 20,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "aniyomiorg/aniyomi": {
       "name": "aniyomi",
@@ -30199,10 +30469,10 @@
       "owner": "vivizzz007",
       "url": "https://github.com/vivizzz007/vivi-music",
       "description": "Vivi-Music is an expressive Material 3–based YouTube Music client for Android.",
-      "stars": 3376,
+      "stars": 3387,
       "starsToday": 64,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "tailscale/tailscale-android": {
       "name": "tailscale-android",
@@ -30289,10 +30559,10 @@
       "owner": "rukamori",
       "url": "https://github.com/rukamori/ArchiveTune",
       "description": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
-      "stars": 6521,
+      "stars": 6528,
       "starsToday": 45,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "recloudstream/cloudstream": {
       "name": "cloudstream",
@@ -30359,10 +30629,10 @@
       "owner": "topjohnwu",
       "url": "https://github.com/topjohnwu/Magisk",
       "description": "The Magic Mask for Android",
-      "stars": 62758,
-      "starsToday": 20,
+      "stars": 62959,
+      "starsToday": 24,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-14T04:57:44.960Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "videolan/vlc-android": {
       "name": "vlc-android",
@@ -30479,10 +30749,10 @@
       "owner": "maxrave-dev",
       "url": "https://github.com/maxrave-dev/SimpMusic",
       "description": "A cross-platform music app using YouTube Music for backend",
-      "stars": 11094,
-      "starsToday": 34,
+      "stars": 11532,
+      "starsToday": 47,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-10T04:43:30.361Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "woocommerce/woocommerce-android": {
       "name": "woocommerce-android",
@@ -30509,20 +30779,20 @@
       "owner": "ZalithLauncher",
       "url": "https://github.com/ZalithLauncher/ZalithLauncher2",
       "description": "A Minecraft: Java Edition Launcher for Android",
-      "stars": 1805,
-      "starsToday": 7,
+      "stars": 1901,
+      "starsToday": 8,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-09T04:42:55.808Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "cwuom/NeriPlayer": {
       "name": "NeriPlayer",
       "owner": "cwuom",
       "url": "https://github.com/cwuom/NeriPlayer",
       "description": "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵",
-      "stars": 3189,
-      "starsToday": 48,
+      "stars": 3569,
+      "starsToday": 14,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-02T11:19:02.361Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "thunderbird/thunderbird-android": {
       "name": "thunderbird-android",
@@ -30769,10 +31039,10 @@
       "owner": "WinNative-Emu",
       "url": "https://github.com/WinNative-Emu/WinNative",
       "description": "An Android app for playing Windows games from Steam, Epic Games, GOG, and more on your device.",
-      "stars": 613,
-      "starsToday": 7,
+      "stars": 635,
+      "starsToday": 5,
       "addedAt": "2026-08-08T13:12:53.850Z",
-      "lastSeenAt": "2026-09-24T04:51:46.663Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Kyant0/AndroidLiquidGlass": {
       "name": "AndroidLiquidGlass",
@@ -30889,10 +31159,10 @@
       "owner": "tiann",
       "url": "https://github.com/tiann/KernelSU",
       "description": "A Kernel based root solution for Android",
-      "stars": 18643,
+      "stars": 18647,
       "starsToday": 28,
       "addedAt": "2026-08-10T13:44:41.249Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "ryfineZ/carrier-ims-for-pixel": {
       "name": "carrier-ims-for-pixel",
@@ -30909,10 +31179,10 @@
       "owner": "yairm210",
       "url": "https://github.com/yairm210/Unciv",
       "description": "Open-source Android/Desktop remake of Civ V",
-      "stars": 11256,
+      "stars": 11328,
       "starsToday": 9,
       "addedAt": "2026-08-10T13:44:41.249Z",
-      "lastSeenAt": "2026-09-10T04:43:30.361Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "maksimowiczm/FoodYou": {
       "name": "FoodYou",
@@ -31119,10 +31389,10 @@
       "owner": "meshtastic",
       "url": "https://github.com/meshtastic/Meshtastic-Android",
       "description": "Android application for Meshtastic",
-      "stars": 1847,
-      "starsToday": 0,
+      "stars": 1851,
+      "starsToday": 1,
       "addedAt": "2026-08-13T13:48:41.343Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "ReVanced/revanced-manager": {
       "name": "revanced-manager",
@@ -31249,10 +31519,10 @@
       "owner": "shiaho777",
       "url": "https://github.com/shiaho777/web-to-app",
       "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone",
-      "stars": 6309,
+      "stars": 6576,
       "starsToday": 27,
       "addedAt": "2026-08-16T18:46:59.577Z",
-      "lastSeenAt": "2026-09-10T04:43:30.361Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "amir1376/ab-download-manager": {
       "name": "ab-download-manager",
@@ -31479,10 +31749,10 @@
       "owner": "jellyfin",
       "url": "https://github.com/jellyfin/jellyfin-androidtv",
       "description": "Android TV Client for Jellyfin",
-      "stars": 4528,
-      "starsToday": 5,
+      "stars": 4582,
+      "starsToday": 4,
       "addedAt": "2026-08-24T13:13:07.036Z",
-      "lastSeenAt": "2026-09-10T04:43:30.361Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "yuzono/anime-extensions": {
       "name": "anime-extensions",
@@ -31509,10 +31779,10 @@
       "owner": "CCBlueX",
       "url": "https://github.com/CCBlueX/LiquidBounce",
       "description": "A free Minecraft hacked client (utility mod) for Fabric",
-      "stars": 2354,
-      "starsToday": 2,
+      "stars": 2396,
+      "starsToday": 0,
       "addedAt": "2026-08-24T13:13:07.036Z",
-      "lastSeenAt": "2026-08-25T07:08:24.426Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "duckduckgo/Android": {
       "name": "Android",
@@ -31619,10 +31889,10 @@
       "owner": "nightscout",
       "url": "https://github.com/nightscout/AndroidAPS",
       "description": "Opensource automated insulin delivery system (closed loop)",
-      "stars": 1178,
+      "stars": 1180,
       "starsToday": 0,
       "addedAt": "2026-08-27T22:16:14.871Z",
-      "lastSeenAt": "2026-09-23T04:45:51.248Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "marlboro-advance/mpvEx": {
       "name": "mpvEx",
@@ -31632,7 +31902,7 @@
       "stars": 2583,
       "starsToday": 10,
       "addedAt": "2026-08-28T11:24:04.195Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "CrossPaste/crosspaste-desktop": {
       "name": "crosspaste-desktop",
@@ -31679,10 +31949,10 @@
       "owner": "open-ani",
       "url": "https://github.com/open-ani/animeko",
       "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
-      "stars": 20305,
+      "stars": 20315,
       "starsToday": 19,
       "addedAt": "2026-08-31T13:51:43.562Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Kunzisoft/KeePassDX": {
       "name": "KeePassDX",
@@ -31719,10 +31989,10 @@
       "owner": "pass-with-high-score",
       "url": "https://github.com/pass-with-high-score/blockads-android",
       "description": "Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.",
-      "stars": 2052,
-      "starsToday": 4,
+      "stars": 2090,
+      "starsToday": 15,
       "addedAt": "2026-09-01T11:39:56.897Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "fast4x/RiPlay": {
       "name": "RiPlay",
@@ -31759,10 +32029,10 @@
       "owner": "tharunbirla",
       "url": "https://github.com/tharunbirla/LibreCuts",
       "description": "LibreCuts is a free, open-source video editor for Android that prioritizes simplicity and efficiency.",
-      "stars": 786,
-      "starsToday": 9,
+      "stars": 866,
+      "starsToday": 4,
       "addedAt": "2026-09-02T16:34:58.234Z",
-      "lastSeenAt": "2026-09-16T04:49:55.578Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "streetcomplete/StreetComplete": {
       "name": "StreetComplete",
@@ -32123,6 +32393,16 @@
       "starsToday": 6,
       "addedAt": "2026-09-26T11:25:41.304Z",
       "lastSeenAt": "2026-09-27T12:03:18.116Z"
+    },
+    "tasks/tasks": {
+      "name": "tasks",
+      "owner": "tasks",
+      "url": "https://github.com/tasks/tasks",
+      "description": "Bringing Astrid Tasks back from the dead",
+      "stars": 5608,
+      "starsToday": 1,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "shell": {
@@ -32161,10 +32441,10 @@
       "owner": "InfinityLoop1308",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
       "description": "An open-source Android app to let you browse YouTube and other services freely.",
-      "stars": 6375,
+      "stars": 6471,
       "starsToday": 139,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "bin456789/reinstall": {
       "name": "reinstall",
@@ -32221,10 +32501,10 @@
       "owner": "ohmyzsh",
       "url": "https://github.com/ohmyzsh/ohmyzsh",
       "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "stars": 189934,
+      "stars": 189960,
       "starsToday": 21,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "mbadolato/iTerm2-Color-Schemes": {
       "name": "iTerm2-Color-Schemes",
@@ -32581,10 +32861,10 @@
       "owner": "xiv3r",
       "url": "https://github.com/xiv3r/Burpsuite-Professional",
       "description": "Burpsuite Professional Latest Version 2026",
-      "stars": 3052,
-      "starsToday": 5,
+      "stars": 3143,
+      "starsToday": 7,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-09T04:42:55.808Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "nyldn/claude-octopus": {
       "name": "claude-octopus",
@@ -32661,10 +32941,10 @@
       "owner": "mack-a",
       "url": "https://github.com/mack-a/v2ray-agent",
       "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
-      "stars": 21949,
+      "stars": 21950,
       "starsToday": 22,
       "addedAt": "2026-08-07T13:39:42.756Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "VoltAgent/awesome-claude-code-subagents": {
       "name": "awesome-claude-code-subagents",
@@ -32731,10 +33011,10 @@
       "owner": "termux",
       "url": "https://github.com/termux/termux-packages",
       "description": "A package build system for Termux.",
-      "stars": 16999,
-      "starsToday": 4,
+      "stars": 17037,
+      "starsToday": 3,
       "addedAt": "2026-08-09T13:15:49.422Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "itzg/docker-minecraft-server": {
       "name": "docker-minecraft-server",
@@ -32744,7 +33024,7 @@
       "stars": 14344,
       "starsToday": 7,
       "addedAt": "2026-08-09T13:15:49.422Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "0xNyk/council-of-high-intelligence": {
       "name": "council-of-high-intelligence",
@@ -33021,10 +33301,10 @@
       "owner": "Sergeydigl3",
       "url": "https://github.com/Sergeydigl3/zapret-discord-youtube-linux",
       "description": "Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux",
-      "stars": 1996,
-      "starsToday": 2,
+      "stars": 2045,
+      "starsToday": 5,
       "addedAt": "2026-08-16T13:01:27.083Z",
-      "lastSeenAt": "2026-09-13T04:48:41.656Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "SHORiN-KiWATA/Shorin-ArchLinux-Guide": {
       "name": "Shorin-ArchLinux-Guide",
@@ -33061,10 +33341,10 @@
       "owner": "pyenv",
       "url": "https://github.com/pyenv/pyenv",
       "description": "Simple Python version management",
-      "stars": 45103,
-      "starsToday": 1,
+      "stars": 45116,
+      "starsToday": 5,
       "addedAt": "2026-08-18T13:07:37.402Z",
-      "lastSeenAt": "2026-09-18T04:44:15.125Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "rawfilejson/awesome-osint-arsenal": {
       "name": "awesome-osint-arsenal",
@@ -33220,11 +33500,11 @@
       "name": "Zapret-Manager",
       "owner": "StressOzz",
       "url": "https://github.com/StressOzz/Zapret-Manager",
-      "description": "Универсальный менеджер для обхода блокировок на OpenWrt https://t.me/stressozz_manager",
-      "stars": 1821,
-      "starsToday": 3,
+      "description": "Универсальный менеджер для обхода блокировок на OpenWrt",
+      "stars": 1883,
+      "starsToday": 9,
       "addedAt": "2026-08-28T11:24:04.195Z",
-      "lastSeenAt": "2026-09-15T04:55:31.427Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "omacom/omarchy": {
       "name": "omarchy",
@@ -33411,10 +33691,10 @@
       "owner": "sabamdarif",
       "url": "https://github.com/sabamdarif/termux-desktop",
       "description": "Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration",
-      "stars": 2269,
-      "starsToday": 3,
+      "stars": 2287,
+      "starsToday": 1,
       "addedAt": "2026-09-06T15:28:27.174Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "zhnnky329/MathModeling-skills": {
       "name": "MathModeling-skills",
@@ -33601,10 +33881,10 @@
       "owner": "espressif",
       "url": "https://github.com/espressif/esp-csi",
       "description": "Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection",
-      "stars": 1623,
-      "starsToday": 13,
+      "stars": 1627,
+      "starsToday": 14,
       "addedAt": "2026-09-16T11:34:52.628Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "papers-we-love/papers-we-love": {
       "name": "papers-we-love",
@@ -33651,10 +33931,10 @@
       "owner": "BlackArch",
       "url": "https://github.com/BlackArch/blackarch",
       "description": "An ArchLinux based distribution for penetration testers and security researchers.",
-      "stars": 3504,
+      "stars": 3514,
       "starsToday": 1,
       "addedAt": "2026-09-18T11:15:29.455Z",
-      "lastSeenAt": "2026-09-19T04:38:13.615Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "akitaonrails/distrobox-gaming": {
       "name": "distrobox-gaming",
@@ -33781,10 +34061,10 @@
       "owner": "ZeroLu",
       "url": "https://github.com/ZeroLu/awesome-seedance",
       "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.",
-      "stars": 2531,
-      "starsToday": 15,
+      "stars": 2559,
+      "starsToday": 6,
       "addedAt": "2026-09-24T11:46:39.774Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "angristan/wireguard-install": {
       "name": "wireguard-install",
@@ -34113,20 +34393,20 @@
       "owner": "web-platform-tests",
       "url": "https://github.com/web-platform-tests/wpt",
       "description": "Test suites for Web platform specs — including WHATWG, W3C, and others",
-      "stars": 6152,
-      "starsToday": 1,
+      "stars": 6190,
+      "starsToday": 16,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-15T04:55:31.427Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Unstructured-IO/unstructured": {
       "name": "unstructured",
       "owner": "Unstructured-IO",
       "url": "https://github.com/Unstructured-IO/unstructured",
       "description": "Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models. Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.",
-      "stars": 15504,
+      "stars": 15506,
       "starsToday": 9,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Commando-X/vuln-bank": {
       "name": "vuln-bank",
@@ -34233,10 +34513,10 @@
       "owner": "Sjj1024",
       "url": "https://github.com/Sjj1024/PakePlus",
       "description": "Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app",
-      "stars": 14748,
-      "starsToday": 24,
+      "stars": 14975,
+      "starsToday": 20,
       "addedAt": "2026-08-07T13:39:42.756Z",
-      "lastSeenAt": "2026-09-15T04:55:31.427Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "google/styleguide": {
       "name": "styleguide",
@@ -34273,20 +34553,20 @@
       "owner": "AhmadIbrahiim",
       "url": "https://github.com/AhmadIbrahiim/Website-downloader",
       "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
-      "stars": 5703,
-      "starsToday": 31,
+      "stars": 5897,
+      "starsToday": 113,
       "addedAt": "2026-08-08T13:12:53.850Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "wilsonfreitas/awesome-quant": {
       "name": "awesome-quant",
       "owner": "wilsonfreitas",
       "url": "https://github.com/wilsonfreitas/awesome-quant",
       "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
-      "stars": 29786,
+      "stars": 29798,
       "starsToday": 24,
       "addedAt": "2026-08-09T13:15:49.422Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "adityatelange/hugo-PaperMod": {
       "name": "hugo-PaperMod",
@@ -34373,10 +34653,10 @@
       "owner": "Ylianst",
       "url": "https://github.com/Ylianst/MeshCentral",
       "description": "A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.",
-      "stars": 7233,
-      "starsToday": 8,
+      "stars": 7295,
+      "starsToday": 5,
       "addedAt": "2026-08-12T13:47:42.384Z",
-      "lastSeenAt": "2026-09-16T04:49:55.578Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "alpinejs/alpine": {
       "name": "alpine",
@@ -34473,10 +34753,10 @@
       "owner": "nova-video-player",
       "url": "https://github.com/nova-video-player/aos-AVP",
       "description": "NOVA opeN sOurce Video plAyer: main repository to build them all",
-      "stars": 4621,
-      "starsToday": 5,
+      "stars": 4691,
+      "starsToday": 4,
       "addedAt": "2026-08-16T13:01:27.083Z",
-      "lastSeenAt": "2026-08-17T07:16:17.163Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "hasaneyldrm/exercises-dataset": {
       "name": "exercises-dataset",
@@ -34846,7 +35126,7 @@
       "stars": 5209,
       "starsToday": 25,
       "addedAt": "2026-09-04T11:18:31.447Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "dqev/reicon": {
       "name": "reicon",
@@ -35113,10 +35393,10 @@
       "owner": "OWASP",
       "url": "https://github.com/OWASP/www-project-agentic-skills-top-10",
       "description": "OWASP Foundation web repository",
-      "stars": 229,
-      "starsToday": 5,
+      "stars": 247,
+      "starsToday": 4,
       "addedAt": "2026-09-17T11:41:59.288Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "github/opensource.guide": {
       "name": "opensource.guide",
@@ -35187,6 +35467,16 @@
       "starsToday": 0,
       "addedAt": "2026-09-25T11:51:25.703Z",
       "lastSeenAt": "2026-09-26T04:58:47.871Z"
+    },
+    "promptpirate-x/discord-id-bypass-tool": {
+      "name": "discord-id-bypass-tool",
+      "owner": "promptpirate-x",
+      "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
+      "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
+      "stars": 1542,
+      "starsToday": 6,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "css": {
@@ -35205,10 +35495,10 @@
       "owner": "kepano",
       "url": "https://github.com/kepano/obsidian-minimal",
       "description": "A distraction-free and highly customizable theme for Obsidian.",
-      "stars": 5367,
+      "stars": 5396,
       "starsToday": 1,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-08T04:37:08.353Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "hkhcoder/vprofile-project": {
       "name": "vprofile-project",
@@ -35218,7 +35508,7 @@
       "stars": 1444,
       "starsToday": 1,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "zarazhangrui/codebase-to-course": {
       "name": "codebase-to-course",
@@ -35235,10 +35525,10 @@
       "owner": "opera-gaming",
       "url": "https://github.com/opera-gaming/gxmods",
       "description": "Documentation for GX mods",
-      "stars": 920,
+      "stars": 921,
       "starsToday": 0,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Nutlope/hallmark": {
       "name": "hallmark",
@@ -35355,10 +35645,10 @@
       "owner": "barryclark",
       "url": "https://github.com/barryclark/jekyll-now",
       "description": "Build a Jekyll blog in minutes, without touching the command line.",
-      "stars": 8410,
+      "stars": 8408,
       "starsToday": 0,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-23T04:45:51.248Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "AvengeMedia/dms-plugin-registry": {
       "name": "dms-plugin-registry",
@@ -35385,20 +35675,20 @@
       "owner": "jgthms",
       "url": "https://github.com/jgthms/bulma",
       "description": "Modern CSS framework based on Flexbox",
-      "stars": 50061,
+      "stars": 50059,
       "starsToday": 0,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "ryanoasis/nerd-fonts": {
       "name": "nerd-fonts",
       "owner": "ryanoasis",
       "url": "https://github.com/ryanoasis/nerd-fonts",
       "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
-      "stars": 64745,
+      "stars": 64747,
       "starsToday": 6,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "zyronon/TypeWords": {
       "name": "TypeWords",
@@ -35415,10 +35705,10 @@
       "owner": "isocpp",
       "url": "https://github.com/isocpp/CppCoreGuidelines",
       "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
-      "stars": 45328,
-      "starsToday": 7,
+      "stars": 45339,
+      "starsToday": 5,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-23T04:45:51.248Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "refact0r/system24": {
       "name": "system24",
@@ -35505,10 +35795,10 @@
       "owner": "animate-css",
       "url": "https://github.com/animate-css/animate.css",
       "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
-      "stars": 82824,
+      "stars": 82829,
       "starsToday": 8,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "IBM/plex": {
       "name": "plex",
@@ -35655,10 +35945,10 @@
       "owner": "XiaomingX",
       "url": "https://github.com/XiaomingX/ai-money-maker-handbook",
       "description": "ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.",
-      "stars": 5301,
-      "starsToday": 45,
+      "stars": 5414,
+      "starsToday": 23,
       "addedAt": "2026-08-10T13:44:41.249Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "john-smilga/react-projects": {
       "name": "react-projects",
@@ -35685,10 +35975,10 @@
       "owner": "flick9000",
       "url": "https://github.com/flick9000/winscript",
       "description": "Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.",
-      "stars": 2896,
-      "starsToday": 0,
+      "stars": 2898,
+      "starsToday": 1,
       "addedAt": "2026-08-11T13:43:07.882Z",
-      "lastSeenAt": "2026-09-24T04:51:46.663Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "FlutterFlow/flutterflow-documentation": {
       "name": "flutterflow-documentation",
@@ -36078,7 +36368,7 @@
       "stars": 1053,
       "starsToday": 0,
       "addedAt": "2026-09-19T12:23:08.517Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "NilverTI/Web-Flores": {
       "name": "Web-Flores",
@@ -36137,30 +36427,30 @@
       "owner": "bggRGjQaUbCoE",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus",
       "description": "PiliPlus",
-      "stars": 18730,
+      "stars": 18741,
       "starsToday": 33,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "flutter/flutter": {
       "name": "flutter",
       "owner": "flutter",
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "stars": 179125,
+      "stars": 179124,
       "starsToday": 32,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "localsend/localsend": {
       "name": "localsend",
       "owner": "localsend",
       "url": "https://github.com/localsend/localsend",
       "description": "An open-source cross-platform alternative to AirDrop",
-      "stars": 91836,
-      "starsToday": 144,
+      "stars": 92828,
+      "starsToday": 90,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-17T04:53:43.295Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "hiddify/hiddify-app": {
       "name": "hiddify-app",
@@ -36177,10 +36467,10 @@
       "owner": "Predidit",
       "url": "https://github.com/Predidit/Kazumi",
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
-      "stars": 30343,
+      "stars": 30357,
       "starsToday": 40,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "lichess-org/mobile": {
       "name": "mobile",
@@ -36227,10 +36517,10 @@
       "owner": "ente",
       "url": "https://github.com/ente/ente",
       "description": "💚 End-to-end encrypted cloud for everything.",
-      "stars": 29105,
+      "stars": 29111,
       "starsToday": 22,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "kodjodevf/mangayomi": {
       "name": "mangayomi",
@@ -36267,10 +36557,10 @@
       "owner": "venera-app",
       "url": "https://github.com/venera-app/venera",
       "description": "A comic app",
-      "stars": 11077,
+      "stars": 11078,
       "starsToday": 11,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "raoxwup/haka_comic": {
       "name": "haka_comic",
@@ -36297,10 +36587,10 @@
       "owner": "gokadzev",
       "url": "https://github.com/gokadzev/Musify",
       "description": "Unlock the full potential of music: Stream effortlessly with one app!",
-      "stars": 4249,
-      "starsToday": 2,
+      "stars": 4270,
+      "starsToday": 4,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "xiaoyaocz/dart_simple_live": {
       "name": "dart_simple_live",
@@ -36547,10 +36837,10 @@
       "owner": "TNT-Likely",
       "url": "https://github.com/TNT-Likely/BeeCount",
       "description": "Local-first bookkeeping for iOS/Android/Web · Self-hosted cloud + iCloud/WebDAV/S3 sync · AI capture · MCP | 本地优先的跨端记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP",
-      "stars": 2419,
-      "starsToday": 7,
+      "stars": 2438,
+      "starsToday": 9,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "wanghongenpin/proxypin": {
       "name": "proxypin",
@@ -36607,10 +36897,10 @@
       "owner": "AppFlowy-IO",
       "url": "https://github.com/AppFlowy-IO/AppFlowy",
       "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
-      "stars": 76951,
+      "stars": 76959,
       "starsToday": 15,
       "addedAt": "2026-08-07T13:39:42.756Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "1812z/HyperIsland": {
       "name": "HyperIsland",
@@ -36630,7 +36920,7 @@
       "stars": 388,
       "starsToday": 4,
       "addedAt": "2026-08-07T13:39:42.756Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "rrousselGit/riverpod": {
       "name": "riverpod",
@@ -36687,10 +36977,10 @@
       "owner": "Solido",
       "url": "https://github.com/Solido/awesome-flutter",
       "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
-      "stars": 61340,
+      "stars": 61343,
       "starsToday": 20,
       "addedAt": "2026-08-09T13:15:49.422Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "jameskokoska/Cashew": {
       "name": "Cashew",
@@ -36707,10 +36997,10 @@
       "owner": "Notsfsssf",
       "url": "https://github.com/Notsfsssf/pixez-flutter",
       "description": "一个支持免代理直连及查看动图的第三方Pixiv flutter客户端",
-      "stars": 12888,
-      "starsToday": 7,
+      "stars": 12948,
+      "starsToday": 9,
       "addedAt": "2026-08-09T13:15:49.422Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "KaringX/clashmi": {
       "name": "clashmi",
@@ -36767,10 +37057,10 @@
       "owner": "Spyou",
       "url": "https://github.com/Spyou/Zangetsu",
       "description": "Free, open-source app for anime, movies, series, manga and light novels — on Android, Android TV and iOS (beta).",
-      "stars": 343,
-      "starsToday": 3,
+      "stars": 354,
+      "starsToday": 4,
       "addedAt": "2026-08-11T02:28:01.764Z",
-      "lastSeenAt": "2026-09-24T04:51:46.663Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "lollipopkit/flutter_server_box": {
       "name": "flutter_server_box",
@@ -36857,10 +37147,10 @@
       "owner": "OpenStrap",
       "url": "https://github.com/OpenStrap/edge",
       "description": "App which allows you to use your health devices beyond subscriptions. Supports Workout Tracking, Nutrition Tracking, Wellness Excercise, Sleep, Recovery, Strain, and Many more.",
-      "stars": 592,
-      "starsToday": 5,
+      "stars": 627,
+      "starsToday": 6,
       "addedAt": "2026-08-13T13:48:41.343Z",
-      "lastSeenAt": "2026-09-18T04:44:15.125Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "fluttergems/awesome-open-source-flutter-apps": {
       "name": "awesome-open-source-flutter-apps",
@@ -36877,10 +37167,10 @@
       "owner": "deckerst",
       "url": "https://github.com/deckerst/aves",
       "description": "Aves is a gallery and metadata explorer app, built for Android with Flutter.",
-      "stars": 5315,
-      "starsToday": 5,
+      "stars": 5324,
+      "starsToday": 9,
       "addedAt": "2026-08-16T13:01:27.083Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "akashdh11/skystream": {
       "name": "skystream",
@@ -37329,30 +37619,30 @@
       "owner": "apache",
       "url": "https://github.com/apache/spark",
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
-      "stars": 44066,
+      "stars": 44071,
       "starsToday": 16,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "twitter/the-algorithm": {
       "name": "the-algorithm",
       "owner": "twitter",
       "url": "https://github.com/twitter/the-algorithm",
       "description": "Source code for the X Recommendation Algorithm",
-      "stars": 73948,
+      "stars": 73949,
       "starsToday": 2,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "lichess-org/lila": {
       "name": "lila",
       "owner": "lichess-org",
       "url": "https://github.com/lichess-org/lila",
       "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
-      "stars": 18772,
+      "stars": 18773,
       "starsToday": 7,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "scala/scala": {
       "name": "scala",
@@ -37379,10 +37669,10 @@
       "owner": "apache",
       "url": "https://github.com/apache/datafusion-comet",
       "description": "Apache DataFusion Comet Spark Accelerator",
-      "stars": 1286,
+      "stars": 1287,
       "starsToday": 1,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "microsoft/SynapseML": {
       "name": "SynapseML",
@@ -37849,10 +38139,10 @@
       "owner": "databricks",
       "url": "https://github.com/databricks/Spark-The-Definitive-Guide",
       "description": "Spark: The Definitive Guide's Code Repository",
-      "stars": 3144,
-      "starsToday": 1,
+      "stars": 3152,
+      "starsToday": 0,
       "addedAt": "2026-08-26T13:16:37.747Z",
-      "lastSeenAt": "2026-08-27T09:49:29.736Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "apache/predictionio": {
       "name": "predictionio",
@@ -37971,10 +38261,10 @@
       "owner": "plausible",
       "url": "https://github.com/plausible/analytics",
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "stars": 29227,
+      "stars": 29232,
       "starsToday": 8,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "operately/operately": {
       "name": "operately",
@@ -38001,10 +38291,10 @@
       "owner": "kieraneglin",
       "url": "https://github.com/kieraneglin/pinchflat",
       "description": "Your next YouTube media manager",
-      "stars": 5376,
+      "stars": 5377,
       "starsToday": 4,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "teslamate-org/teslamate": {
       "name": "teslamate",
@@ -38064,7 +38354,7 @@
       "stars": 23172,
       "starsToday": 4,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "blockscout/blockscout": {
       "name": "blockscout",
@@ -38074,17 +38364,17 @@
       "stars": 4716,
       "starsToday": 1,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "openai/symphony": {
       "name": "symphony",
       "owner": "openai",
       "url": "https://github.com/openai/symphony",
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
-      "stars": 27409,
-      "starsToday": 8,
+      "stars": 27435,
+      "starsToday": 19,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "open-telemetry/opentelemetry-erlang-contrib": {
       "name": "opentelemetry-erlang-contrib",
@@ -38553,10 +38843,10 @@
       "owner": "simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "stars": 19495,
+      "stars": 19494,
       "starsToday": 8,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "simonmichael/hledger": {
       "name": "hledger",
@@ -38603,10 +38893,10 @@
       "owner": "jgm",
       "url": "https://github.com/jgm/pandoc",
       "description": "Universal markup converter",
-      "stars": 46419,
+      "stars": 46422,
       "starsToday": 11,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "IntersectMBO/cardano-ledger": {
       "name": "cardano-ledger",
@@ -38633,10 +38923,10 @@
       "owner": "PostgREST",
       "url": "https://github.com/PostgREST/postgrest",
       "description": "REST API for any Postgres database",
-      "stars": 27684,
+      "stars": 27685,
       "starsToday": 5,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "haskell/cabal": {
       "name": "cabal",
@@ -38676,7 +38966,7 @@
       "stars": 40088,
       "starsToday": 3,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "digital-asset/daml": {
       "name": "daml",
@@ -38813,10 +39103,10 @@
       "owner": "mtolly",
       "url": "https://github.com/mtolly/onyx",
       "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
-      "stars": 299,
-      "starsToday": 0,
+      "stars": 300,
+      "starsToday": 1,
       "addedAt": "2026-08-08T13:12:53.850Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "purescript/purescript": {
       "name": "purescript",
@@ -38957,6 +39247,16 @@
       "starsToday": 0,
       "addedAt": "2026-09-23T11:37:37.988Z",
       "lastSeenAt": "2026-09-26T04:58:47.871Z"
+    },
+    "rzk-lang/rzk": {
+      "name": "rzk",
+      "owner": "rzk-lang",
+      "url": "https://github.com/rzk-lang/rzk",
+      "description": "An experimental proof assistant based on a type theory for synthetic ∞-categories.",
+      "stars": 298,
+      "starsToday": 1,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "lua": {
@@ -38995,10 +39295,10 @@
       "owner": "koreader",
       "url": "https://github.com/koreader/koreader",
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
-      "stars": 29946,
+      "stars": 29950,
       "starsToday": 26,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "neovim/nvim-lspconfig": {
       "name": "nvim-lspconfig",
@@ -39078,7 +39378,7 @@
       "stars": 294,
       "starsToday": 1,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Courseplay/Courseplay_FS25": {
       "name": "Courseplay_FS25",
@@ -39105,10 +39405,10 @@
       "owner": "Footagesus",
       "url": "https://github.com/Footagesus/WindUI",
       "description": "WindUI is a open source UI library for Roblox Script Hubs",
-      "stars": 362,
+      "stars": 364,
       "starsToday": 1,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "esmuellert/codediff.nvim": {
       "name": "codediff.nvim",
@@ -39125,10 +39425,10 @@
       "owner": "EllesmereGaming",
       "url": "https://github.com/EllesmereGaming/EllesmereUI",
       "description": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
-      "stars": 219,
+      "stars": 220,
       "starsToday": 1,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "joshuacant/ProjectTitle": {
       "name": "ProjectTitle",
@@ -39215,10 +39515,10 @@
       "owner": "nvim-lua",
       "url": "https://github.com/nvim-lua/kickstart.nvim",
       "description": "A launch point for your personal nvim configuration",
-      "stars": 31510,
-      "starsToday": 4,
+      "stars": 31516,
+      "starsToday": 5,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "MeanderingProgrammer/render-markdown.nvim": {
       "name": "render-markdown.nvim",
@@ -39235,10 +39535,10 @@
       "owner": "Kong",
       "url": "https://github.com/Kong/kong",
       "description": "🦍 The API and AI Gateway",
-      "stars": 44200,
+      "stars": 44201,
       "starsToday": 5,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "CopilotC-Nvim/CopilotChat.nvim": {
       "name": "CopilotChat.nvim",
@@ -39268,7 +39568,7 @@
       "stars": 27553,
       "starsToday": 11,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "awesomeWM/awesome": {
       "name": "awesome",
@@ -39356,19 +39656,19 @@
       "url": "https://github.com/olimorris/codecompanion.nvim",
       "description": "✨ AI Coding, Vim Style",
       "stars": 6877,
-      "starsToday": 4,
+      "starsToday": 2,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "folke/lazy.nvim": {
       "name": "lazy.nvim",
       "owner": "folke",
       "url": "https://github.com/folke/lazy.nvim",
       "description": "💤 A modern plugin manager for Neovim",
-      "stars": 21585,
-      "starsToday": 6,
+      "stars": 21601,
+      "starsToday": 8,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-23T04:45:51.248Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Kong/kong-pongo": {
       "name": "kong-pongo",
@@ -39445,10 +39745,10 @@
       "owner": "saghen",
       "url": "https://github.com/saghen/blink.cmp",
       "description": "Performant, batteries-included completion plugin for Neovim",
-      "stars": 6592,
-      "starsToday": 2,
+      "stars": 6599,
+      "starsToday": 3,
       "addedAt": "2026-08-08T13:12:53.850Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "miscusi-peek/cheatengine-mcp-bridge": {
       "name": "cheatengine-mcp-bridge",
@@ -39525,10 +39825,10 @@
       "owner": "AndyHazz",
       "url": "https://github.com/AndyHazz/bookshelf.koplugin",
       "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
-      "stars": 944,
+      "stars": 946,
       "starsToday": 18,
       "addedAt": "2026-08-11T13:43:07.882Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "lewis6991/gitsigns.nvim": {
       "name": "gitsigns.nvim",
@@ -39908,7 +40208,7 @@
       "stars": 286,
       "starsToday": 0,
       "addedAt": "2026-08-23T13:02:00.250Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Quenty/NevermoreEngine": {
       "name": "NevermoreEngine",
@@ -40088,7 +40388,7 @@
       "stars": 151,
       "starsToday": 2,
       "addedAt": "2026-09-01T11:39:56.897Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "nagadomi/waifu2x": {
       "name": "waifu2x",
@@ -40175,10 +40475,10 @@
       "owner": "rittermod",
       "url": "https://github.com/rittermod/FS25_RealisticLivestockRM",
       "description": "FS25_RealisticLivestock - Ritter version",
-      "stars": 172,
-      "starsToday": 1,
+      "stars": 174,
+      "starsToday": 0,
       "addedAt": "2026-09-09T11:24:23.866Z",
-      "lastSeenAt": "2026-09-14T04:57:44.960Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "rafamadriz/friendly-snippets": {
       "name": "friendly-snippets",
@@ -40275,10 +40575,10 @@
       "owner": "Questie",
       "url": "https://github.com/Questie/Questie",
       "description": "Questie: The WoW Classic quest helper",
-      "stars": 1086,
-      "starsToday": 0,
+      "stars": 1093,
+      "starsToday": 4,
       "addedAt": "2026-09-19T12:23:08.517Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "sphamba/smear-cursor.nvim": {
       "name": "smear-cursor.nvim",
@@ -40325,10 +40625,10 @@
       "owner": "bryanthaboi",
       "url": "https://github.com/bryanthaboi/gen1recomp",
       "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 and 2 Poke",
-      "stars": 3770,
-      "starsToday": 7,
+      "stars": 3785,
+      "starsToday": 15,
       "addedAt": "2026-09-22T11:39:23.434Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Samillion/ModernZ": {
       "name": "ModernZ",
@@ -40379,6 +40679,16 @@
       "starsToday": 0,
       "addedAt": "2026-09-26T11:25:41.304Z",
       "lastSeenAt": "2026-09-27T12:03:18.116Z"
+    },
+    "SpectralPack/Cryptid": {
+      "name": "Cryptid",
+      "owner": "SpectralPack",
+      "url": "https://github.com/SpectralPack/Cryptid",
+      "description": "An unbalanced Balatro mod",
+      "stars": 627,
+      "starsToday": 0,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "r": {
@@ -40390,7 +40700,7 @@
       "stars": 892,
       "starsToday": 0,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "rstudio/shiny": {
       "name": "shiny",
@@ -40467,10 +40777,10 @@
       "owner": "hadley",
       "url": "https://github.com/hadley/r4ds",
       "description": "R for data science: a book",
-      "stars": 5166,
-      "starsToday": 3,
+      "stars": 5169,
+      "starsToday": 1,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-24T04:51:46.663Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "r-spatial/sf": {
       "name": "sf",
@@ -40911,20 +41221,20 @@
       "owner": "ziglang",
       "url": "https://github.com/ziglang/zig",
       "description": "Moved to Codeberg",
-      "stars": 43308,
+      "stars": 43309,
       "starsToday": 4,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "ghostty-org/ghostty": {
       "name": "ghostty",
       "owner": "ghostty-org",
       "url": "https://github.com/ghostty-org/ghostty",
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "stars": 61594,
+      "stars": 61603,
       "starsToday": 36,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "neurosnap/zmx": {
       "name": "zmx",
@@ -40934,7 +41244,7 @@
       "stars": 2171,
       "starsToday": 3,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "neurocyte/flow": {
       "name": "flow",
@@ -40991,30 +41301,30 @@
       "owner": "Seafoam-Labs",
       "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
-      "stars": 1156,
+      "stars": 1157,
       "starsToday": 4,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "ddalcu/mlx-serve": {
       "name": "mlx-serve",
       "owner": "ddalcu",
       "url": "https://github.com/ddalcu/mlx-serve",
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
-      "stars": 1621,
+      "stars": 1627,
       "starsToday": 49,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "lightpanda-io/browser": {
       "name": "browser",
       "owner": "lightpanda-io",
       "url": "https://github.com/lightpanda-io/browser",
       "description": "Lightpanda: the headless browser designed for AI and automation",
-      "stars": 35599,
+      "stars": 35603,
       "starsToday": 22,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "tigerbeetle/tigerbeetle": {
       "name": "tigerbeetle",
@@ -41084,7 +41394,7 @@
       "stars": 6072,
       "starsToday": 1,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "kristoff-it/zine": {
       "name": "zine",
@@ -41154,7 +41464,7 @@
       "stars": 3217,
       "starsToday": 2,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Syndica/sig": {
       "name": "sig",
@@ -41201,10 +41511,10 @@
       "owner": "tonybanters",
       "url": "https://github.com/tonybanters/oxwm",
       "description": "",
-      "stars": 978,
+      "stars": 980,
       "starsToday": 5,
       "addedAt": "2026-08-09T13:15:49.422Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "hexops/mach": {
       "name": "mach",
@@ -41251,10 +41561,10 @@
       "owner": "justrach",
       "url": "https://github.com/justrach/codegraff",
       "description": "graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DGM evolution loop, TS/Python SDKs",
-      "stars": 266,
-      "starsToday": 1,
+      "stars": 277,
+      "starsToday": 3,
       "addedAt": "2026-08-26T13:16:37.747Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "antflydb/antfly": {
       "name": "antfly",
@@ -41281,10 +41591,10 @@
       "owner": "sleep3r",
       "url": "https://github.com/sleep3r/mtproto.zig",
       "description": "Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS",
-      "stars": 2066,
+      "stars": 2078,
       "starsToday": 54,
       "addedAt": "2026-09-05T04:30:12.046Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "hashiiiii/PrefabLens": {
       "name": "PrefabLens",
@@ -41383,20 +41693,20 @@
       "owner": "opa334",
       "url": "https://github.com/opa334/TrollStore",
       "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
-      "stars": 22199,
-      "starsToday": 4,
+      "stars": 22223,
+      "starsToday": 6,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "geode-sdk/ios-launcher": {
       "name": "ios-launcher",
       "owner": "geode-sdk",
       "url": "https://github.com/geode-sdk/ios-launcher",
       "description": "Manages installing and launching Geometry Dash for iOS",
-      "stars": 733,
-      "starsToday": 1,
+      "stars": 736,
+      "starsToday": 2,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "gnachman/iTerm2": {
       "name": "iTerm2",
@@ -41413,20 +41723,20 @@
       "owner": "iodefog",
       "url": "https://github.com/iodefog/VipVideo",
       "description": "这是一个Mac/Windows聚合App，聚合常见电视/视频/音乐/小说。比如CCTV中央电视台直播免费观看, 爱奇艺、腾讯视频、芒果视频、优酷视频付费电影，VIP会员剧等免费观看，bilibili、美剧、韩剧、日剧、网易云音乐、腾讯音乐、酷狗音乐、喜马拉雅、起点、七猫、有声小说等",
-      "stars": 5813,
-      "starsToday": 6,
+      "stars": 5826,
+      "starsToday": 3,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "SoCuul/SCInsta": {
       "name": "SCInsta",
       "owner": "SoCuul",
       "url": "https://github.com/SoCuul/SCInsta",
       "description": "A feature-rich tweak for Instagram on iOS!",
-      "stars": 805,
-      "starsToday": 1,
+      "stars": 810,
+      "starsToday": 0,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-24T04:51:46.663Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "AFNetworking/AFNetworking": {
       "name": "AFNetworking",
@@ -41483,10 +41793,10 @@
       "owner": "PojavLauncherTeam",
       "url": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS",
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS",
-      "stars": 3244,
+      "stars": 3246,
       "starsToday": 1,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Instagram/IGListKit": {
       "name": "IGListKit",
@@ -41503,10 +41813,10 @@
       "owner": "objective-see",
       "url": "https://github.com/objective-see/LuLu",
       "description": "LuLu is the free open-source macOS firewall",
-      "stars": 13222,
-      "starsToday": 0,
+      "stars": 13237,
+      "starsToday": 4,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-23T04:45:51.248Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "amplitude/Amplitude-iOS": {
       "name": "Amplitude-iOS",
@@ -41563,10 +41873,10 @@
       "owner": "darlinghq",
       "url": "https://github.com/darlinghq/darling",
       "description": "Darwin/macOS emulation layer for Linux",
-      "stars": 13394,
-      "starsToday": 4,
+      "stars": 13399,
+      "starsToday": 5,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "aws-amplify/aws-sdk-ios": {
       "name": "aws-sdk-ios",
@@ -41576,7 +41886,7 @@
       "stars": 1703,
       "starsToday": 0,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "sparkle-project/Sparkle": {
       "name": "Sparkle",
@@ -41633,10 +41943,10 @@
       "owner": "danveloper",
       "url": "https://github.com/danveloper/flash-moe",
       "description": "Running a big model on a small laptop",
-      "stars": 4145,
-      "starsToday": 5,
+      "stars": 4151,
+      "starsToday": 1,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "TTTAttributedLabel/TTTAttributedLabel": {
       "name": "TTTAttributedLabel",
@@ -41953,10 +42263,10 @@
       "owner": "noah-nuebling",
       "url": "https://github.com/noah-nuebling/mac-mouse-fix",
       "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
-      "stars": 10982,
-      "starsToday": 11,
+      "stars": 11004,
+      "starsToday": 7,
       "addedAt": "2026-08-08T13:12:53.850Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "facebookincubator/SocketRocket": {
       "name": "SocketRocket",
@@ -41976,7 +42286,7 @@
       "stars": 2032,
       "starsToday": 0,
       "addedAt": "2026-08-08T13:12:53.850Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "muxinc/mux-stats-sdk-avplayer": {
       "name": "mux-stats-sdk-avplayer",
@@ -42023,10 +42333,10 @@
       "owner": "benbaker76",
       "url": "https://github.com/benbaker76/Hackintool",
       "description": "The Swiss army knife of vanilla Hackintoshing",
-      "stars": 3491,
-      "starsToday": 2,
+      "stars": 3498,
+      "starsToday": 0,
       "addedAt": "2026-08-09T13:15:49.422Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "dcloudio/uni-app": {
       "name": "uni-app",
@@ -42353,10 +42663,10 @@
       "owner": "LiveContainer",
       "url": "https://github.com/LiveContainer/LiveExec32",
       "description": "Run 32-bit binaries on 64-bit iOS by passing through syscalls",
-      "stars": 283,
+      "stars": 281,
       "starsToday": 0,
       "addedAt": "2026-09-10T11:20:36.820Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "schuyler/macdown3000": {
       "name": "macdown3000",
@@ -42608,7 +42918,7 @@
       "stars": 5094,
       "starsToday": 2,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "szTheory/exifcleaner": {
       "name": "exifcleaner",
@@ -42625,10 +42935,10 @@
       "owner": "holzschu",
       "url": "https://github.com/holzschu/a-shell",
       "description": "A terminal for iOS, with multiple windows",
-      "stars": 3938,
-      "starsToday": 2,
+      "stars": 3941,
+      "starsToday": 3,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "OpenKore/openkore": {
       "name": "openkore",
@@ -42665,10 +42975,10 @@
       "owner": "Perl",
       "url": "https://github.com/Perl/perl5",
       "description": "🐪 The Perl programming language",
-      "stars": 2325,
+      "stars": 2327,
       "starsToday": 1,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Difegue/LANraragi": {
       "name": "LANraragi",
@@ -43000,17 +43310,17 @@
       "stars": 49435,
       "starsToday": 11,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "logseq/logseq": {
       "name": "logseq",
       "owner": "logseq",
       "url": "https://github.com/logseq/logseq",
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
-      "stars": 45064,
+      "stars": 45066,
       "starsToday": 16,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "cognitect-labs/test-runner": {
       "name": "test-runner",
@@ -43037,20 +43347,20 @@
       "owner": "penpot",
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
-      "stars": 60436,
+      "stars": 60441,
       "starsToday": 41,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "unclebob/swarm-forge": {
       "name": "swarm-forge",
       "owner": "unclebob",
       "url": "https://github.com/unclebob/swarm-forge",
       "description": "A simple tool for coordinating several AI agents.",
-      "stars": 3931,
+      "stars": 3932,
       "starsToday": 3,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "logseq/og": {
       "name": "og",
@@ -43067,10 +43377,10 @@
       "owner": "tonsky",
       "url": "https://github.com/tonsky/FiraCode",
       "description": "Free monospaced font with programming ligatures",
-      "stars": 82066,
+      "stars": 82065,
       "starsToday": 9,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "replikativ/datahike": {
       "name": "datahike",
@@ -43130,7 +43440,7 @@
       "stars": 196,
       "starsToday": 2,
       "addedAt": "2026-09-25T11:51:25.703Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "xtdb/xtdb": {
       "name": "xtdb",
@@ -43222,7 +43532,7 @@
       "stars": 16760,
       "starsToday": 3,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "blt/port_compiler": {
       "name": "port_compiler",
@@ -43361,20 +43671,20 @@
       "owner": "neovim",
       "url": "https://github.com/neovim/neovim",
       "description": "Vim-fork focused on extensibility and usability",
-      "stars": 102607,
+      "stars": 102614,
       "starsToday": 30,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "vim/vim": {
       "name": "vim",
       "owner": "vim",
       "url": "https://github.com/vim/vim",
       "description": "The official Vim repository",
-      "stars": 40969,
+      "stars": 40973,
       "starsToday": 14,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "andymass/vim-matchup": {
       "name": "vim-matchup",
@@ -43471,10 +43781,10 @@
       "owner": "morhetz",
       "url": "https://github.com/morhetz/gruvbox",
       "description": "Retro groove color scheme for Vim",
-      "stars": 15767,
+      "stars": 15768,
       "starsToday": 4,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "dhruvasagar/vim-table-mode": {
       "name": "vim-table-mode",
@@ -44083,10 +44393,10 @@
       "owner": "mikeroyal",
       "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
-      "stars": 22889,
+      "stars": 22890,
       "starsToday": 8,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "kagisearch/kagi-docs": {
       "name": "kagi-docs",
@@ -44133,10 +44443,10 @@
       "owner": "Gar-b-age",
       "url": "https://github.com/Gar-b-age/CookLikeHOC",
       "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
-      "stars": 24678,
+      "stars": 24681,
       "starsToday": 4,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "laradock/laradock": {
       "name": "laradock",
@@ -44203,10 +44513,10 @@
       "owner": "vulhub",
       "url": "https://github.com/vulhub/vulhub",
       "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
-      "stars": 21281,
-      "starsToday": 1,
+      "stars": 21289,
+      "starsToday": 5,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "autowarefoundation/autoware": {
       "name": "autoware",
@@ -44303,10 +44613,10 @@
       "owner": "goldbergyoni",
       "url": "https://github.com/goldbergyoni/nodebestpractices",
       "description": "✅ The Node.js best practices list (July 2026)",
-      "stars": 105634,
+      "stars": 105635,
       "starsToday": 6,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "render-examples/mysql": {
       "name": "mysql",
@@ -44625,10 +44935,10 @@
       "owner": "lyogavin",
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
-      "stars": 35057,
+      "stars": 35081,
       "starsToday": 106,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "microsoft/generative-ai-for-beginners": {
       "name": "generative-ai-for-beginners",
@@ -44645,20 +44955,20 @@
       "owner": "DataExpert-io",
       "url": "https://github.com/DataExpert-io/data-engineer-handbook",
       "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
-      "stars": 44245,
+      "stars": 44246,
       "starsToday": 15,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Infrasys-AI/AISystem": {
       "name": "AISystem",
       "owner": "Infrasys-AI",
       "url": "https://github.com/Infrasys-AI/AISystem",
       "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
-      "stars": 17862,
-      "starsToday": 7,
+      "stars": 17905,
+      "starsToday": 8,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "AI4Finance-Foundation/FinRL": {
       "name": "FinRL",
@@ -44755,10 +45065,10 @@
       "owner": "fastai",
       "url": "https://github.com/fastai/fastbook",
       "description": "The fastai book, published as Jupyter Notebooks",
-      "stars": 25340,
+      "stars": 25341,
       "starsToday": 12,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "langchain-ai/rag-from-scratch": {
       "name": "rag-from-scratch",
@@ -44775,30 +45085,30 @@
       "owner": "karpathy",
       "url": "https://github.com/karpathy/nn-zero-to-hero",
       "description": "Neural Networks: Zero to Hero",
-      "stars": 24554,
+      "stars": 24557,
       "starsToday": 13,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "udlbook/udlbook": {
       "name": "udlbook",
       "owner": "udlbook",
       "url": "https://github.com/udlbook/udlbook",
       "description": "Understanding Deep Learning - Simon J.D. Prince",
-      "stars": 9949,
-      "starsToday": 7,
+      "stars": 9950,
+      "starsToday": 1,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "AI4Finance-Foundation/FinGPT": {
       "name": "FinGPT",
       "owner": "AI4Finance-Foundation",
       "url": "https://github.com/AI4Finance-Foundation/FinGPT",
       "description": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.",
-      "stars": 21270,
-      "starsToday": 0,
+      "stars": 21295,
+      "starsToday": 2,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Lordog/dive-into-llms": {
       "name": "dive-into-llms",
@@ -44875,20 +45185,20 @@
       "owner": "Biohub",
       "url": "https://github.com/Biohub/esm",
       "description": "",
-      "stars": 2966,
-      "starsToday": 0,
+      "stars": 2978,
+      "starsToday": 1,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "GokuMohandas/Made-With-ML": {
       "name": "Made-With-ML",
       "owner": "GokuMohandas",
       "url": "https://github.com/GokuMohandas/Made-With-ML",
       "description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
-      "stars": 49577,
-      "starsToday": 18,
+      "stars": 49627,
+      "starsToday": 22,
       "addedAt": "2026-08-05T14:33:11.381Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "mrdbourke/pytorch-deep-learning": {
       "name": "pytorch-deep-learning",
@@ -45025,10 +45335,10 @@
       "owner": "NirDiamant",
       "url": "https://github.com/NirDiamant/GenAI_Agents",
       "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
-      "stars": 24285,
-      "starsToday": 13,
+      "stars": 24400,
+      "starsToday": 11,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-15T04:55:31.427Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "NirDiamant/agents-towards-production": {
       "name": "agents-towards-production",
@@ -45055,10 +45365,10 @@
       "owner": "DataTalksClub",
       "url": "https://github.com/DataTalksClub/llm-zoomcamp",
       "description": "LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base. Register here 👇🏼",
-      "stars": 7314,
-      "starsToday": 7,
+      "stars": 7353,
+      "starsToday": 6,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "langchain-ai/langchain-academy": {
       "name": "langchain-academy",
@@ -45415,10 +45725,10 @@
       "owner": "chiphuyen",
       "url": "https://github.com/chiphuyen/aie-book",
       "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
-      "stars": 17443,
-      "starsToday": 13,
+      "stars": 17563,
+      "starsToday": 7,
       "addedAt": "2026-08-12T13:47:42.384Z",
-      "lastSeenAt": "2026-09-15T04:55:31.427Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "unslothai/notebooks": {
       "name": "notebooks",
@@ -45989,6 +46299,16 @@
       "starsToday": 4,
       "addedAt": "2026-09-24T11:46:39.774Z",
       "lastSeenAt": "2026-09-25T04:58:12.934Z"
+    },
+    "harvardnlp/annotated-transformer": {
+      "name": "annotated-transformer",
+      "owner": "harvardnlp",
+      "url": "https://github.com/harvardnlp/annotated-transformer",
+      "description": "An annotated implementation of the Transformer paper.",
+      "stars": 7519,
+      "starsToday": 1,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "vue": {
@@ -46000,7 +46320,7 @@
       "stars": 446,
       "starsToday": 0,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "FreeTubeApp/FreeTube": {
       "name": "FreeTube",
@@ -46017,10 +46337,10 @@
       "owner": "keleus",
       "url": "https://github.com/keleus/BewlyCat",
       "description": "BewlyCat——基于BewlyBewly开发的Bilibili拓展",
-      "stars": 4308,
+      "stars": 4312,
       "starsToday": 7,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "FoggedLens/deflock": {
       "name": "deflock",
@@ -46037,10 +46357,10 @@
       "owner": "algerkong",
       "url": "https://github.com/algerkong/AlgerMusicPlayer",
       "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
-      "stars": 16829,
+      "stars": 16832,
       "starsToday": 10,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "vueComponent/ant-design-vue": {
       "name": "ant-design-vue",
@@ -46057,10 +46377,10 @@
       "owner": "ljxi",
       "url": "https://github.com/ljxi/Cloudflare-R2-oss",
       "description": "利用Cloudflare R2 + Workers搭建在线网盘",
-      "stars": 518,
-      "starsToday": 1,
+      "stars": 519,
+      "starsToday": 0,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "RLS-Modding/rls_career_overhaul": {
       "name": "rls_career_overhaul",
@@ -46120,7 +46440,7 @@
       "stars": 1926,
       "starsToday": 5,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "PanJiaChen/vue-element-admin": {
       "name": "vue-element-admin",
@@ -46137,10 +46457,10 @@
       "owner": "julyx10",
       "url": "https://github.com/julyx10/lap",
       "description": "An offline-first photo manager for large local libraries",
-      "stars": 3299,
+      "stars": 3329,
       "starsToday": 143,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "vbenjs/vue-vben-admin": {
       "name": "vue-vben-admin",
@@ -46187,20 +46507,20 @@
       "owner": "frappe",
       "url": "https://github.com/frappe/crm",
       "description": "Fully featured, open source CRM",
-      "stars": 3612,
+      "stars": 3613,
       "starsToday": 13,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "requarks/wiki": {
       "name": "wiki",
       "owner": "requarks",
       "url": "https://github.com/requarks/wiki",
       "description": "Wiki.js | Next Generation Open Source Wiki",
-      "stars": 28967,
-      "starsToday": 3,
+      "stars": 28975,
+      "starsToday": 7,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "VueTorrent/VueTorrent": {
       "name": "VueTorrent",
@@ -46297,10 +46617,10 @@
       "owner": "TeamPiped",
       "url": "https://github.com/TeamPiped/Piped",
       "description": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
-      "stars": 10264,
+      "stars": 10263,
       "starsToday": 5,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "hslr-s/sun-panel": {
       "name": "sun-panel",
@@ -46327,10 +46647,10 @@
       "owner": "miantiao-me",
       "url": "https://github.com/miantiao-me/Sink",
       "description": "⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.",
-      "stars": 7169,
+      "stars": 7170,
       "starsToday": 6,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "luckjiawei/frpc-desktop": {
       "name": "frpc-desktop",
@@ -46497,10 +46817,10 @@
       "owner": "qier222",
       "url": "https://github.com/qier222/YesPlayMusic",
       "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
-      "stars": 33328,
+      "stars": 33327,
       "starsToday": 9,
       "addedAt": "2026-08-08T13:12:53.850Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "x2rr/funds": {
       "name": "funds",
@@ -46680,7 +47000,7 @@
       "stars": 377,
       "starsToday": 1,
       "addedAt": "2026-08-16T13:01:27.083Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "zyronon/douyin": {
       "name": "douyin",
@@ -46927,10 +47247,10 @@
       "owner": "wrapper-offline",
       "url": "https://github.com/wrapper-offline/wrapper-offline",
       "description": "A project with the purpose of providing a way to use the Legacy Video Maker from GoAnimate / Vyond.",
-      "stars": 300,
-      "starsToday": 0,
+      "stars": 302,
+      "starsToday": 1,
       "addedAt": "2026-08-30T11:55:10.808Z",
-      "lastSeenAt": "2026-09-21T04:56:48.009Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "build-admin/buildadmin": {
       "name": "buildadmin",
@@ -46947,10 +47267,10 @@
       "owner": "1sdv",
       "url": "https://github.com/1sdv/TripStar",
       "description": "旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的各种问题，为提供一站式旅游攻略而生。",
-      "stars": 2327,
-      "starsToday": 6,
+      "stars": 2334,
+      "starsToday": 2,
       "addedAt": "2026-09-04T11:18:31.447Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "imsyy/home": {
       "name": "home",
@@ -47008,9 +47328,9 @@
       "url": "https://github.com/unovue/inspira-ui",
       "description": "Build beautiful website using Vue & Nuxt.",
       "stars": 5007,
-      "starsToday": 3,
+      "starsToday": 1,
       "addedAt": "2026-09-09T11:24:23.866Z",
-      "lastSeenAt": "2026-09-24T04:51:46.663Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Abdulqudus001/vue-skeleton-loader": {
       "name": "vue-skeleton-loader",
@@ -47027,10 +47347,10 @@
       "owner": "wu529778790",
       "url": "https://github.com/wu529778790/panhub.shenzjd.com",
       "description": "PanHub 网盘聚合搜索 · Netdisk Search Aggregator。一个搜索框聚合夸克/阿里云盘/百度/115/迅雷等网盘资源，多源聚合去重、智能排序、插件熔断隔离。零数据库轻量部署，支持 Docker / Vercel / Cloudflare。Aggregate netdisk links into one search.",
-      "stars": 1694,
+      "stars": 1695,
       "starsToday": 4,
       "addedAt": "2026-09-11T11:21:51.273Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "kodadot/nft-gallery": {
       "name": "nft-gallery",
@@ -47067,10 +47387,10 @@
       "owner": "MoeKoeMusic",
       "url": "https://github.com/MoeKoeMusic/MoeKoeMusic",
       "description": "一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux / Web",
-      "stars": 6371,
+      "stars": 6372,
       "starsToday": 11,
       "addedAt": "2026-09-19T20:40:57.889Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "henryzt/Rhythm-Plus-Music-Game": {
       "name": "Rhythm-Plus-Music-Game",
@@ -47097,10 +47417,10 @@
       "owner": "timeshiftsauce",
       "url": "https://github.com/timeshiftsauce/CeruMusic",
       "description": "Ceru Music 是基于 Electron 和 Vue 开发的跨平台桌面音乐播放器工具，借鉴洛雪音乐插件思想，提供插件运行框架与播放功能，不直接存储、提供任何音乐源文件。用户需通过自行选择、安装合规插件获取音乐相关数据，项目旨在为开发者提供桌面应用技术实践与学习案例，为用户提供合规的音乐播放工具框架。",
-      "stars": 1934,
-      "starsToday": 3,
+      "stars": 1942,
+      "starsToday": 1,
       "addedAt": "2026-09-24T11:46:39.774Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "svelte": {
@@ -47119,10 +47439,10 @@
       "owner": "imputnet",
       "url": "https://github.com/imputnet/cobalt",
       "description": "best way to save what you love",
-      "stars": 43738,
-      "starsToday": 47,
+      "stars": 43859,
+      "starsToday": 27,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "seanmorley15/AdventureLog": {
       "name": "AdventureLog",
@@ -47149,10 +47469,10 @@
       "owner": "VERT-sh",
       "url": "https://github.com/VERT-sh/VERT",
       "description": "The next-generation file converter. Open source, fully local* and free forever.",
-      "stars": 15649,
+      "stars": 15650,
       "starsToday": 7,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "open-webui/desktop": {
       "name": "desktop",
@@ -47162,7 +47482,7 @@
       "stars": 2829,
       "starsToday": 8,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "sveltejs/svelte.dev": {
       "name": "svelte.dev",
@@ -47192,7 +47512,7 @@
       "stars": 124,
       "starsToday": 0,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "satisfactorymodding/SatisfactoryModManager": {
       "name": "SatisfactoryModManager",
@@ -47439,10 +47759,10 @@
       "owner": "vaibhav-kakde-in",
       "url": "https://github.com/vaibhav-kakde-in/mdhero",
       "description": "A beautiful, native Markdown viewer and lightweight editor for macOS, Windows and Linux. ~8MB, free, open source.",
-      "stars": 178,
+      "stars": 179,
       "starsToday": 2,
       "addedAt": "2026-08-22T18:49:18.040Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "trakt/trakt-web": {
       "name": "trakt-web",
@@ -47559,10 +47879,10 @@
       "owner": "leaningtech",
       "url": "https://github.com/leaningtech/webvm",
       "description": "Virtual Machine for the Web",
-      "stars": 17406,
+      "stars": 17407,
       "starsToday": 2,
       "addedAt": "2026-09-23T11:37:37.988Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "knowald/ha-fusion": {
       "name": "ha-fusion",
@@ -47583,6 +47903,16 @@
       "starsToday": 0,
       "addedAt": "2026-09-26T04:58:47.871Z",
       "lastSeenAt": "2026-09-27T12:03:18.116Z"
+    },
+    "matt8707/ha-fusion": {
+      "name": "ha-fusion",
+      "owner": "matt8707",
+      "url": "https://github.com/matt8707/ha-fusion",
+      "description": "A modern, easy-to-use and performant custom Home Assistant dashboard",
+      "stars": 3019,
+      "starsToday": 2,
+      "addedAt": "2026-09-27T16:58:24.739Z",
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "assembly": {
@@ -47594,17 +47924,17 @@
       "stars": 4949,
       "starsToday": 6,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "pret/pokecrystal": {
       "name": "pokecrystal",
       "owner": "pret",
       "url": "https://github.com/pret/pokecrystal",
       "description": "Disassembly of Pokémon Crystal",
-      "stars": 2505,
+      "stars": 2507,
       "starsToday": 0,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-24T04:51:46.663Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "hiteshchoudhary/open-source-contribution": {
       "name": "open-source-contribution",
@@ -47621,10 +47951,10 @@
       "owner": "riscv",
       "url": "https://github.com/riscv/riscv-arch-test",
       "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
-      "stars": 792,
-      "starsToday": 0,
+      "stars": 793,
+      "starsToday": 1,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "aws/aws-lc": {
       "name": "aws-lc",
@@ -47671,10 +48001,10 @@
       "owner": "RibShark",
       "url": "https://github.com/RibShark/OmniDrive",
       "description": "",
-      "stars": 1157,
-      "starsToday": 1,
+      "stars": 1163,
+      "starsToday": 6,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "apple/swift-crypto": {
       "name": "swift-crypto",
@@ -47691,20 +48021,20 @@
       "owner": "Rangi42",
       "url": "https://github.com/Rangi42/polishedcrystal",
       "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
-      "stars": 1645,
+      "stars": 1647,
       "starsToday": 0,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "vxunderground/MalwareSourceCode": {
       "name": "MalwareSourceCode",
       "owner": "vxunderground",
       "url": "https://github.com/vxunderground/MalwareSourceCode",
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
-      "stars": 18751,
-      "starsToday": 4,
+      "stars": 18756,
+      "starsToday": 3,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "apple/swift-nio-ssl": {
       "name": "swift-nio-ssl",
@@ -47724,7 +48054,7 @@
       "stars": 11972,
       "starsToday": 3,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "openhwgroup/cva6": {
       "name": "cva6",
@@ -47761,10 +48091,10 @@
       "owner": "SheerSt",
       "url": "https://github.com/SheerSt/pokewilds",
       "description": "PokeWilds - A Gen 2 Game/Engine using libGDX",
-      "stars": 2897,
+      "stars": 2898,
       "starsToday": 1,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "lukechampine/blake3": {
       "name": "blake3",
@@ -47814,17 +48144,17 @@
       "stars": 439,
       "starsToday": 2,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "cemu-project/cemu_graphic_packs": {
       "name": "cemu_graphic_packs",
       "owner": "cemu-project",
       "url": "https://github.com/cemu-project/cemu_graphic_packs",
       "description": "Community Graphic Packs for Cemu",
-      "stars": 1474,
+      "stars": 1473,
       "starsToday": 0,
       "addedAt": "2026-08-04T11:17:44.857Z",
-      "lastSeenAt": "2026-09-22T04:56:57.634Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "livekit/rust-sdks": {
       "name": "rust-sdks",
@@ -47874,7 +48204,7 @@
       "stars": 1139,
       "starsToday": 1,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "riscv-software-src/riscv-tests": {
       "name": "riscv-tests",
@@ -47921,10 +48251,10 @@
       "owner": "kanaka",
       "url": "https://github.com/kanaka/mal",
       "description": "mal - Make a Lisp",
-      "stars": 10733,
+      "stars": 10738,
       "starsToday": 0,
       "addedAt": "2026-08-11T13:43:07.882Z",
-      "lastSeenAt": "2026-09-20T04:54:37.458Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "ucb-bar/saturn-vectors": {
       "name": "saturn-vectors",
@@ -47941,10 +48271,10 @@
       "owner": "pret",
       "url": "https://github.com/pret/pokeheartgold",
       "description": "Decompilation of Pokemon HeartGold/SoulSilver",
-      "stars": 589,
+      "stars": 598,
       "starsToday": 0,
       "addedAt": "2026-08-13T13:48:41.343Z",
-      "lastSeenAt": "2026-09-17T04:53:43.295Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "giaf/blasfeo": {
       "name": "blasfeo",
@@ -47984,7 +48314,7 @@
       "stars": 515,
       "starsToday": 0,
       "addedAt": "2026-08-22T01:50:29.710Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "joaorb64/smashremix-plus-extra": {
       "name": "smashremix-plus-extra",
@@ -48001,10 +48331,10 @@
       "owner": "pret",
       "url": "https://github.com/pret/pokediamond",
       "description": "Decompilation of Pokémon Diamond/Pearl",
-      "stars": 517,
-      "starsToday": 2,
+      "stars": 526,
+      "starsToday": 0,
       "addedAt": "2026-08-27T22:16:14.871Z",
-      "lastSeenAt": "2026-08-29T16:43:28.223Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "netwide-assembler/nasm": {
       "name": "nasm",
@@ -48126,7 +48456,7 @@
       "stars": 14486,
       "starsToday": 1,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "nim-lang/packages": {
       "name": "packages",
@@ -48225,10 +48555,10 @@
       "owner": "crystal-lang",
       "url": "https://github.com/crystal-lang/crystal",
       "description": "The Crystal Programming Language",
-      "stars": 20426,
+      "stars": 20428,
       "starsToday": 3,
       "addedAt": "2026-08-03T15:16:43.352Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "vitobotta/hetzner-k3s": {
       "name": "hetzner-k3s",
@@ -48350,7 +48680,7 @@
       "stars": 3118,
       "starsToday": 7,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "rocq-prover/rocq": {
       "name": "rocq",
@@ -48490,7 +48820,7 @@
       "stars": 367,
       "starsToday": 0,
       "addedAt": "2026-09-09T11:24:23.866Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     }
   },
   "f#": {
@@ -48509,10 +48839,10 @@
       "owner": "dotnet",
       "url": "https://github.com/dotnet/fsharp",
       "description": "The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio",
-      "stars": 4337,
-      "starsToday": 1,
+      "stars": 4340,
+      "starsToday": 3,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "dotnet/performance": {
       "name": "performance",
@@ -48541,40 +48871,40 @@
       "owner": "zhaoxuya520",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "stars": 38244,
+      "stars": 38303,
       "starsToday": 544,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "ChrisTitusTech/winutil": {
       "name": "winutil",
       "owner": "ChrisTitusTech",
       "url": "https://github.com/ChrisTitusTech/winutil",
       "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
-      "stars": 63239,
+      "stars": 63249,
       "starsToday": 59,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "actions/runner-images": {
       "name": "runner-images",
       "owner": "actions",
       "url": "https://github.com/actions/runner-images",
       "description": "GitHub Actions runner images",
-      "stars": 13372,
+      "stars": 13383,
       "starsToday": 166,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Raphire/Win11Debloat": {
       "name": "Win11Debloat",
       "owner": "Raphire",
       "url": "https://github.com/Raphire/Win11Debloat",
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "stars": 57565,
-      "starsToday": 28,
+      "stars": 57645,
+      "starsToday": 33,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-25T04:58:12.934Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "ScoopInstaller/Scoop": {
       "name": "Scoop",
@@ -48851,10 +49181,10 @@
       "owner": "mandiant",
       "url": "https://github.com/mandiant/flare-vm",
       "description": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
-      "stars": 9071,
+      "stars": 9072,
       "starsToday": 3,
       "addedAt": "2026-08-06T12:15:14.519Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "SpecterOps/BloodHound-Legacy": {
       "name": "BloodHound-Legacy",
@@ -48881,20 +49211,20 @@
       "owner": "microsoft",
       "url": "https://github.com/microsoft/WindowsDeveloperConfig",
       "description": "Automate the setup and configuration of your Windows development environment.",
-      "stars": 2301,
+      "stars": 2405,
       "starsToday": 36,
       "addedAt": "2026-08-07T13:39:42.756Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Micke-K/IntuneManagement": {
       "name": "IntuneManagement",
       "owner": "Micke-K",
       "url": "https://github.com/Micke-K/IntuneManagement",
       "description": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.",
-      "stars": 2078,
-      "starsToday": 1,
+      "stars": 2077,
+      "starsToday": 0,
       "addedAt": "2026-08-07T13:39:42.756Z",
-      "lastSeenAt": "2026-09-26T04:58:47.871Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "jenkinsci/docker": {
       "name": "docker",
@@ -49286,7 +49616,7 @@
       "stars": 239,
       "starsToday": 0,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "a16z/erc4626-tests": {
       "name": "erc4626-tests",
@@ -49296,7 +49626,7 @@
       "stars": 223,
       "starsToday": 0,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "foundry-rs/forge-std": {
       "name": "forge-std",
@@ -49313,10 +49643,10 @@
       "owner": "OpenZeppelin",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "stars": 27255,
+      "stars": 27254,
       "starsToday": 0,
       "addedAt": "2026-08-03T09:15:43.458Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "Arachnid/solidity-stringutils": {
       "name": "solidity-stringutils",
@@ -49786,7 +50116,7 @@
       "stars": 6797,
       "starsToday": 0,
       "addedAt": "2026-09-05T20:21:23.895Z",
-      "lastSeenAt": "2026-09-27T12:03:18.116Z"
+      "lastSeenAt": "2026-09-27T16:58:24.739Z"
     },
     "1inch/swap-vm": {
       "name": "swap-vm",
